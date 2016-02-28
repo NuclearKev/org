@@ -9,8 +9,8 @@
 <2016-02-28 Sun>
 *** TODO Learn about Qortek
 **** DONE Find Qortek
-*** TODO Review analog material [0/2]
-    - [ ] Filters
+*** TODO Review analog material [1/2]
+    - [X] Filters
     - [ ] Other Stuff
 
 
