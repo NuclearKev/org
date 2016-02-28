@@ -7,12 +7,11 @@
 * DONE Lab 7 due (test & meas)
 
 <2016-02-28 Sun>
-*** TODO Learn about Qortek
+*** DONE Learn about Qortek
 **** DONE Find Qortek
-*** TODO Review analog material [1/2]
+*** DONE Review analog material [2/2]
     - [X] Filters
-    - [ ] Other Stuff
-
+    - [X] Other Stuff
 
 <2016-03-01 Tue>
 *** TODO Midterm/Lab 8 (test & meas)
