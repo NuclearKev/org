@@ -1,4 +1,4 @@
-# Schedule
+# Schedule 
 
 * TODO Due Someday [0/1]
      - [ ] Loseless LC Lab
@@ -8,10 +8,11 @@
 
 <2016-02-28 Sun>
 *** TODO Learn about Qortek
+**** DONE Find Qortek
 *** TODO Review analog material [0/2]
     - [ ] Filters
     - [ ] Other Stuff
-**** TODO Find Qortek
+
 
 <2016-03-01 Tue>
 *** TODO Midterm/Lab 8 (test & meas)
