@@ -13,6 +13,11 @@
     - [X] Filters
     - [X] Other Stuff
 
+<2016-02-29 Mon>
+*** TODO Get resumes printed (6)
+*** TODO Make sure clothes are pressed
+*** TODO Mentally prepare!
+
 <2016-03-01 Tue>
 *** TODO Midterm/Lab 8 (test & meas)
 ***** TODO Interview at Qortek (4:30PM)
