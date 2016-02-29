@@ -22,6 +22,7 @@
 *** TODO Midterm/Lab 8 (test & meas)
 *** TODO Quiz on chapter 2 (control)
 ***** TODO Interview at Qortek (4:30PM)
+** TODO Short Assignment 7 due (ethics)
 
 <2016-03-02 Wed>
 * DONE Analog Homework due (done, not handed in!)
