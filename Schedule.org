@@ -3,9 +3,6 @@
 * TODO Due Someday [0/1]
      - [ ] Loseless LC Lab
        
-<2016-02-26 Fri>
-* DONE Lab 7 due (test & meas)
-
 <2016-02-28 Sun>
 *** DONE Learn about Qortek
 **** DONE Find Qortek
