@@ -1,6 +1,6 @@
 # Schedule 
 
-* TODO Due Someday [0/1]
+* TODO Due Someday [3/7]
      - [ ] Loseless LC Lab
        
 <2016-02-28 Sun>
@@ -13,7 +13,7 @@
 <2016-02-29 Mon>
 *** TODO Get resumes printed (6)
 *** TODO Make sure clothes are pressed
-*** TODO Mentally prepare!
+*** DONE Mentally prepare!
 
 <2016-03-01 Tue>
 *** TODO Midterm/Lab 8 (test & meas)
