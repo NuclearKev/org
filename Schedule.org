@@ -1,7 +1,7 @@
 # Schedule 
 
-* TODO Due Someday [3/7]
-     - [ ] Loseless LC Lab
+* TODO Due Someday [0/1]
+    - [ ] Loseless LC Lab
        
 <2016-02-28 Sun>
 *** DONE Learn about Qortek
@@ -11,9 +11,9 @@
     - [X] Other Stuff
 
 <2016-02-29 Mon>
-*** TODO Get resumes printed (6)
+*** DONE Get resumes printed (6)
 *** TODO Make sure clothes are pressed
-*** DONE Mentally prepare!
+*** TODO Mentally prepare!
 
 <2016-03-01 Tue>
 *** TODO Midterm/Lab 8 (test & meas)
@@ -22,7 +22,7 @@
 ** DONE Short Assignment 7 due (ethics)
 
 <2016-03-02 Wed>
-* DONE Analog Homework due (done, not handed in!)
+* TODO Analog Homework due (done, but not correct!)
 
 <2016-03-03 Thu>
 *** TODO Midterm/Lab 8 Part 2 (test & meas)
