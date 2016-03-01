@@ -12,7 +12,7 @@
 
 <2016-02-29 Mon>
 *** DONE Get resumes printed (6)
-*** TODO Make sure clothes are pressed
+*** DONE Make sure clothes are pressed
 *** DONE Mentally prepare!
 
 <2016-03-01 Tue>
