@@ -17,8 +17,10 @@
 
 <2016-03-04 Fri>
 *** TODO Quiz in analog
-** TODO Graded hw (control theory)
 *** TODO Quiz on chapter 2 (control)
 
 <2016-03-05 Sat>
 * Start of Spring Break!!
+
+<2016-03-14 Mon>
+** TODO Graded hw (control theory)
