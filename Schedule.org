@@ -13,11 +13,11 @@
 *** TODO Collect data from the test & meas midterm 
 
 <2016-03-03 Thu>
+*** TODO Quiz on chapter 2 (control)
 *** TODO Midterm/Lab 8 Part 2 (test & meas)
 
 <2016-03-04 Fri>
 *** TODO Quiz in analog
-*** TODO Quiz on chapter 2 (control)
 
 <2016-03-05 Sat>
 * Start of Spring Break!!
