@@ -3,18 +3,6 @@
 * TODO Due Someday [6/7]
     - [ ] Loseless LC Lab
        
-<2016-02-28 Sun>
-*** DONE Learn about Qortek
-**** DONE Find Qortek
-*** DONE Review analog material [2/2]
-    - [X] Filters
-    - [X] Other Stuff
-
-<2016-02-29 Mon>
-*** DONE Get resumes printed (6)
-*** DONE Make sure clothes are pressed
-*** DONE Mentally prepare!
-
 <2016-03-01 Tue>
 *** DONE Midterm/Lab 8 (test & meas)
 ***** DONE Interview at Qortek (4:30PM)
