@@ -14,7 +14,7 @@
 
 <2016-03-03 Thu>
 *** TODO Quiz on chapter 2 (control)
-*** TODO Midterm/Lab 8 Part 2 (test & meas)
+*** DONE Midterm/Lab 8 Part 2 (test & meas)
 
 <2016-03-04 Fri>
 *** TODO Quiz in analog
