@@ -12,7 +12,7 @@
 *** DONE Midterm/Lab 8 Part 2 (test & meas)
 
 <2016-03-04 Fri>
-*** TODO Quiz in analog
+*** DONE Quiz in analog
 
 <2016-03-05 Sat>
 * Start of Spring Break!!
