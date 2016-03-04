@@ -18,7 +18,7 @@
 * Start of Spring Break!!
 
 <2016-03-08 Tue>
-* TODO Talk to Lorson's class (8AM)
+* TODO Talk to Lorson's class (10:30AM)
 
 <2016-03-14 Mon>
 ** TODO Graded hw (control theory)
