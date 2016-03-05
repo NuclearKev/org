@@ -3,19 +3,11 @@
 * TODO Due Someday [6/7]
     - [ ] Loseless LC Lab
        
-<2016-03-02 Wed>
-* DONE Analog Homework due (done, but not correct!)
-*** DONE Collect data from the test & meas midterm 
-
-<2016-03-03 Thu>
-*** DONE Quiz on chapter 2 (control)
-*** DONE Midterm/Lab 8 Part 2 (test & meas)
-
-<2016-03-04 Fri>
-*** DONE Quiz in analog
-
 <2016-03-05 Sat>
 * Start of Spring Break!!
+
+<2016-03-07 Mon>
+* Bowling with Bron, Cel, and Doug! (like 9PM)
 
 <2016-03-08 Tue>
 * TODO Talk to Lorson's class (10:30AM)
