@@ -19,4 +19,4 @@
 ** TODO Graded hw (control theory)
 
 <2016-04-22 Fri>
-**** TODO Control Theory Presenation
+**** TODO Control Theory Presentation
