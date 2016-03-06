@@ -1,6 +1,6 @@
 # Schedule 
 
-* TODO Due Someday [6/7]
+* TODO Due Someday [0/1]
     - [ ] Loseless LC Lab
        
 <2016-03-05 Sat>
@@ -11,6 +11,9 @@
 
 <2016-03-08 Tue>
 * TODO Talk to Lorson's class (10:30AM)
+
+<2016-03-09 Wed>
+* Help dad with the plywood
 
 <2016-03-14 Mon>
 ** TODO Graded hw (control theory)
