@@ -4,9 +4,11 @@
     - [ ] Loseless LC Lab
        
 <2016-03-09 Wed>
-* Help dad with the plywood
 ** Plan another date with Colby :)
 *** Train Phoebe
+
+<2016-03-10 Thu>
+* Help dad with the plywood
 
 <2016-03-14 Mon>
 ** TODO Graded hw (control theory)
