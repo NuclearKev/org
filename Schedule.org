@@ -1,11 +1,5 @@
 # Schedule 
 
-* TODO Due Someday
-    - [ ] Loseless LC Lab
-       
-<2016-03-14 Mon>
-** DONE Graded hw (control theory)
-
 <2016-03-15 Tue>
 ** TODO Quiz on chapter 3 (control)
 
@@ -13,8 +7,12 @@
 *** Possibly going to Weaver's with Colby
 
 <2016-03-18 Fri>
-*** TODO 2nd Formal Paper Due (ethics) [good to go, needs handed in!]
+**** TODO Finish the hands-on part to the Loseless lab (analog)
+*** DONE 2nd Formal Paper Due (ethics)
 ** TODO Lab 9 due (test & meas)
+
+<2016-03-28 Mon>
+**** TODO Loseless LC Report Due (analog)
 
 <2016-03-25 Fri>
 ** TODO Lab 10 due (test & meas)
