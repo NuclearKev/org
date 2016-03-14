@@ -4,7 +4,7 @@
     - [ ] Loseless LC Lab
        
 <2016-03-14 Mon>
-** TODO Graded hw (control theory)
+** DONE Graded hw (control theory)
 
 <2016-03-16 Wed>
 *** Possibly going to Weaver's with Colby
