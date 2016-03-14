@@ -6,6 +6,9 @@
 <2016-03-14 Mon>
 ** DONE Graded hw (control theory)
 
+<2016-03-15 Tue>
+** TODO Quiz on chapter 3 (control)
+
 <2016-03-16 Wed>
 *** Possibly going to Weaver's with Colby
 
