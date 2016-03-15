@@ -1,12 +1,5 @@
 # Schedule 
 
-<2016-03-15 Tue>
-** TODO Quiz on chapter 3 (control)
-* Try and have all data for lab 9
-
-<2016-03-16 Wed>
-*** Possibly going to Weaver's with Colby
-
 <2016-03-18 Fri>
 **** TODO Finish the hands-on part to the Loseless lab (analog)
 *** DONE 2nd Formal Paper Due (ethics)
