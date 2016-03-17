@@ -5,14 +5,15 @@
 *** DONE 2nd Formal Paper Due (ethics)
 ** TODO Lab 9 due (test & meas)
 
-<2016-03-28 Mon>
-**** TODO Loseless LC Report Due (analog)
-
 <2016-03-25 Fri>
 ** TODO Lab 10 due (test & meas)
 
+<2016-03-28 Mon>
+* TODO Short assignment 8
+**** TODO Loseless LC Report Due (analog)
+
 <2016-03-31 Thu>
-* TODO Short assignment 9? due (we skipped 8, I guess)
+* TODO Short assignment 9 due
 
 <2016-04-01 Fri>
 ** TODO Lab 11 due (test & meas)
