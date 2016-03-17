@@ -22,7 +22,7 @@
 *** TODO 3rd Formal Paper due (ethics)
 
 <2016-04-22 Fri>
-**** TODO Control Theory Presentation
+**** TODO Control Theory Presentation (might be earlier....)
 
 <2016-04-29 Fri>
 *** TODO 4th Formal Paper Due (ethics)
