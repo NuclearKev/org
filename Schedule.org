@@ -3,7 +3,7 @@
 <2016-03-18 Fri>
 **** TODO Finish the hands-on part to the Loseless lab (analog)
 *** DONE 2nd Formal Paper Due (ethics)
-** TODO Lab 9 due (test & meas)
+** DONE Lab 9 due (test & meas)
 
 <2016-03-22 Tue>
 ************ TODO Get resume ready for Google!
