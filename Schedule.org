@@ -1,12 +1,12 @@
 # Schedule 
 
 <2016-03-18 Fri>
-**** TODO Finish the hands-on part to the Loseless lab (analog)
+**** TODO Finish the hands-on part to the Loseless lab (analog) [OVERDUE]
 *** DONE 2nd Formal Paper Due (ethics)
 ** DONE Lab 9 due (test & meas)
 
 <2016-03-22 Tue>
-************ TODO Send resume for google
+************ DONE Send resume for google
 
 <2016-03-25 Fri>
 ** TODO Lab 10 due (test & meas)
