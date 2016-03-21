@@ -6,7 +6,7 @@
 ** DONE Lab 9 due (test & meas)
 
 <2016-03-22 Tue>
-************ DONE Send resume for google
+************ TODO FIX resume for google
 
 <2016-03-23 Wed>
 * TODO control theory HW
