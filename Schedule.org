@@ -8,6 +8,9 @@
 <2016-03-22 Tue>
 ************ DONE Send resume for google
 
+<2016-03-23 Wed>
+* TODO control theory HW
+
 <2016-03-25 Fri>
 * TODO Analog HW
 ** TODO Lab 10 due (test & meas)
