@@ -9,7 +9,7 @@
 ************ DONE FIX resume for google
 
 <2016-03-23 Wed>
-* TODO control theory HW
+* DONE control theory HW
 
 <2016-03-25 Fri>
 * TODO Analog HW
