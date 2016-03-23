@@ -15,7 +15,7 @@
 ** TODO Quiz on chapter 5 (control)
 
 <2016-03-25 Fri>
-* TODO Analog HW
+* DONE Analog HW (needs handed in)
 ** TODO Lab 10 due (test & meas)
 
 <2016-03-28 Mon>
