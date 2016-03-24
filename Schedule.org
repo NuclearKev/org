@@ -12,7 +12,7 @@
 * DONE control theory HW
 
 <2016-03-24 Thu>
-** TODO Quiz on chapter 5 (control)
+** DONE Quiz on chapter 5 (control)
 
 <2016-03-25 Fri>
 * DONE Analog HW (needs handed in)
