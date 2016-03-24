@@ -17,6 +17,7 @@
 <2016-03-25 Fri>
 * DONE Analog HW (needs handed in)
 ** TODO Lab 10 due (test & meas)
+**** TODO Control Theory Presentation
 
 <2016-03-28 Mon>
 * DONE Short assignment 8
@@ -29,10 +30,21 @@
 <2016-04-01 Fri>
 ** TODO Lab 11 due (test & meas)
 
+<2016-04-04 Mon>
+**** TODO Constant Current Source Lab due
+
+<2016-04-06 Wed>
+***** TODO Analog Library Project Due 
+
 <2016-04-08 Fri>
 ** TODO Lab 12 due (test & meas)
 *** TODO 3rd Formal Paper due (ethics)
-**** TODO Control Theory Presentation
+
+<2016-04-27 Wed>
+**** TODO Active Filter Lab due
 
 <2016-04-29 Fri>
 *** TODO 4th Formal Paper Due (ethics)
+
+<2016-05-02 Mon>
+****** TODO Control Theory Final Project Presentation
