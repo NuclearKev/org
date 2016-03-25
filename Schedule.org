@@ -16,8 +16,8 @@
 
 <2016-03-25 Fri>
 * DONE Analog HW (needs handed in)
-** TODO Lab 10 due (test & meas)
-**** TODO Control Theory Presentation
+** DONE Lab 10 due (test & meas)
+**** DONE Control Theory Presentation
 
 <2016-03-28 Mon>
 * DONE Short assignment 8
