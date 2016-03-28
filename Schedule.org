@@ -1,31 +1,13 @@
 # Schedule 
 
-<2016-03-18 Fri>
-**** TODO Finish the hands-on part to the Loseless lab (analog) [OVERDUE]
-*** DONE 2nd Formal Paper Due (ethics)
-** DONE Lab 9 due (test & meas)
-
-<2016-03-22 Tue>
-************ DONE FIX resume for google
-
-<2016-03-23 Wed>
-* DONE control theory HW
-
-<2016-03-24 Thu>
-** DONE Quiz on chapter 5 (control)
-
-<2016-03-25 Fri>
-* DONE Analog HW (needs handed in)
-** DONE Lab 10 due (test & meas)
-**** DONE Control Theory Presentation
-
 <2016-03-28 Mon>
 * DONE Short assignment 8
 ****** TODO (NOON) Schedule for classes (NOON)
-**** TODO Loseless LC Report Due (analog)
+**** DONE Loseless LC Report Due (analog)
 
 <2016-03-31 Thu>
 * DONE Short assignment 9 due
+*** TODO Go to google thing [3:30PM]
 
 <2016-04-01 Fri>
 ** TODO Lab 11 due (test & meas)
