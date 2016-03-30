@@ -2,7 +2,7 @@
 
 <2016-03-28 Mon>
 * DONE Short assignment 8
-****** TODO (NOON) Schedule for classes (NOON)
+****** DONE (NOON) Schedule for classes (NOON)
 **** DONE Loseless LC Report Due (analog)
 
 <2016-03-31 Thu>
@@ -10,6 +10,7 @@
 *** TODO Go to google thing [3:30PM]
 
 <2016-04-01 Fri>
+* TODO Analog HW
 ** TODO Lab 11 due (test & meas)
 
 <2016-04-04 Mon>
