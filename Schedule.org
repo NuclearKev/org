@@ -21,7 +21,7 @@
 
 <2016-04-08 Fri>
 ** TODO Lab 12 due (test & meas)
-*** TODO 3rd Formal Paper due (ethics)
+*** DONE 3rd Formal Paper due (ethics)
 
 <2016-04-27 Wed>
 **** TODO Active Filter Lab due
