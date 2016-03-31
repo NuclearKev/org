@@ -7,14 +7,18 @@
 
 <2016-03-31 Thu>
 * DONE Short assignment 9 due
-*** TODO Go to google thing [3:30PM]
+*** DONE Go to google thing [3:30PM]
 
 <2016-04-01 Fri>
-* TODO Analog HW
+* DONE Analog HW
 ** TODO Lab 11 due (test & meas)
 
 <2016-04-04 Mon>
+* TODO Control theory HW
 **** TODO Constant Current Source Lab due
+
+<2016-04-05 Tue>
+** TODO Control Theory Quiz
 
 <2016-04-06 Wed>
 ***** TODO Analog Library Project Due 
