@@ -11,10 +11,10 @@
 
 <2016-04-01 Fri>
 * DONE Analog HW
-** TODO Lab 11 due (test & meas)
+** DONE Lab 11 due (test & meas)
 
 <2016-04-04 Mon>
-* TODO Control theory HW
+* DONE Control theory HW
 **** TODO Constant Current Source Lab due
 
 <2016-04-05 Tue>
