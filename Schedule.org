@@ -14,8 +14,8 @@
 ** DONE Lab 11 due (test & meas)
 
 <2016-04-04 Mon>
-* DONE Control theory HW
-**** TODO Constant Current Source Lab due
+* TODO Control theory HW
+**** TODO Constant Current Source Lab due [written, needs proof read]
 
 <2016-04-05 Tue>
 ** TODO Control Theory Quiz
