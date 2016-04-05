@@ -27,7 +27,7 @@
 ** TODO Lab 12 due (test & meas)
 *** DONE 3rd Formal Paper due (ethics)
 
-<2016-04-11 Mon>
+<2016-04-19 Thu>
 *** TODO Presentation on Essay 3 (ethics)
 
 <2016-04-27 Wed>
