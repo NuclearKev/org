@@ -18,7 +18,7 @@
 **** DONE Constant Current Source Lab due 
 
 <2016-04-05 Tue>
-** TODO Control Theory Quiz
+** DONE Control Theory Quiz
 
 <2016-04-06 Wed>
 ***** TODO Analog Library Project Due 
@@ -26,6 +26,9 @@
 <2016-04-08 Fri>
 ** TODO Lab 12 due (test & meas)
 *** DONE 3rd Formal Paper due (ethics)
+
+<2016-04-11 Mon>
+*** TODO Presentation on Essay 3 (ethics)
 
 <2016-04-27 Wed>
 **** TODO Active Filter Lab due
