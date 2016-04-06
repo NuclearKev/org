@@ -1,18 +1,5 @@
 # Schedule 
 
-<2016-03-28 Mon>
-* DONE Short assignment 8
-****** DONE (NOON) Schedule for classes (NOON)
-**** DONE Loseless LC Report Due (analog)
-
-<2016-03-31 Thu>
-* DONE Short assignment 9 due
-*** DONE Go to google thing [3:30PM]
-
-<2016-04-01 Fri>
-* DONE Analog HW
-** DONE Lab 11 due (test & meas)
-
 <2016-04-04 Mon>
 * DONE Control theory HW
 **** DONE Constant Current Source Lab due 
@@ -20,14 +7,14 @@
 <2016-04-05 Tue>
 ** DONE Control Theory Quiz
 
-<2016-04-06 Wed>
+<2016-04-08 Fri>
+*** DONE 3rd Formal Paper due (ethics)
 ***** TODO Analog Library Project Due 
 
-<2016-04-08 Fri>
+<2016-04-15 Fri>
 ** TODO Lab 12 due (test & meas)
-*** DONE 3rd Formal Paper due (ethics)
 
-<2016-04-19 Thu>
+<2016-04-19 Tue>
 *** TODO Presentation on Essay 3 (ethics)
 
 <2016-04-27 Wed>
@@ -38,3 +25,7 @@
 
 <2016-05-02 Mon>
 ****** TODO Control Theory Final Project Presentation
+
+* Due someday
+  - Essay on control theory presentation
+  - Essay on control theory midterm
