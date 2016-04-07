@@ -27,5 +27,4 @@
 ****** TODO Control Theory Final Project Presentation
 
 * Due someday
-  - Essay on control theory presentation
   - Essay on control theory midterm
