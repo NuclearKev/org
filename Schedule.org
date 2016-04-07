@@ -9,7 +9,7 @@
 
 <2016-04-08 Fri>
 *** DONE 3rd Formal Paper due (ethics)
-***** TODO Analog Library Project Due 
+***** TODO Analog Library Project Due (jonny needs to proof read, handed in)
 
 <2016-04-15 Fri>
 ** TODO Lab 12 due (test & meas)
