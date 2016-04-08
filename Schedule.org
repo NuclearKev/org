@@ -24,7 +24,20 @@
 *** TODO 4th Formal Paper Due (ethics)
 
 <2016-05-02 Mon>
-****** TODO Control Theory Final Project Presentation
+****** TODO Control Theory Final Project Presentation (8AM)
+****** TODO Analog Lab Final (11AM)
+
+<2016-05-03 Tue>
+****** TODO Ethics Final Time (2PM)
+
+<2016-05-04 Wed>
+****** TODO Analog Theory Final (8AM)
+
+<2016-05-05 Thu>
+****** TODO Test and Meas Lab Final Time (8AM)
+
+<2016-05-06 Fri>
+****** TODO Test and Meas Final Time (2PM)
 
 * Due someday
   - Essay on control theory midterm
