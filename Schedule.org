@@ -17,11 +17,15 @@
 <2016-04-19 Tue>
 *** TODO Presentation on Essay 3 (ethics)
 
+<2016-04-22 Fri>
+** TODO Update on Final Project Presentation (test and meas)
+
 <2016-04-27 Wed>
 **** TODO Active Filter Lab due
 
 <2016-04-29 Fri>
 *** TODO 4th Formal Paper Due (ethics)
+** TODO Second Update on Final Project Presentation (test and meas)
 
 <2016-05-02 Mon>
 ****** TODO Control Theory Final Project Presentation (8AM)
