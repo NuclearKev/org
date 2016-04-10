@@ -1,16 +1,5 @@
 # Schedule 
 
-<2016-04-04 Mon>
-* DONE Control theory HW
-**** DONE Constant Current Source Lab due 
-
-<2016-04-05 Tue>
-** DONE Control Theory Quiz
-
-<2016-04-08 Fri>
-*** DONE 3rd Formal Paper due (ethics)
-***** DONE Analog Library Project Due
-
 <2016-04-15 Fri>
 ** TODO Lab 12 due (test & meas)
 
