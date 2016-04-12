@@ -9,6 +9,9 @@
 <2016-04-22 Fri>
 ** TODO Update on Final Project Presentation (test and meas) [2:12-2:20]
 
+<2016-04-25 Mon>
+*** TODO Analog Theory Final Project due w/ presentation
+
 <2016-04-27 Wed>
 **** TODO Active Filter Lab due
 
