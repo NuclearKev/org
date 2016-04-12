@@ -4,7 +4,7 @@
 ** TODO Lab 12 due (test & meas)
 
 <2016-04-19 Tue>
-*** TODO Presentation on Essay 3 (ethics)
+*** TODO Presentation on Essay 3 (ethics) [presentation made, needs rehearsed]
 
 <2016-04-22 Fri>
 ** TODO Update on Final Project Presentation (test and meas) [2:12-2:20]
