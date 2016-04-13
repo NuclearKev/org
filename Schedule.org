@@ -16,7 +16,7 @@
 **** TODO Active Filter Lab due
 
 <2016-04-29 Fri>
-*** TODO 4th Formal Paper Due (ethics) [written, needs proof read]
+*** DONE 4th Formal Paper Due (ethics)
 ** TODO Second Update on Final Project Presentation (test and meas) [3:24-3:32]
 
 <2016-05-02 Mon>
