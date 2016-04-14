@@ -19,6 +19,9 @@
 *** DONE 4th Formal Paper Due (ethics)
 ** TODO Second Update on Final Project Presentation (test and meas) [3:24-3:32]
 
+<2016-05-01 Sun>
+**** TODO Apply for th FSF internship
+
 <2016-05-02 Mon>
 ****** TODO Control Theory Final Project Presentation (8AM)
 ****** TODO Analog Lab Final (11AM)
