@@ -1,7 +1,7 @@
 # Schedule 
 
 <2016-04-19 Tue>
-*** TODO Presentation on Essay 3 (ethics) [presentation made, needs rehearsed]
+*** DONE Presentation on Essay 3 (ethics) [presentation made, needs rehearsed]
 
 <2016-04-22 Fri>
 * TODO Analog hw
