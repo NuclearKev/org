@@ -5,20 +5,21 @@
 
 <2016-04-22 Fri>
 * TODO Analog hw
+* TODO Control Theory hw
 ** TODO Update on Final Project Presentation (test and meas) [2:12-2:20]
 
 <2016-04-25 Mon>
 *** TODO Analog Theory Final Project due w/ presentation
 
 <2016-04-27 Wed>
-**** TODO Active Filter Lab due
+**** DONE Active Filter Lab due
 
 <2016-04-29 Fri>
 *** DONE 4th Formal Paper Due (ethics)
 ** TODO Second Update on Final Project Presentation (test and meas) [3:24-3:32]
 
 <2016-05-01 Sun>
-**** TODO Apply for th FSF internship
+**** TODO Apply for the FSF internship
 
 <2016-05-02 Mon>
 ****** TODO Control Theory Final Project Presentation (8AM)
