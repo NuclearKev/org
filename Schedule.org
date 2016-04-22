@@ -4,8 +4,8 @@
 *** DONE Presentation on Essay 3 (ethics) [presentation made, needs rehearsed]
 
 <2016-04-22 Fri>
-* TODO Analog hw
-* TODO Control Theory hw
+* DONE Analog hw
+* DONE Control Theory hw
 ** TODO Update on Final Project Presentation (test and meas) [2:12-2:20]
 
 <2016-04-25 Mon>
