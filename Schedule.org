@@ -8,14 +8,13 @@
 * DONE Control Theory hw
 ** TODO Update on Final Project Presentation (test and meas) [2:12-2:20]
 
-<2016-04-25 Mon>
-*** TODO Analog Theory Final Project due w/ presentation
-
 <2016-04-27 Wed>
 **** DONE Active Filter Lab due
+*** TODO Analog Theory Final Project due w/ presentation
 
 <2016-04-29 Fri>
 *** DONE 4th Formal Paper Due (ethics)
+*** TODO Report for the analog theory project due
 ** TODO Second Update on Final Project Presentation (test and meas) [3:24-3:32]
 
 <2016-05-01 Sun>
