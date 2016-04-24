@@ -6,7 +6,7 @@
 <2016-04-22 Fri>
 * DONE Analog hw
 * DONE Control Theory hw
-** TODO Update on Final Project Presentation (test and meas) [2:12-2:20]
+** DONE Update on Final Project Presentation (test and meas) [2:12-2:20]
 
 <2016-04-27 Wed>
 **** DONE Active Filter Lab due
