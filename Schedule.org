@@ -10,7 +10,7 @@
 
 <2016-04-27 Wed>
 **** DONE Active Filter Lab due
-*** TODO Analog Theory Final Project due w/ presentation
+*** DONE Analog Theory Final Project due w/ presentation
 
 <2016-04-29 Fri>
 *** DONE 4th Formal Paper Due (ethics)
