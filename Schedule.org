@@ -1,37 +1,20 @@
 # Schedule 
 
-<2016-04-19 Tue>
-*** DONE Presentation on Essay 3 (ethics) [presentation made, needs rehearsed]
-
-<2016-04-22 Fri>
-* DONE Analog hw
-* DONE Control Theory hw
-** DONE Update on Final Project Presentation (test and meas) [2:12-2:20]
-
-<2016-04-27 Wed>
-**** DONE Active Filter Lab due
-*** DONE Analog Theory Final Project due w/ presentation
-
-<2016-04-29 Fri>
-*** DONE 4th Formal Paper Due (ethics)
-*** DONE Report for the analog theory project due
-** DONE Second Update on Final Project Presentation (test and meas) [3:24-3:32]
-
 <2016-05-02 Mon>
-****** TODO Control Theory Final Project Presentation (8AM)
-****** TODO Analog Lab Final (11AM)
+* TODO Control Theory Final Project Presentation (8AM)
+* TODO Analog Lab Final (11AM)
 
 <2016-05-03 Tue>
-****** TODO Ethics Final Time (2PM)
+* TODO Ethics Final Time (2PM)
 
 <2016-05-04 Wed>
-****** TODO Analog Theory Final (8AM)
+* TODO Analog Theory Final (8AM)
 
 <2016-05-05 Thu>
-****** TODO Test and Meas Lab Final Time (8AM)
+* TODO Test and Meas Lab Final Time (8AM)
 
 <2016-05-06 Fri>
-****** TODO Test and Meas Final Time (2PM) [2:20-2:28]
+* TODO Test and Meas Final Time (2PM) [2:20-2:28]
 
 ** Due someday [0/2]
    - [ ] Control theory project
