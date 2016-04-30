@@ -14,11 +14,8 @@
 
 <2016-04-29 Fri>
 *** DONE 4th Formal Paper Due (ethics)
-*** TODO Report for the analog theory project due
-** TODO Second Update on Final Project Presentation (test and meas) [3:24-3:32]
-
-<2016-05-01 Sun>
-**** TODO Apply for the FSF internship
+*** DONE Report for the analog theory project due
+** DONE Second Update on Final Project Presentation (test and meas) [3:24-3:32]
 
 <2016-05-02 Mon>
 ****** TODO Control Theory Final Project Presentation (8AM)
@@ -35,3 +32,13 @@
 
 <2016-05-06 Fri>
 ****** TODO Test and Meas Final Time (2PM) [2:20-2:28]
+
+** Due someday [0/2]
+   - [ ] Control theory project
+   - [ ] Control theory presentation paper
+
+<2016-05-07 Sat>
+* TODO Celebrate Bron & Cel graduation [all day]
+  - Graduation @ Lyco [2pm]
+  - Bron's party @ her house [6pm]
+  - Drinks
