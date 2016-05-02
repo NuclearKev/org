@@ -17,12 +17,15 @@
 <2016-05-06 Fri>
 * TODO Test and Meas Final Time (2PM) [2:20-2:28]
 
-** Due someday [1/2]
+** Due someday [2/2]
    - [X] Control theory project
-   - [ ] Control theory presentation paper
+   - [X] Control theory presentation paper
 
 <2016-05-07 Sat>
 * TODO Celebrate Bron & Cel graduation [all day]
   - Graduation @ Lyco [2pm]
   - Bron's party @ her house [6pm]
   - Drinks
+
+<2016-05-09 Mon>
+* TODO Apply to RallyAll
