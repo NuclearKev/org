@@ -1,11 +1,11 @@
 # Schedule 
 
 <2016-05-02 Mon>
-* TODO Control Theory Final Project Presentation (8AM)
-* TODO Analog Lab Final (11AM)
+* DONE Control Theory Final Project Presentation (8AM)
+* DONE Analog Lab Final (11AM)
 
 <2016-05-03 Tue>
-* TODO Ethics Final Time (2PM)
+* DONE Ethics Final Time (2PM)
 ** TODO Make formula sheet for Analog 
 
 <2016-05-04 Wed>
@@ -17,8 +17,8 @@
 <2016-05-06 Fri>
 * TODO Test and Meas Final Time (2PM) [2:20-2:28]
 
-** Due someday [0/2]
-   - [ ] Control theory project
+** Due someday [1/2]
+   - [X] Control theory project
    - [ ] Control theory presentation paper
 
 <2016-05-07 Sat>
