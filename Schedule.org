@@ -9,7 +9,7 @@
 ** DONE Make formula sheet for Analog 
 
 <2016-05-04 Wed>
-* TODO Analog Theory Final (8AM)
+* DONE Analog Theory Final (8AM)
 
 <2016-05-05 Thu>
 * TODO Test and Meas Lab Final Time (8AM)
