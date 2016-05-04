@@ -6,7 +6,7 @@
 
 <2016-05-03 Tue>
 * DONE Ethics Final Time (2PM)
-** TODO Make formula sheet for Analog 
+** DONE Make formula sheet for Analog 
 
 <2016-05-04 Wed>
 * TODO Analog Theory Final (8AM)
@@ -16,6 +16,7 @@
 
 <2016-05-06 Fri>
 * TODO Test and Meas Final Time (2PM) [2:20-2:28]
+* TODO Final notebook due [5pm]
 
 ** Due someday [2/2]
    - [X] Control theory project
@@ -31,5 +32,5 @@
 * TODO Apply to RallyAll
 
 
-* TODO Get mom's birthday present!
-* TODO Get Megan's birthday present
+* TODO Get mom's birthday present! [ordered, waiting]
+* TODO Get Megan's birthday present [ordered, waiting]
