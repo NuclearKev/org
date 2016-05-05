@@ -12,7 +12,7 @@
 * DONE Analog Theory Final (8AM)
 
 <2016-05-05 Thu>
-* TODO Test and Meas Lab Final Time (8AM)
+* DONE Test and Meas Lab Final Time (8AM)
 
 <2016-05-06 Fri>
 * TODO Test and Meas Final Time (2PM) [2:20-2:28]
