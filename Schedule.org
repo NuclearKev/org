@@ -25,7 +25,7 @@
 	SCHEDULED: <2016-05-10 Tue>
 	:PROPERTIES:
 	:Cost:     $100-$500
-	:DropOffTime: <2016-05-09 Mon 19:00>
+	:Drop-off-Time: <2016-05-09 Mon 19:00>
 	:END:
 	- Inspection
 	- Oil Change
@@ -35,7 +35,7 @@
 
 * Celebrate Bron & Cel's graduation																	:friends:
 	SCHEDULED: <2016-05-07 Sat>
-** Graduation Ceremony
+** CANCELED Graduation Ceremony
 	 SCHEDULED: 2:00PM
 	 :PROPERTIES:
 	 :LOCATION: Lyco
