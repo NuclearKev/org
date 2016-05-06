@@ -1,10 +1,31 @@
-# Schedule
+#+Title: Schedule
+# Common Tags: family, school, friends, job, car
 
-* TODO Take care to the shop																						:car:
+* CURRENT Birthday Presents																					 :family:
+** Mom's Present
+	 :PROPERTIES:
+	 :Status:   Shipped!
+	 :END:
+** Megan's Present
+	 :PROPERTIES:
+	 :Status:   Ordered
+	 :END:
+
+
+* TODO Give final presentation																			 :school:
+	 SCHEDULED: <2016-05-06 Fri 14:00-17:00>
+	:PROPERTIES:
+	:Number-of-Fucks: 0
+	:Present-Time: 15:20-15:28
+	:END:
+
+
+* TODO Take car to the shop 																						:car:
 	DEADLINE: <2016-05-31 Tue>
-	SCHEDULED:
+	SCHEDULED: <2016-05-10 Tue>
 	:PROPERTIES:
 	:Cost:     $100-$500
+	:DropOffTime: <2016-05-09 Mon 19:00>
 	:END:
 	- Inspection
 	- Oil Change
@@ -15,13 +36,13 @@
 * Celebrate Bron & Cel's graduation																	:friends:
 	SCHEDULED: <2016-05-07 Sat>
 ** Graduation Ceremony
-	 SCHEDULED: <2:00PM>
+	 SCHEDULED: 2:00PM
 	 :PROPERTIES:
 	 :LOCATION: Lyco
 	 :END:
 ** Bron's Party
-	 SCHEDULED: <6:00PM>
-	 :PROPERTIES:
+	 SCHEDULED: 6:00PM
+	 :Properties:
 	 :LOCATION: Bron's House
 	 :END:
 ** Drinks
@@ -37,14 +58,3 @@
 	- [ ] Resume
 	- [ ] GitHub
 	- [ ] Mentally Prepare
-
-
-* CURRENT Birthday Presents																					 :family:
-** Mom's Present
-	 :PROPERTIES:
-	 :Status:   Shipped!
-	 :END:
-** Megan's Present
-	 :PROPERTIES:
-	 :Status:   Ordered
-	 :END:
