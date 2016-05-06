@@ -12,7 +12,7 @@
 	 :END:
 
 
-* TODO Give final presentation																			 :school:
+* DONE Give final presentation																			 :school:
 	 SCHEDULED: <2016-05-06 Fri 14:00-17:00>
 	:PROPERTIES:
 	:Number-of-Fucks: 0
