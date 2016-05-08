@@ -33,9 +33,9 @@
 	- Grinding noise when turning
 
 
-* Celebrate Bron & Cel's graduation																	:friends:
+* DONE Celebrate Bron & Cel's graduation														:friends:
 	SCHEDULED: <2016-05-07 Sat>
-** CANCELED Graduation Ceremony
+** Graduation Ceremony
 	 SCHEDULED: 2:00PM
 	 :PROPERTIES:
 	 :LOCATION: Lyco
@@ -45,7 +45,7 @@
 	 :Properties:
 	 :LOCATION: Bron's House
 	 :END:
-** Drinks
+** CANCELED Drinks
 	 :PROPERTIES:
 	 :LOCATION: Somewhere downtown probably
 	 :END:
@@ -58,3 +58,21 @@
 	- [ ] Resume
 	- [ ] GitHub
 	- [ ] Mentally Prepare
+
+
+* TODO Theater Maintenance 																							:job:
+** TODO Doremi
+	 DEADLINE: <2016-05-21 Sat>
+	 :PROPERTIES:
+	 :Type:     Normal Maintenance Program
+	 :END:
+** TODO Projectors
+	 DEADLINE: <2016-05-28 Sat>
+	 :PROPERTIES:
+	 :Type:     1,2; maybe 3
+	 :END:
+** TODO Spring Maintenance
+	 DEADLINE: <2016-06-01 Wed>
+	 :PROPERTIES:
+	 :Type:     Dust, Mop, LMS, etc
+	 :END:
