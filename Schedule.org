@@ -1,24 +1,6 @@
 #+Title: Schedule
 # Common Tags: family, school, friends, job, car
 
-* CURRENT Birthday Presents																					 :family:
-** Mom's Present
-	 :PROPERTIES:
-	 :Status:   Shipped!
-	 :END:
-** Megan's Present
-	 :PROPERTIES:
-	 :Status:   Ordered
-	 :END:
-
-
-* DONE Give final presentation																			 :school:
-	 SCHEDULED: <2016-05-06 Fri 14:00-17:00>
-	:PROPERTIES:
-	:Number-of-Fucks: 0
-	:Present-Time: 15:20-15:28
-	:END:
-
 
 * TODO Take car to the shop 																						:car:
 	DEADLINE: <2016-05-31 Tue>
@@ -31,25 +13,6 @@
 	- Oil Change
 	- Front Bumper
 	- Grinding noise when turning
-
-
-* DONE Celebrate Bron & Cel's graduation														:friends:
-	SCHEDULED: <2016-05-07 Sat>
-** Graduation Ceremony
-	 SCHEDULED: 2:00PM
-	 :PROPERTIES:
-	 :LOCATION: Lyco
-	 :END:
-** Bron's Party
-	 SCHEDULED: 6:00PM
-	 :Properties:
-	 :LOCATION: Bron's House
-	 :END:
-** CANCELED Drinks
-	 :PROPERTIES:
-	 :LOCATION: Somewhere downtown probably
-	 :END:
-	 SCHEDULED: Only God knows...
 
 
 * TODO Apply to RallyAll [0/3]																					:job:
@@ -76,3 +39,25 @@
 	 :PROPERTIES:
 	 :Type:     Dust, Mop, LMS, etc
 	 :END:
+
+
+* TODO Hang out with Bron and Cel																		:friends:
+	 DEADLINE: <2016-05-11 Wed>
+
+# Unscheduled Tasks
+
+* CURRENT Birthday Presents																					 :family:
+** Mom's Present
+	 :PROPERTIES:
+	 :Status:   Shipped!
+	 :END:
+** Megan's Present
+	 :PROPERTIES:
+	 :Status:   Ordered
+	 :END:
+
+
+* TODO Hang out with Brandon																				:friends:
+
+
+* TODO Hang out with the boys																				:friends:
