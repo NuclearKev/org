@@ -15,16 +15,20 @@
 	- Grinding noise when turning
 
 
-* TODO Apply to RallyAll [1/3] 																					:job:
+* TODO Apply to RallyAll [3/3] 																					:job:
 	DEADLINE: <2016-05-13 Fri>
 	SCHEDULED: <2016-05-09 Mon>
 	- [X] Resume
-	- [ ] GitHub
-	- [ ] Mentally Prepare
+	- [X] GitHub
+	- [X] Mentally Prepare
 
 
 * TODO Tutor
 	 SCHEDULED: <2016-05-10 Tue 16:30>
+
+
+* TODO Hang out with Bron and Cel																		:friends:
+	 DEADLINE: <2016-05-11 Wed>
 
 
 * TODO Theater Maintenance 																							:job:
@@ -45,10 +49,17 @@
 	 :END:
 
 
-* TODO Hang out with Bron and Cel																		:friends:
-	 DEADLINE: <2016-05-11 Wed>
+* TODO Clean room
+	 DEADLINE: <2016-08-13 Sat>
+** TODO Dust Furniture
+	 This includes dressers, my desk, and my night stand
+** TODO Clean up extra crap
+	 This includes all the books and boxes of electronics on my floor
+** TODO Sweep
+	 You use a vacuum for this
+** TODO More dusting
+	 This includes the magically layer of dust on the crap that never moves
 
-# Unscheduled Tasks
 
 * CURRENT Birthday Presents																					 :family:
 ** Mom's Present
