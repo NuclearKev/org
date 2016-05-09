@@ -15,10 +15,10 @@
 	- Grinding noise when turning
 
 
-* TODO Apply to RallyAll [0/3]																					:job:
+* TODO Apply to RallyAll [1/3] 																					:job:
 	DEADLINE: <2016-05-13 Fri>
 	SCHEDULED: <2016-05-09 Mon>
-	- [ ] Resume
+	- [X] Resume
 	- [ ] GitHub
 	- [ ] Mentally Prepare
 
