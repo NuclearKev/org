@@ -23,6 +23,10 @@
 	- [ ] Mentally Prepare
 
 
+* TODO Tutor
+	 SCHEDULED: <2016-05-10 Tue 16:30>
+
+
 * TODO Theater Maintenance 																							:job:
 ** TODO Doremi
 	 DEADLINE: <2016-05-21 Sat>
