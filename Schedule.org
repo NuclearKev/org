@@ -1,34 +1,5 @@
 #+Title: Schedule
-# Common Tags: family, school, friends, job, car
-
-
-* TODO Take car to the shop 																						:car:
-	DEADLINE: <2016-05-31 Tue>
-	SCHEDULED: <2016-05-10 Tue>
-	:PROPERTIES:
-	:Cost:     $100-$500
-	:Drop-off-Time: <2016-05-09 Mon 19:00>
-	:END:
-	- Inspection
-	- Oil Change
-	- Front Bumper
-	- Grinding noise when turning
-
-
-* TODO Apply to RallyAll [3/3] 																					:job:
-	DEADLINE: <2016-05-13 Fri>
-	SCHEDULED: <2016-05-09 Mon>
-	- [X] Resume
-	- [X] GitHub
-	- [X] Mentally Prepare
-
-
-* TODO Tutor
-	 SCHEDULED: <2016-05-10 Tue 16:30>
-
-
-* TODO Hang out with Bron and Cel																		:friends:
-	 DEADLINE: <2016-05-11 Wed>
+# Common Tags: family, school, friends, job, car, personal
 
 
 * TODO Theater Maintenance 																							:job:
@@ -49,7 +20,7 @@
 	 :END:
 
 
-* TODO Clean room
+* TODO Clean room																									 :personal:
 	 DEADLINE: <2016-08-13 Sat>
 ** TODO Dust Furniture
 	 This includes dressers, my desk, and my night stand
@@ -61,10 +32,19 @@
 	 This includes the magically layer of dust on the crap that never moves
 
 
+* TODO Take car to shop again																						:car:
+	 DEADLINE: <2016-08-22 Mon>
+	:PROPERTIES:
+	:Status:   Fine
+	:Repair:   Left Front Axel
+	:Cost:     ~$210 in parts, about $300 total
+	:END:
+
+
 * CURRENT Birthday Presents																					 :family:
-** Mom's Present
+** DONE Mom's Present
 	 :PROPERTIES:
-	 :Status:   Shipped!
+	 :Status:   Complete
 	 :END:
 ** Megan's Present
 	 :PROPERTIES:

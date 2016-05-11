@@ -38,3 +38,50 @@ Archived entries from file /Users/kevin/Desktop/org/Schedule.org
 	 :LOCATION: Somewhere downtown probably
 	 :END:
 	 SCHEDULED: Only God knows...
+
+* DONE Apply to RallyAll [3/3]																					:job:
+	DEADLINE: <2016-05-13 Fri>
+	SCHEDULED: <2016-05-09 Mon>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-05-09 Mon 13:44
+	:ARCHIVE_FILE: ~/Desktop/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	- [X] Resume
+	- [X] GitHub
+	- [X] Mentally Prepare
+
+* CANCELED Tutor																												:job:
+	 SCHEDULED: <2016-05-10 Tue 16:30>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-05-10 Tue 20:34
+	:ARCHIVE_FILE: ~/Desktop/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: CANCELED
+	:END:
+
+* CANCELED Hang out with Bron and Cel																:friends:
+	 DEADLINE: <2016-05-11 Wed>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-05-10 Tue 20:34
+	:ARCHIVE_FILE: ~/Desktop/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: CANCELED
+	:END:
+
+* DONE Take car to the shop																							:car:
+	DEADLINE: <2016-05-31 Tue>
+	SCHEDULED: <2016-05-10 Tue>
+	:PROPERTIES:
+	:Cost:     $103.88
+	:Status:   Done, ready for pickup
+	:ARCHIVE_TIME: 2016-05-11 Wed 10:05
+	:ARCHIVE_FILE: ~/Desktop/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	- Inspection
+	- Oil Change
+	- Front Bumper
+	- Grinding noise when turning
