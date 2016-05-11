@@ -1,7 +1,6 @@
 #+Title: Schedule
 # Common Tags: family, school, friends, job, car, personal
 
-
 * TODO Theater Maintenance 																							:job:
 ** TODO Doremi
 	 DEADLINE: <2016-05-21 Sat>
@@ -53,5 +52,8 @@
 
 
 * TODO Hang out with Brandon																				:friends:
+	:PROPERTIES:
+	:Number-of-Hangouts: 1
+	:END:
 
 * TODO Hang out with the boys																				:friends:
