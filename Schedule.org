@@ -21,11 +21,11 @@
 
 * TODO Clean room																									 :personal:
 	 DEADLINE: <2016-08-13 Sat>
-** TODO Dust Furniture
+** DONE Dust Furniture
 	 This includes dressers, my desk, and my night stand
 ** TODO Clean up extra crap
 	 This includes all the books and boxes of electronics on my floor
-** TODO Sweep
+** DONE Sweep
 	 You use a vacuum for this
 ** TODO More dusting
 	 This includes the magically layer of dust on the crap that never moves
@@ -47,7 +47,7 @@
 	 :END:
 ** Megan's Present
 	 :PROPERTIES:
-	 :Status:   Ordered
+	 :Status:   Shipped!
 	 :END:
 
 
@@ -57,3 +57,6 @@
 	:END:
 
 * TODO Hang out with the boys																				:friends:
+	:PROPERTIES:
+	:Number-of-Hangouts: 1
+	:END:
