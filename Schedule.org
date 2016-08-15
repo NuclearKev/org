@@ -2,24 +2,23 @@
 # Common Tags: family, school, friends, job, car, personal
 # Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
 
-* TODO Syllabus Signature + Question(s)													 :SOC:
+* TODO Syllabus Signature + Question(s)																	:SOC:
 	 DEADLINE: <2016-08-17 Wed>
 	 At class time
 
-* TODO HW #1																										 :DSP:
+* TODO HW #1																														:DSP:
 	 DEADLINE: <2016-08-17 Wed>
 	 At 11:59PM
 
-* TODO Lab #1																										 :DSP:
+* TODO Lab #1																														:DSP:
 	 DEADLINE: <2016-08-18 Thu>
 	 At Lab time
 	 Might be the best to work on it during the Wednesday gap or Tuesday night
 
-* TODO Quiz #1																									 :DSP:
+* TODO Quiz #1																													:DSP:
 	 DEADLINE: <2016-08-19 Fri>
 	 During class obvi
 
-* TODO Change work schedule
-:work:
+* TODO Change work schedule																						 :work:
 	 DEADLINE: <2016-08-20 Sat>
-	 During work obvi
+	 During work obvi; Friday nights -> Friday day
