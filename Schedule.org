@@ -18,3 +18,8 @@
 * TODO Quiz #1																									 :DSP:
 	 DEADLINE: <2016-08-19 Fri>
 	 During class obvi
+
+* TODO Change work schedule
+:work:
+	 DEADLINE: <2016-08-20 Sat>
+	 During work obvi
