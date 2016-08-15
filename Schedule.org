@@ -2,7 +2,7 @@
 # Common Tags: family, school, friends, job, car, personal
 # Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
 
-* TODO Syllabus Signature + Question(s)																	:SOC:
+* DONE Syllabus Signature + Question(s)																	:SOC:
 	 DEADLINE: <2016-08-17 Wed>
 	 At class time
 
