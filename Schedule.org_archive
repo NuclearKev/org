@@ -96,3 +96,89 @@ Archived entries from file /Users/kevin/Desktop/org/Schedule.org
 	:ARCHIVE_ITAGS: personal
 	:END:
 	This includes dressers, my desk, and my night stand
+
+* TODO Hang out with Brandon																				:friends:
+	:PROPERTIES:
+	:Number-of-Hangouts: 1
+	:ARCHIVE_TIME: 2016-08-15 Mon 14:12
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: TODO
+	:END:
+
+* TODO Hang out with the boys																				:friends:
+	:PROPERTIES:
+	:Number-of-Hangouts: 1
+	:ARCHIVE_TIME: 2016-08-15 Mon 14:12
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: TODO
+	:END:
+
+* DONE CURRENT Birthday Presents																		 :family:
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-08-15 Mon 14:12
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+** DONE Mom's Present
+	 :PROPERTIES:
+	 :Status:   Complete
+	 :END:
+** DONE Megan's Present
+	 :PROPERTIES:
+	 :Status:   Complete
+	 :END:
+
+* DONE Take car to shop again																						:car:
+	 DEADLINE: <2016-08-22 Mon>
+	:PROPERTIES:
+	:Status:   Fine
+	:Repair:   Left Front Axel
+	:Cost:     ~$210 in parts, about $300 total
+	:ARCHIVE_TIME: 2016-08-15 Mon 14:12
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+
+* TODO Theater Maintenance 																							:job:
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-08-15 Mon 14:13
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: TODO
+	:END:
+** TODO Doremi
+	 DEADLINE: <2016-05-21 Sat>
+	 :PROPERTIES:
+	 :Type:     Normal Maintenance Program
+	 :END:
+** TODO Projectors
+	 DEADLINE: <2016-05-28 Sat>
+	 :PROPERTIES:
+	 :Type:     1,2; maybe 3
+	 :END:
+** TODO Spring Maintenance
+	 DEADLINE: <2016-06-01 Wed>
+	 :PROPERTIES:
+	 :Type:     Dust, Mop, LMS, etc
+	 :END:
+
+* TODO Clean room																									 :personal:
+	 DEADLINE: <2016-08-13 Sat>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-08-15 Mon 14:13
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: TODO
+	:END:
+** DONE Dust Furniture
+	 This includes dressers, my desk, and my night stand
+** TODO Clean up extra crap
+	 This includes all the books and boxes of electronics on my floor
+** DONE Sweep
+	 You use a vacuum for this
+** TODO More dusting
+	 This includes the magically layer of dust on the crap that never moves

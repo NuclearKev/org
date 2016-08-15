@@ -1,62 +1,20 @@
 #+Title: Schedule
 # Common Tags: family, school, friends, job, car, personal
+# Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
 
-* TODO Theater Maintenance 																							:job:
-** TODO Doremi
-	 DEADLINE: <2016-05-21 Sat>
-	 :PROPERTIES:
-	 :Type:     Normal Maintenance Program
-	 :END:
-** TODO Projectors
-	 DEADLINE: <2016-05-28 Sat>
-	 :PROPERTIES:
-	 :Type:     1,2; maybe 3
-	 :END:
-** TODO Spring Maintenance
-	 DEADLINE: <2016-06-01 Wed>
-	 :PROPERTIES:
-	 :Type:     Dust, Mop, LMS, etc
-	 :END:
+* TODO Syllabus Signature + Question(s)													 :SOC:
+	 DEADLINE: <2016-08-17 Wed>
+	 At class time
 
+* TODO HW #1																										 :DSP:
+	 DEADLINE: <2016-08-17 Wed>
+	 At 11:59PM
 
-* TODO Clean room																									 :personal:
-	 DEADLINE: <2016-08-13 Sat>
-** DONE Dust Furniture
-	 This includes dressers, my desk, and my night stand
-** TODO Clean up extra crap
-	 This includes all the books and boxes of electronics on my floor
-** DONE Sweep
-	 You use a vacuum for this
-** TODO More dusting
-	 This includes the magically layer of dust on the crap that never moves
+* TODO Lab #1																										 :DSP:
+	 DEADLINE: <2016-08-18 Thu>
+	 At Lab time
+	 Might be the best to work on it during the Wednesday gap or Tuesday night
 
-
-* TODO Take car to shop again																						:car:
-	 DEADLINE: <2016-08-22 Mon>
-	:PROPERTIES:
-	:Status:   Fine
-	:Repair:   Left Front Axel
-	:Cost:     ~$210 in parts, about $300 total
-	:END:
-
-
-* CURRENT Birthday Presents																					 :family:
-** DONE Mom's Present
-	 :PROPERTIES:
-	 :Status:   Complete
-	 :END:
-** Megan's Present
-	 :PROPERTIES:
-	 :Status:   Shipped!
-	 :END:
-
-
-* TODO Hang out with Brandon																				:friends:
-	:PROPERTIES:
-	:Number-of-Hangouts: 1
-	:END:
-
-* TODO Hang out with the boys																				:friends:
-	:PROPERTIES:
-	:Number-of-Hangouts: 1
-	:END:
+* TODO Quiz #1																									 :DSP:
+	 DEADLINE: <2016-08-19 Fri>
+	 During class obvi
