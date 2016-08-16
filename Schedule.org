@@ -6,7 +6,7 @@
 	 DEADLINE: <2016-08-17 Wed>
 	 At class time
 
-* TODO HW #1																														:DSP:
+* DONE HW #1																														:DSP:
 	 DEADLINE: <2016-08-17 Wed>
 	 At 11:59PM
 
@@ -15,7 +15,7 @@
 	 At Lab time
 	 Might be the best to work on it during the Wednesday gap or Tuesday night
 
-* TODO Quiz #1																													:DSP:
+* TODO Quiz #1 																													:DSP:
 	 DEADLINE: <2016-08-19 Fri>
 	 During class obvi
 
