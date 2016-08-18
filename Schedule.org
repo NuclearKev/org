@@ -2,15 +2,7 @@
 # Common Tags: family, school, friends, job, car, personal
 # Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
 
-* DONE Syllabus Signature + Question(s)																	:SOC:
-	 DEADLINE: <2016-08-17 Wed>
-	 At class time
-
-* DONE HW #1																														:DSP:
-	 DEADLINE: <2016-08-17 Wed>
-	 At 11:59PM
-
-* TODO Lab #1																														:DSP:
+* DONE Lab #1																														:DSP:
 	 DEADLINE: <2016-08-18 Thu>
 	 At Lab time
 	 Might be the best to work on it during the Wednesday gap or Tuesday night
