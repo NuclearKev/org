@@ -2,11 +2,6 @@
 # Common Tags: family, school, friends, job, car, personal
 # Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
 
-* DONE Lab #1																														:DSP:
-	 DEADLINE: <2016-08-18 Thu>
-	 At Lab time
-	 Might be the best to work on it during the Wednesday gap or Tuesday night
-
 * TODO Quiz #1 																													:DSP:
 	 DEADLINE: <2016-08-19 Fri>
 	 During class obvi
