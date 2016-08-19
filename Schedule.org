@@ -2,10 +2,6 @@
 # Common Tags: family, school, friends, job, car, personal
 # Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
 
-* TODO Quiz #1																													:DSP:
-	 DEADLINE: <2016-08-19 Fri>
-	 During class obvi
-
 * TODO Change work schedule																						 :work:
 	 DEADLINE: <2016-08-20 Sat>
 	 During work obvi; Friday nights -> Friday day
@@ -13,6 +9,9 @@
 * TODO HW 2																															:DSP:
 	 DEADLINE: <2016-08-24 Wed>
 
+* TODO Chapter 2 Reading Assignment 																		:SOC:
+	DEADLINE: <2016-08-22 Mon>
+	Make sure to follow the guide that is on the syllabus
 * TODO Reading + Listening Assignment																		:MUS:
 	 DEADLINE: <2016-08-24 Wed>
 
@@ -25,3 +24,7 @@
 * TODO Article Response																									:HIS:
 	 DEADLINE: <2016-08-31 Wed>
 	 By midnight
+** TODO Think about senor project
+	 No deadline per say, but think about it.
+
+	 So far I'm thinking about TINZ rev2.
