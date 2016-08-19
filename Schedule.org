@@ -2,10 +2,26 @@
 # Common Tags: family, school, friends, job, car, personal
 # Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
 
-* TODO Quiz #1 																													:DSP:
+* TODO Quiz #1																													:DSP:
 	 DEADLINE: <2016-08-19 Fri>
 	 During class obvi
 
 * TODO Change work schedule																						 :work:
 	 DEADLINE: <2016-08-20 Sat>
 	 During work obvi; Friday nights -> Friday day
+
+* TODO HW 2																															:DSP:
+	 DEADLINE: <2016-08-24 Wed>
+
+* TODO Reading + Listening Assignment																		:MUS:
+	 DEADLINE: <2016-08-24 Wed>
+
+* TODO Lab 2																														:DSP:
+	 DEADLINE: <2016-08-25 Thu>
+
+* TODO Quiz 2																														:DSP:
+	 DEADLINE: <2016-08-26 Fri>
+
+* TODO Article Response																									:HIS:
+	 DEADLINE: <2016-08-31 Wed>
+	 By midnight
