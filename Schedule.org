@@ -3,7 +3,7 @@
 # Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
 * School
-** TODO [#A] Chapter 2 Reading Assignment																:SOC:
+** DONE [#A] Chapter 2 Reading Assignment																:SOC:
 	 DEADLINE: <2016-08-22 Mon>
 	 Make sure to follow the guide that is on the syllabus
 
