@@ -1,30 +1,46 @@
 #+Title: Schedule
-# Common Tags: family, school, friends, job, car, personal
-# Class Tags: DSP, SOC, HIS, MUS (DSP includes lab)
+2# Common Tags: family, friends, car, personal
+# Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
-* TODO Change work schedule																						 :work:
-	 DEADLINE: <2016-08-20 Sat>
-	 During work obvi; Friday nights -> Friday day
+* School
+** TODO [#A] Chapter 2 Reading Assignment																:SOC:
+	 DEADLINE: <2016-08-22 Mon>
+	 Make sure to follow the guide that is on the syllabus
 
-* TODO HW 2																															:DSP:
+** TODO [#C] Reading + Listening Assignment															:MUS:
 	 DEADLINE: <2016-08-24 Wed>
 
-* TODO Chapter 2 Reading Assignment 																		:SOC:
-	DEADLINE: <2016-08-22 Mon>
-	Make sure to follow the guide that is on the syllabus
-* TODO Reading + Listening Assignment																		:MUS:
+** TODO HW 2																														:DSP:
 	 DEADLINE: <2016-08-24 Wed>
 
-* TODO Lab 2																														:DSP:
+** TODO Lab 2																														:DSP:
 	 DEADLINE: <2016-08-25 Thu>
 
-* TODO Quiz 2																														:DSP:
+** TODO Quiz 2																													:DSP:
 	 DEADLINE: <2016-08-26 Fri>
 
-* TODO Article Response																									:HIS:
+** TODO [#B] Article Response																						:HIS:
 	 DEADLINE: <2016-08-31 Wed>
 	 By midnight
-** TODO Think about senor project
-	 No deadline per say, but think about it.
 
-	 So far I'm thinking about TINZ rev2.
+** TODO [#C] Think about senor project																	 :SS:
+	 	No deadline per say, but think about it.
+	 	So far I'm thinking about TINZ rev2.
+
+** TODO Prepare Resume
+	 DEADLINE: <2016-12-09 Fri>
+	 I'd like to have my resume prepared before the end of the semester.
+
+
+* Work
+** TODO Projector Maintenance
+	 SCHEDULED: <2016-08-27 Sat>
+	 DEADLINE: <2016-09-17 Sat>
+	 I've been slacking on this...
+
+
+* Extra
+** TODO Learn something about C++
+	 DEADLINE: <2016-12-09 Fri>
+	 I'd like to know some C++ so that it looks good on my resume. This
+	 is because a lot of places like C++ experience.
