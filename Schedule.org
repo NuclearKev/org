@@ -1,27 +1,56 @@
 #+Title: Schedule
-2# Common Tags: family, friends, car, personal
+# Common Tags: family, friends, car, personal
 # Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
 * School
-** DONE [#A] Chapter 2 Reading Assignment																:SOC:
-	 DEADLINE: <2016-08-22 Mon>
-	 Make sure to follow the guide that is on the syllabus
-
-** TODO [#C] Reading + Listening Assignment															:MUS:
-	 DEADLINE: <2016-08-24 Wed>
-
-** TODO HW 2																														:DSP:
-	 DEADLINE: <2016-08-24 Wed>
-
-** TODO Lab 2																														:DSP:
-	 DEADLINE: <2016-08-25 Thu>
-
-** TODO Quiz 2																													:DSP:
-	 DEADLINE: <2016-08-26 Fri>
-
-** TODO [#B] Article Response																						:HIS:
+** TODO [#C] Quiz #1 & #2 Due 																					:MUS:
 	 DEADLINE: <2016-08-31 Wed>
-	 By midnight
+	 Quiz 1 is completed, just not checked.
+
+** TODO HW 3																														:DSP:
+	 DEADLINE: <2016-08-31 Wed>
+
+** TODO Lab 3																														:DSP:
+	 DEADLINE: <2016-09-01 Thu>
+
+** TODO Quiz 3 																													:DSP:
+	 DEADLINE: <2016-09-02 Fri>
+
+** TODO Exam on the Elements of Music																		:MUS:
+	 DEADLINE: <2016-09-07 Wed>
+	 Know ya shit
+
+** TODO 3 final project ideas due
+	 DEADLINE: <2016-09-08 Thu>
+	 Sumbit online
+
+** TODO [#A] Wilding of America Book Report 														:SOC:
+	 DEADLINE: <2016-09-19 Mon>
+	 Yes.
+
+** TODO Exam on the Medieval, Renaissance, & Baroque Music							:MUS:
+	 DEADLINE: <2016-09-28 Wed>
+
+** TODO [#A] Concert Report #1 Due																			:MUS:
+	 DEADLINE: <2016-10-05 Wed>
+	 Due at the beginning of class
+
+** TODO Exam on Classicism																							:MUS:
+	 DEADLINE: <2016-10-12 Wed>
+
+** TODO [#A] Secret History Book Report																	:SOC:
+	 DEADLINE: <2016-10-17 Mon>
+	 Oh boy.
+
+** TODO Exam on Romanticism																							:MUS:
+	 DEADLINE: <2016-11-02 Wed>
+
+** TODO [#A] Concert Report #2 Due 																			:MUS:
+	 DEADLINE: <2016-11-09 Wed>
+	 Due at the beginning of class.
+
+** TODO Exam on 20th-Century Music																			:MUS:
+	 DEADLINE: <2016-11-16 Wed>
 
 ** TODO [#C] Think about senor project																	 :SS:
 	 	No deadline per say, but think about it.
@@ -29,7 +58,7 @@
 
 ** TODO Prepare Resume
 	 DEADLINE: <2016-12-09 Fri>
-	 I'd like to have my resume prepared before the end of the semester.
+	 Have Rob look it over still
 
 
 * Work
