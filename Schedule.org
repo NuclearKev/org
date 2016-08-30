@@ -3,12 +3,21 @@
 # Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
 * School
+** TODO Read pages 19-27 																								:HIS:
+	 DEADLINE: <2016-08-30 Tue>
+	 Just to get information on Egypt
+
+** TODO [#A] GET MUSIC BOOK																							:MUS:
+	 DEADLINE: <2016-08-24 Wed>
+	 OVERDUE! GET THE DAMN BOOK KEV
+
 ** TODO [#C] Quiz #1 & #2 Due 																					:MUS:
 	 DEADLINE: <2016-08-31 Wed>
-	 Quiz 1 is completed, just not checked.
+	 Quizzes are completed, just not checked.
 
 ** TODO HW 3																														:DSP:
 	 DEADLINE: <2016-08-31 Wed>
+	 All done, and probably right, except number 1
 
 ** TODO Lab 3																														:DSP:
 	 DEADLINE: <2016-09-01 Thu>
@@ -16,20 +25,31 @@
 ** TODO Quiz 3 																													:DSP:
 	 DEADLINE: <2016-09-02 Fri>
 
-** TODO Exam on the Elements of Music																		:MUS:
+** TODO Exam on the Elements of Music 																	:MUS:
 	 DEADLINE: <2016-09-07 Wed>
 	 Know ya shit
 
-** TODO 3 final project ideas due
+** TODO 3 final project ideas due																				 :SS:
 	 DEADLINE: <2016-09-08 Thu>
-	 Sumbit online
+	 1.) TINZ rev2
+	 2.) Nuclear Weapon
+	 3.) Easy Suicide Device (ESD)
 
+** TODO Quiz 1																													:SOC:
+	 DEADLINE: <2016-09-09 Fri>
+	 On something stupid I assume...
 ** TODO [#A] Wilding of America Book Report 														:SOC:
 	 DEADLINE: <2016-09-19 Mon>
 	 Yes.
 
 ** TODO Exam on the Medieval, Renaissance, & Baroque Music							:MUS:
 	 DEADLINE: <2016-09-28 Wed>
+
+** TODO Article Response 2																							:HIS:
+	 DEADLINE: <2016-09-30 Fri>
+
+** TODO Quiz 2																													:SOC:
+	 DEADLINE: <2016-10-03 Mon>
 
 ** TODO [#A] Concert Report #1 Due																			:MUS:
 	 DEADLINE: <2016-10-05 Wed>
@@ -42,8 +62,14 @@
 	 DEADLINE: <2016-10-17 Mon>
 	 Oh boy.
 
+** TODO Article Response 3																							:HIS:
+	 DEADLINE: <2016-10-31 Mon>
+
 ** TODO Exam on Romanticism																							:MUS:
 	 DEADLINE: <2016-11-02 Wed>
+
+** TODO Quiz 3																													:SOC:
+	 DEADLINE: <2016-11-07 Mon>
 
 ** TODO [#A] Concert Report #2 Due 																			:MUS:
 	 DEADLINE: <2016-11-09 Wed>
@@ -52,11 +78,14 @@
 ** TODO Exam on 20th-Century Music																			:MUS:
 	 DEADLINE: <2016-11-16 Wed>
 
+** TODO Article Response 4																							:HIS:
+	 DEADLINE: <2016-11-30 Wed>
+
 ** TODO [#C] Think about senor project																	 :SS:
 	 	No deadline per say, but think about it.
 	 	So far I'm thinking about TINZ rev2.
 
-** TODO Prepare Resume
+** DONE Prepare Resume																						 :personal:
 	 DEADLINE: <2016-12-09 Fri>
 	 Have Rob look it over still
 
