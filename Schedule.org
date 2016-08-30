@@ -3,13 +3,9 @@
 # Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
 * School
-** TODO Read pages 19-27 																								:HIS:
-	 DEADLINE: <2016-08-30 Tue>
-	 Just to get information on Egypt
-
 ** TODO [#A] GET MUSIC BOOK																							:MUS:
 	 DEADLINE: <2016-08-24 Wed>
-	 OVERDUE! GET THE DAMN BOOK KEV
+	 I think Jim is buying the ebook.
 
 ** TODO [#C] Quiz #1 & #2 Due 																					:MUS:
 	 DEADLINE: <2016-08-31 Wed>
