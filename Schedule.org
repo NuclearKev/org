@@ -1,54 +1,24 @@
-#+Title: Schedule
+;#+Title: Schedule
 # Common Tags: family, friends, car, personal
 # Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
 * School
-** TODO [#A] GET MUSIC BOOK																							:MUS:
-	 DEADLINE: <2016-08-24 Wed>
-	 I think Jim is buying the ebook.
-
-** TODO [#C] Quiz #1 & #2 Due 																					:MUS:
-	 DEADLINE: <2016-08-31 Wed>
-	 Quizzes are completed, just not checked.
-
-** TODO HW 3																														:DSP:
-	 DEADLINE: <2016-08-31 Wed>
-	 All done, and probably right, except number 1
-
-** TODO Lab 3																														:DSP:
-	 DEADLINE: <2016-09-01 Thu>
-
-** TODO Quiz 3 																													:DSP:
-	 DEADLINE: <2016-09-02 Fri>
-
-** TODO Exam on the Elements of Music 																	:MUS:
-	 DEADLINE: <2016-09-07 Wed>
-	 Know ya shit
-
-** TODO 3 final project ideas due																				 :SS:
-	 DEADLINE: <2016-09-08 Thu>
-	 1.) TINZ rev2
-	 2.) Nuclear Weapon
-	 3.) Easy Suicide Device (ESD)
-
-** TODO Quiz 1																													:SOC:
-	 DEADLINE: <2016-09-09 Fri>
-	 On something stupid I assume...
-** TODO [#A] Wilding of America Book Report 														:SOC:
-	 DEADLINE: <2016-09-19 Mon>
-	 Yes.
-
 ** TODO Exam on the Medieval, Renaissance, & Baroque Music							:MUS:
 	 DEADLINE: <2016-09-28 Wed>
 
 ** TODO Article Response 2																							:HIS:
 	 DEADLINE: <2016-09-30 Fri>
+	 - [X] 9/18-9/19: Read the article again. Have summary & one other part started
+	 - [X] 9/17-9/23: Have at least 3 sections completed.
+	 - [ ] 9/25-9/26: Finish him + proof read
 
 ** TODO Quiz 2																													:SOC:
 	 DEADLINE: <2016-10-03 Mon>
 
 ** TODO [#A] Concert Report #1 Due																			:MUS:
 	 DEADLINE: <2016-10-05 Wed>
+	 - [ ] 9/26: Start it. Have at least one of the criteria met.
+	 - [ ] 9/30: Finish the report.
 	 Due at the beginning of class
 
 ** TODO Exam on Classicism																							:MUS:
@@ -78,8 +48,7 @@
 	 DEADLINE: <2016-11-30 Wed>
 
 ** TODO [#C] Think about senor project																	 :SS:
-	 	No deadline per say, but think about it.
-	 	So far I'm thinking about TINZ rev2.
+	 IIR filter IP with Zynq parameter setting
 
 ** DONE Prepare Resume																						 :personal:
 	 DEADLINE: <2016-12-09 Fri>
@@ -98,3 +67,9 @@
 	 DEADLINE: <2016-12-09 Fri>
 	 I'd like to know some C++ so that it looks good on my resume. This
 	 is because a lot of places like C++ experience.
+
+** TODO Learn about depression for Jayme
+	 One video left
+
+** TODO Write Bronwen a letter of recommendation
+	 This will probably take forever lol
