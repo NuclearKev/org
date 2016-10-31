@@ -1,62 +1,84 @@
-;#+Title: Schedule
+#+Title: Schedule
 # Common Tags: family, friends, car, personal
 # Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
 * School
-** TODO Exam on the Medieval, Renaissance, & Baroque Music							:MUS:
-	 DEADLINE: <2016-09-28 Wed>
+** TODO Essay thing [OVERDUE] 																					 :SS:
+	 DEADLINE: <2016-10-06 Thu>
+	 Due at midnight
 
-** TODO Article Response 2																							:HIS:
-	 DEADLINE: <2016-09-30 Fri>
-	 - [X] 9/18-9/19: Read the article again. Have summary & one other part started
-	 - [X] 9/17-9/23: Have at least 3 sections completed.
-	 - [ ] 9/25-9/26: Finish him + proof read
+** TODO [#A] Emails for Grad School 															 :personal:
+	 DEADLINE: <2016-10-30 Sun>
+	 Email Dr. Ditzler and Dr. Polikar. Links found in
+	 file:~/tmp/job-search.org under Grad Schools > Rowan
 
-** TODO Quiz 2																													:SOC:
-	 DEADLINE: <2016-10-03 Mon>
+	 - [X] Dr. Ditzler
+	 - [ ] Dr. Polikar
 
-** TODO [#A] Concert Report #1 Due																			:MUS:
-	 DEADLINE: <2016-10-05 Wed>
-	 - [ ] 9/26: Start it. Have at least one of the criteria met.
-	 - [ ] 9/30: Finish the report.
-	 Due at the beginning of class
-
-** TODO Exam on Classicism																							:MUS:
-	 DEADLINE: <2016-10-12 Wed>
-
-** TODO [#A] Secret History Book Report																	:SOC:
-	 DEADLINE: <2016-10-17 Mon>
-	 Oh boy.
-
-** TODO Article Response 3																							:HIS:
+** DONE Article Response 3																							:HIS:
 	 DEADLINE: <2016-10-31 Mon>
+	 - [X] 10/21: Read article, complete 1-2 sections
+	 - [X] 10/23-10/24: Have at least 3 sections completed
+	 - [X] 10/28: Finish it, proof read, hand in.
 
 ** TODO Exam on Romanticism																							:MUS:
 	 DEADLINE: <2016-11-02 Wed>
+	 - [X] 10/31: At work, listen to all the pieces and know them
+     please!
+	 - [ ] 11/2(before class): Study some more.
 
 ** TODO Quiz 3																													:SOC:
 	 DEADLINE: <2016-11-07 Mon>
 
+** Concert at Lyco																											:MUS:
+	 SCHEDULED: <2016-11-06 Sun>
+	 At 6PM
+
 ** TODO [#A] Concert Report #2 Due 																			:MUS:
 	 DEADLINE: <2016-11-09 Wed>
+	 - [ ] 11/6: Start it after the concert. Have about >half done
+	 - [ ] 11/7: Finish the essay at work
+	 - [ ] 11/7: Print it.
 	 Due at the beginning of class.
+
+** TODO [#A] Secret History Book Report 																:SOC:
+	 DEADLINE: <2016-11-14 Mon>
+	 - [X] 10/9-10/12: Finish 2 parts
+	 - [ ] 11/11: Have the last part of the book completed (finish it if
+     ya feeling good)
+	 - [ ] 11/13: Finish the paper (the 10 sentence part)
 
 ** TODO Exam on 20th-Century Music																			:MUS:
 	 DEADLINE: <2016-11-16 Wed>
 
+** TODO [#A] Have all assignments done																	 :SS:
+	 DEADLINE: <2016-11-23 Wed>
+
 ** TODO Article Response 4																							:HIS:
 	 DEADLINE: <2016-11-30 Wed>
 
-** TODO [#C] Think about senor project																	 :SS:
+** TODO [#A] Think about senior project 																 :SS:
 	 IIR filter IP with Zynq parameter setting
+
+	 I need to start looking into this more. I also need to get some of
+	 the stuff on PLATO completed. Get on it!
 
 ** DONE Prepare Resume																						 :personal:
 	 DEADLINE: <2016-12-09 Fri>
 	 Have Rob look it over still
 
+** TODO Apply to places																						 :personal:
+	 Probably should have it done before the end of the semester.
+
+** Graduate Information Session 																	 :personal:
+	 SCHEDULED: <2017-01-17 Tue>
+	 At 6PM.
+
+	 Have some questions about shit maybe.
+
 
 * Work
-** TODO Projector Maintenance
+** TODO [#A] Projector Maintenance [OVERDUE]
 	 SCHEDULED: <2016-08-27 Sat>
 	 DEADLINE: <2016-09-17 Sat>
 	 I've been slacking on this...
@@ -67,6 +89,9 @@
 	 DEADLINE: <2016-12-09 Fri>
 	 I'd like to know some C++ so that it looks good on my resume. This
 	 is because a lot of places like C++ experience.
+
+	 Jonny's AVR/Arduino library should be a really good tool to learn
+	 it.
 
 ** TODO Learn about depression for Jayme
 	 One video left
