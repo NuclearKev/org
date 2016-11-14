@@ -3,59 +3,41 @@
 # Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
 
 * School
-** TODO Essay thing [OVERDUE] 																					 :SS:
-	 DEADLINE: <2016-10-06 Thu>
-	 Due at midnight
-
 ** TODO [#A] Emails for Grad School 															 :personal:
-	 DEADLINE: <2016-10-30 Sun>
+	 DEADLINE: <2016-11-11 Fri>
+	 SCHEDULED: <2016-11-08 Tue 4:00PM>
 	 Email Dr. Ditzler and Dr. Polikar. Links found in
 	 file:~/tmp/job-search.org under Grad Schools > Rowan
 
-	 - [X] Dr. Ditzler
+	 - [X] Dr. Ditzler (follow up email)
 	 - [ ] Dr. Polikar
 
-** DONE Article Response 3																							:HIS:
-	 DEADLINE: <2016-10-31 Mon>
-	 - [X] 10/21: Read article, complete 1-2 sections
-	 - [X] 10/23-10/24: Have at least 3 sections completed
-	 - [X] 10/28: Finish it, proof read, hand in.
+** TODO Test 3 Part 2																										:DSP:
+	 SCHEDULED: <2016-11-09 Wed>
 
-** TODO Exam on Romanticism																							:MUS:
-	 DEADLINE: <2016-11-02 Wed>
-	 - [X] 10/31: At work, listen to all the pieces and know them
-     please!
-	 - [ ] 11/2(before class): Study some more.
-
-** TODO Quiz 3																													:SOC:
-	 DEADLINE: <2016-11-07 Mon>
-
-** Concert at Lyco																											:MUS:
-	 SCHEDULED: <2016-11-06 Sun>
-	 At 6PM
-
-** TODO [#A] Concert Report #2 Due 																			:MUS:
-	 DEADLINE: <2016-11-09 Wed>
-	 - [ ] 11/6: Start it after the concert. Have about >half done
-	 - [ ] 11/7: Finish the essay at work
-	 - [ ] 11/7: Print it.
-	 Due at the beginning of class.
-
-** TODO [#A] Secret History Book Report 																:SOC:
-	 DEADLINE: <2016-11-14 Mon>
-	 - [X] 10/9-10/12: Finish 2 parts
-	 - [ ] 11/11: Have the last part of the book completed (finish it if
-     ya feeling good)
-	 - [ ] 11/13: Finish the paper (the 10 sentence part)
+** TODO Chapter 8 Response																							:SOC:
+	 DEADLINE: <2016-11-16 Wed>
 
 ** TODO Exam on 20th-Century Music																			:MUS:
+	 SCHEDULED: <2016-11-16 Wed>
+
+** TODO [#B] Bring CD with song on it																		:MUS:
 	 DEADLINE: <2016-11-16 Wed>
+
+** TODO Quiz 3																													:SOC:
+	 SCHEDULED: <2016-11-18 Fri>
 
 ** TODO [#A] Have all assignments done																	 :SS:
 	 DEADLINE: <2016-11-23 Wed>
+	 - [ ] Risk Management
+	 - [ ] Logistics
+	 - [ ] Initial Project Proposal
+	 - (the actual presentation is due on the day of the final)
 
-** TODO Article Response 4																							:HIS:
+** DONE Article Response 4																							:HIS:
 	 DEADLINE: <2016-11-30 Wed>
+	 - [X] 11/13: Pick article, read, complete 1-2 parts
+	 - [ ] 11/14: Finish it.
 
 ** TODO [#A] Think about senior project 																 :SS:
 	 IIR filter IP with Zynq parameter setting
@@ -63,18 +45,50 @@
 	 I need to start looking into this more. I also need to get some of
 	 the stuff on PLATO completed. Get on it!
 
+** TODO [#A] Final Test																									:SOC:
+	 SCHEDULED: <2016-12-05 Mon>
+	 @ 8am
+
+** TODO [#A] Book Report Due																						:HIS:
+	 DEADLINE: <2016-12-06 Tue>
+	 @ 11am
+
+	 - [ ] 11/13: Find the sections that are relevant to me and design a basic
+     outline for the report. Maybe read a little.
+	 - [ ] 11/14: Read some more, and write some too.
+	 - [ ] More to come...
+
+** TODO [#A] Final Paper Due																						:HIS:
+	 DEADLINE: <2016-12-06 Tue>
+	 @ 11am
+
+** TODO [#A] Lab Final																									:DSP:
+	 SCHEDULED: <2016-12-06 Tue>
+	 @ 2pm
+
+** TODO [#A] Final Project Presentations																:DSP:
+	 SCHEDULED: <2016-12-07 Wed>
+	 @ 8am
+
+** TODO [#A] Final Project Presentations																:MUS:
+	 SCHEDULED: <2016-12-07 Wed>
+	 @ 6pm
+
+** TODO [#A] Senior Project Proposal Presentations											 :SS:
+	 SCHEDULED: <2016-12-08 Thu>
+	 @ 2pm
+
 ** DONE Prepare Resume																						 :personal:
 	 DEADLINE: <2016-12-09 Fri>
 	 Have Rob look it over still
 
 ** TODO Apply to places																						 :personal:
-	 Probably should have it done before the end of the semester.
+	 - [X] Northrop (Rob)
+	 - [ ] L3 (any branch)
 
-** Graduate Information Session 																	 :personal:
-	 SCHEDULED: <2017-01-17 Tue>
-	 At 6PM.
-
-	 Have some questions about shit maybe.
+** DONE Tell Jen my tutoring hours 																 :personal:
+	 DEADLINE: <2016-11-11 Fri>
+	 She'll confirm them closer to next semester...
 
 
 * Work
@@ -92,9 +106,3 @@
 
 	 Jonny's AVR/Arduino library should be a really good tool to learn
 	 it.
-
-** TODO Learn about depression for Jayme
-	 One video left
-
-** TODO Write Bronwen a letter of recommendation
-	 This will probably take forever lol
