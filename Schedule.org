@@ -12,40 +12,21 @@
 	 - [X] Dr. Ditzler (follow up email)
 	 - [ ] Dr. Polikar
 
-** TODO Test 3 Part 2																										:DSP:
-	 SCHEDULED: <2016-11-09 Wed>
-
-** TODO Chapter 8 Response																							:SOC:
-	 DEADLINE: <2016-11-16 Wed>
-
-** TODO Exam on 20th-Century Music																			:MUS:
-	 SCHEDULED: <2016-11-16 Wed>
-
-** TODO [#B] Bring CD with song on it																		:MUS:
-	 DEADLINE: <2016-11-16 Wed>
-
 ** TODO Quiz 3																													:SOC:
 	 SCHEDULED: <2016-11-18 Fri>
 
-** TODO [#A] Have all assignments done																	 :SS:
+** DONE [#A] Have all assignments done                                   :SS:
 	 DEADLINE: <2016-11-23 Wed>
-	 - [ ] Risk Management
-	 - [ ] Logistics
-	 - [ ] Initial Project Proposal
-	 - (the actual presentation is due on the day of the final)
+	 - [X] Risk Management
+	 - [X] Logistics
+	 - [X] Initial Project Proposal
 
 ** DONE Article Response 4																							:HIS:
 	 DEADLINE: <2016-11-30 Wed>
 	 - [X] 11/13: Pick article, read, complete 1-2 parts
 	 - [ ] 11/14: Finish it.
 
-** TODO [#A] Think about senior project 																 :SS:
-	 IIR filter IP with Zynq parameter setting
-
-	 I need to start looking into this more. I also need to get some of
-	 the stuff on PLATO completed. Get on it!
-
-** TODO [#A] Final Test																									:SOC:
+** TODO [#A] Final Test                                                 :SOC:
 	 SCHEDULED: <2016-12-05 Mon>
 	 @ 8am
 
@@ -53,9 +34,9 @@
 	 DEADLINE: <2016-12-06 Tue>
 	 @ 11am
 
-	 - [ ] 11/13: Find the sections that are relevant to me and design a basic
+	 - [X] 11/13: Find the sections that are relevant to me and design a basic
      outline for the report. Maybe read a little.
-	 - [ ] 11/14: Read some more, and write some too.
+	 - [X] 11/14: Read some more, and write some too.
 	 - [ ] More to come...
 
 ** TODO [#A] Final Paper Due																						:HIS:
@@ -69,6 +50,11 @@
 ** TODO [#A] Final Project Presentations																:DSP:
 	 SCHEDULED: <2016-12-07 Wed>
 	 @ 8am
+	 - [ ] 11/15: Start it
+	 - [ ] 11/17: Have a game plan on how to accomplish it
+	 - [ ] 11/29: Have it mostly working
+	 - [ ] 12/1: Have it working fully or good enough for PCT work
+	 - [ ] 12/6: Literally better be done lol
 
 ** TODO [#A] Final Project Presentations																:MUS:
 	 SCHEDULED: <2016-12-07 Wed>
@@ -77,6 +63,9 @@
 ** TODO [#A] Senior Project Proposal Presentations											 :SS:
 	 SCHEDULED: <2016-12-08 Thu>
 	 @ 2pm
+
+	 - [ ] Updated Formal Report
+	 - [ ] Presentation
 
 ** DONE Prepare Resume																						 :personal:
 	 DEADLINE: <2016-12-09 Fri>
