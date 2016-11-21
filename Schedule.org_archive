@@ -877,3 +877,24 @@ Archived entries from file /Users/kevin/Desktop/org/Schedule.org
 	:ARCHIVE_CATEGORY: Schedule
 	:ARCHIVE_TODO: DONE
 	:END:
+
+* DONE Quiz 3                                                           :SOC:
+	SCHEDULED: <2016-11-18 Fri>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-11-19 Sat 13:06
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: School
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+
+* DONE Special Assignments                                              :SOC:
+	DEADLINE: <2016-11-21 Mon>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-11-21 Mon 11:04
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: School
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	Get the special questions on Plato.
