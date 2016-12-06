@@ -12,62 +12,39 @@
 	 - [X] Dr. Ditzler (follow up email)
 	 - [ ] Dr. Polikar
 
-** DONE [#A] Have all assignments done                                   :SS:
-	 DEADLINE: <2016-11-23 Wed>
-	 - [X] Risk Management
-	 - [X] Logistics
-	 - [X] Initial Project Proposal
-
-** DONE Article Response 4																							:HIS:
-	 DEADLINE: <2016-11-30 Wed>
-	 - [X] 11/13: Pick article, read, complete 1-2 parts
-	 - [ ] 11/14: Finish it.
-
-** TODO [#A] Final Test                                                 :SOC:
-	 SCHEDULED: <2016-12-05 Mon>
-	 @ 8am
-
-	 Read the articles
-
-** TODO [#A] Book Report Due                                            :HIS:
-	 DEADLINE: <2016-12-06 Tue>
-	 @ 11am
-
-	 - [X] 11/13: Find the sections that are relevant to me and design a basic
-     outline for the report. Maybe read a little.
-	 - [X] 11/14: Read some more, and write some too.
-	 - [ ] More to come...
-
-** TODO [#A] Final Paper Due																						:HIS:
-	 DEADLINE: <2016-12-06 Tue>
-	 @ 11am
-
-** TODO [#A] Lab Final																									:DSP:
+** TODO [#A] Lab Final                                                  :DSP:
 	 SCHEDULED: <2016-12-06 Tue>
 	 @ 2pm
 
-** TODO [#A] Final Project Presentations																:DSP:
+** DONE [#A] Final Project Presentations                                :DSP:
 	 SCHEDULED: <2016-12-07 Wed>
 	 @ 8am
 	 - [X] 11/15: Start it
  	 - [X] 11/17: Have a game plan on how to accomplish it
 	 - [X] 11/29: Have it mostly working (working as of 11/21)
-	 - [ ] 12/1: Have it working fully or good enough for PCT work
-	 - [ ] 12/6: Literally better be done lol
+	 - [X] 12/1: Have it working fully or good enough for PCT work
+	 - [X] 12/6: Have presentation done
+	 - [X] Place it on thumb drive
+	 - [X] Verify that everything is okay
 
-		 NOTE: My absolute value IP source has been created, on Monday the 21st, I
-     will build the IP and hopefully test it at night.
+		 NOTE: I have it working in hardware and I have an excel sheet that shows
+     both the theoretical and actual versions of the approximation. Just start
+     working on the presentation and have it done by the 6th.
+
+		 NOTE NOTE: Excel sheet in on my H: drive.
 
 ** TODO [#A] Final Project Presentations																:MUS:
 	 SCHEDULED: <2016-12-07 Wed>
 	 @ 6pm
 
-** TODO [#A] Senior Project Proposal Presentations											 :SS:
+** TODO [#A] Senior Project Proposal Presentations                       :SS:
 	 SCHEDULED: <2016-12-08 Thu>
 	 @ 2pm
 
 	 - [ ] Updated Formal Report
-	 - [ ] Presentation
+	 - [X] Presentation (on flash drive and iCloud)
+
+	 NOTE: I am second to last, right after Bri and Ali go.
 
 ** DONE Prepare Resume                                             :personal:
 	 DEADLINE: <2016-12-09 Fri>
@@ -82,8 +59,13 @@
 	 She'll confirm them closer to next semester...
 
 
+
 * Work
-** TODO [#A] Projector Maintenance [OVERDUE]
+** TODO [#B] Tutoring Thingy Online                                   :tutor:
+	 DEADLINE: <2016-12-16 Fri>
+	 It's that long "Online Training" thing.
+
+** TODO [#A] Projector Maintenance [OVERDUE]                         :cinema:
 	 SCHEDULED: <2016-08-27 Sat>
 	 DEADLINE: <2016-09-17 Sat>
 	 I've been slacking on this...

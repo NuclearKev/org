@@ -898,3 +898,99 @@ Archived entries from file /Users/kevin/Desktop/org/Schedule.org
 	:ARCHIVE_TODO: DONE
 	:END:
 	Get the special questions on Plato.
+
+* DONE [#A] Have all assignments done                                    :SS:
+	DEADLINE: <2016-11-23 Wed>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-11-27 Sun 17:53
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: School
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	- [X] Risk Management
+	- [X] Logistics
+	- [X] Initial Project Proposal
+
+* TODO Learn something about C++
+	DEADLINE: <2016-12-09 Fri>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-12-04 Sun 19:48
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: Extra
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: TODO
+	:END:
+	I'd like to know some C++ so that it looks good on my resume. This
+	is because a lot of places like C++ experience.
+
+	Jonny's AVR/Arduino library should be a really good tool to learn
+	it.
+
+* DONE [#A] Final Test                                                  :SOC:
+	SCHEDULED: <2016-12-05 Mon>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-12-05 Mon 09:46
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: School
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	@ 8am
+
+	Read the articles 12/2 - 12/4
+
+* DONE Article Response 4                                               :HIS:
+	DEADLINE: <2016-11-30 Wed>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-12-06 Tue 09:08
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: School
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	- [X] 11/13: Pick article, read, complete 1-2 parts
+	- [ ] 11/14: Finish it.
+
+* DONE [#A] Book Report Due                                             :HIS:
+	DEADLINE: <2016-12-06 Tue>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-12-06 Tue 10:21
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: School
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	@ 11am
+
+	- [X] 11/13: Find the sections that are relevant to me and design a basic
+    outline for the report. Maybe read a little.
+	- [X] 11/14: Read some more, and write some too.
+	- [ ] Have the report done /before/ you get the actual final on 11/29
+    [FAILED]
+	- [X] Have book report done before the weekend of 12/2
+	- [X] Fix up the beginning of the report[3/3]
+		- [X] Add intro
+		- [X] Fix up the thesis paragraph
+		- [X] Combine some paragraphs so they aren't all so tiny
+	- [X] Proof read and fix any mistakes, then done
+	- [X] Add works cited page
+	- [X] Print it
+	- [ ] Reprint at school if possible
+
+* DONE [#A] Final Paper Due [5/5]                                       :HIS:
+	DEADLINE: <2016-12-06 Tue>
+	:PROPERTIES:
+	:ARCHIVE_TIME: 2016-12-06 Tue 10:21
+	:ARCHIVE_FILE: ~/org/Schedule.org
+	:ARCHIVE_OLPATH: School
+	:ARCHIVE_CATEGORY: Schedule
+	:ARCHIVE_TODO: DONE
+	:END:
+	@ 11am
+
+	- [X] 12/2: Start the questions. Have a few done. <half
+	- [X] 12/3: {at night} have over half done -or- finish it
+	- [X] 12/4: Finish it
+	- [X] Proof read
+	- [X] Print it. (at school if possible)
