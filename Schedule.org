@@ -1,78 +1,28 @@
 #+Title: Schedule
 # Common Tags: family, friends, car, personal
-# Class Tags: DSP, SOC, HIS, MUS, SS (DSP includes lab)
+# Class Tags: EE, SS, ENL, GYM
 
 * School
-** TODO [#A] Emails for Grad School 															 :personal:
-	 DEADLINE: <2016-11-11 Fri>
-	 SCHEDULED: <2016-11-08 Tue 4:00PM>
-	 Email Dr. Ditzler and Dr. Polikar. Links found in
-	 file:~/tmp/job-search.org under Grad Schools > Rowan
+** DONE Get engineering economics book                                   :EE:
+	 It's the wrong version but it was free so who cares.
 
-	 - [X] Dr. Ditzler (follow up email)
-	 - [ ] Dr. Polikar
-
-** TODO [#A] Lab Final                                                  :DSP:
-	 SCHEDULED: <2016-12-06 Tue>
-	 @ 2pm
-
-** DONE [#A] Final Project Presentations                                :DSP:
-	 SCHEDULED: <2016-12-07 Wed>
-	 @ 8am
-	 - [X] 11/15: Start it
- 	 - [X] 11/17: Have a game plan on how to accomplish it
-	 - [X] 11/29: Have it mostly working (working as of 11/21)
-	 - [X] 12/1: Have it working fully or good enough for PCT work
-	 - [X] 12/6: Have presentation done
-	 - [X] Place it on thumb drive
-	 - [X] Verify that everything is okay
-
-		 NOTE: I have it working in hardware and I have an excel sheet that shows
-     both the theoretical and actual versions of the approximation. Just start
-     working on the presentation and have it done by the 6th.
-
-		 NOTE NOTE: Excel sheet in on my H: drive.
-
-** TODO [#A] Final Project Presentations																:MUS:
-	 SCHEDULED: <2016-12-07 Wed>
-	 @ 6pm
-
-** TODO [#A] Senior Project Proposal Presentations                       :SS:
-	 SCHEDULED: <2016-12-08 Thu>
-	 @ 2pm
-
-	 - [ ] Updated Formal Report
-	 - [X] Presentation (on flash drive and iCloud)
-
-	 NOTE: I am second to last, right after Bri and Ali go.
-
-** DONE Prepare Resume                                             :personal:
-	 DEADLINE: <2016-12-09 Fri>
-	 Have Rob look it over still
+** TODO Start laying the foundation for my project                       :SS:
+	 I'll be constructing an org-mode file for this.
+	 Todo:
+	 - [ ] Read the relevant info found here: [[~/Downloads/xilinx-iir-hardware.pdf]]
+	 - [ ] Create an iir-hardware.org file
+	 - [ ] Write down any relevant information
+	 - [ ] Start the general outline in VHDL
+	 - [ ] Git repo: https://github.com/nuclearkev/iir-hardware
 
 ** TODO Apply to places																						 :personal:
 	 - [X] Northrop (Rob)
 	 - [ ] L3 (any branch)
 
-** DONE Tell Jen my tutoring hours 																 :personal:
-	 DEADLINE: <2016-11-11 Fri>
-	 She'll confirm them closer to next semester...
-
-
 
 * Work
-** TODO [#B] Tutoring Thingy Online                                   :tutor:
-	 DEADLINE: <2016-12-16 Fri>
-	 It's that long "Online Training" thing.
-
-** TODO [#A] Projector Maintenance [OVERDUE]                         :cinema:
-	 SCHEDULED: <2016-08-27 Sat>
-	 DEADLINE: <2016-09-17 Sat>
-	 I've been slacking on this...
-
-
 * Extra
-** TODO Learn something about C++
+** DONE Learn something about C++
 	 DEADLINE: <2016-12-09 Fri>
 	 I'd like to know some C++ so that it looks good on my resume. This
 	 is because a lot of places like C++ experience.
