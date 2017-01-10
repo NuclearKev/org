@@ -13,7 +13,7 @@
 	 - [ ] Create an iir-hardware.org file
 	 - [ ] Write down any relevant information
 	 - [ ] Start the general outline in VHDL
-	 - [ ] Git repo: https://github.com/nuclearkev/iir-hardware
+	 - [X] Git repo: https://github.com/nuclearkev/iir-hardware
 
 ** TODO Apply to places																						 :personal:
 	 - [X] Northrop (Rob)
