@@ -6,6 +6,9 @@
 ** DONE Get engineering economics book                                   :EE:
 	 It's the wrong version but it was free so who cares.
 
+** TODO Get folder and some paper for gym class                         :GYM:
+	 I need a folder and some paper for this class.
+
 ** TODO Start laying the foundation for my project                       :SS:
 	 I'll be constructing an org-mode file for this.
 	 Todo:
