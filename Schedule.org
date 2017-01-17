@@ -3,12 +3,9 @@
 # Class Tags: EE, SS, ENL, GYM
 
 * School
-** DONE Chapter 1 problems                                               :EE:
-	 DEADLINE: <2017-01-13 Fri>
-	 Numbers: 1-2, 1-3, 1-6, 1-7, 1-11
-
-	 *The problems in my PDF 16th edition book are different from the book used*
-	 *in class. Get the problems from M@*
+** TODO More chapter 1 homework																					 :EE:
+	 DEADLINE: <2017-01-18 Wed>
+	 12,13,14
 
 ** TODO Start laying the foundation for my project                       :SS:
 	 I'll be constructing an org-mode file for this.
@@ -16,7 +13,7 @@
 	 - [X] Read the relevant info found here: [[~/Downloads/xilinx-iir-hardware.pdf]]
 	 - [X] Create an iir-hardware.org file
 	 - [X] Write down any relevant information
-	 - [ ] Start the general outline in VHDL (either for FIR or IIR)
+	 - [X] Start the general outline in VHDL (either for FIR or IIR)
 	 - [X] Git repo: https://github.com/nuclearkev/iir-hardware
 
 *** TODO FIR with internal coefficients
