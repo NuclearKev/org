@@ -3,7 +3,7 @@
 # Class Tags: EE, SS, ENL, GYM
 
 * School
-** TODO More chapter 1 homework																					 :EE:
+** DONE More chapter 1 homework                                          :EE:
 	 DEADLINE: <2017-01-18 Wed>
 	 12,13,14
 
@@ -61,10 +61,8 @@
 
 * Work
 * Extra
-** DONE Learn something about C++
-	 DEADLINE: <2016-12-09 Fri>
-	 I'd like to know some C++ so that it looks good on my resume. This
-	 is because a lot of places like C++ experience.
+** TODO Learn C++
+	 Ask Jonny some stuff
 
-	 Jonny's AVR/Arduino library should be a really good tool to learn
-	 it.
+** TODO Read Daniel
+	 DEADLINE: <2017-01-24 Tue>
