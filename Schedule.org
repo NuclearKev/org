@@ -3,10 +3,6 @@
 # Class Tags: EE, SS, ENL, GYM
 
 * School
-** DONE More chapter 1 homework                                          :EE:
-	 DEADLINE: <2017-01-18 Wed>
-	 12,13,14
-
 ** TODO Start laying the foundation for my project                       :SS:
 	 I'll be constructing an org-mode file for this.
 	 Todo:
@@ -16,11 +12,11 @@
 	 - [X] Start the general outline in VHDL (either for FIR or IIR)
 	 - [X] Git repo: https://github.com/nuclearkev/iir-hardware
 
-*** TODO FIR with internal coefficients
+*** DONE FIR with internal coefficients [OVERDUE]
 		DEADLINE: <2017-01-19 Thu>
 		I should be able to use the actual XADC with this.
-		- [ ] Without pipelining
-		- [ ] With pipelining
+		- [X] Without pipelining (I think you need to use pipelining due to timing)
+		- [X] With pipelining
 
 *** TODO IIR with internal coefficients
 		DEADLINE: <2017-01-26 Thu>
@@ -57,7 +53,6 @@
 ** TODO Apply to places																						 :personal:
 	 - [X] Northrop (Rob)
 	 - [ ] L3 (any branch)
-
 
 * Work
 * Extra
