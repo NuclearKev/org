@@ -15,14 +15,14 @@
 *** DONE FIR with internal coefficients [OVERDUE]
 		DEADLINE: <2017-01-19 Thu>
 		I should be able to use the actual XADC with this.
-		- [X] Without pipelining (I think you need to use pipelining due to timing)
+		- [ ] Without pipelining (I think you need to use pipelining due to timing)
 		- [X] With pipelining
 
-*** TODO IIR with internal coefficients
+*** DONE IIR with internal coefficients [AHEAD OF SCHEDULE!]
 		DEADLINE: <2017-01-26 Thu>
 		Once again, with XADC.
 		- [ ] Without pipelining
-		- [ ] With pipelining
+		- [X] With pipelining
 
 *** TODO Figure out coefficients Zynq->IP
 		DEADLINE: <2017-02-02 Thu>
