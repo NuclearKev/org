@@ -3,7 +3,7 @@
 # Class Tags: EE, SS, ENL, GYM
 
 * School
-** TODO Start laying the foundation for my project                       :SS:
+** TODO Senior project                                                   :SS:
 	 I'll be constructing an org-mode file for this.
 	 Todo:
 	 - [X] Read the relevant info found here: [[~/Downloads/xilinx-iir-hardware.pdf]]
@@ -24,9 +24,37 @@
 		- [ ] Without pipelining
 		- [X] With pipelining
 
+*** TODO Figure out [on paper] generalization of IP
+		DEADLINE: <2017-02-09 Thu>
+		Basically how can I have any number of coeffs, without have to
+		re-synthesize.
+
+		My idea as of now is to have arrays of /huge/ sizes already initialized in
+		the design. For example, the coeffs arrays will be of size 30 yet would be
+		initialized to zero. Then, then design would go through a bunch of
+		multiplications and additions as if there were 30 coeffs. However, any
+		unused elements would be zero and the additions/multiplications would be
+		completed with zeros. I have yet to test out this theory but it should
+		work so long the Zynq has enough registers/LUTs to handle the extreme size
+		of the IP.
+
+*** TODO Have a working design with the generalization
+		DEADLINE: <2017-02-23 Thu>
+		At this point, I should be able to change the number of coeffs *and* their
+		values without having to modify the IP.
+
+**** Multi-sections
+		 It may be a good idea to also look into using multiple sections for
+		 IIRs. It may help with the rippling issues, however, I might just want to
+		 keep using single sections for ease of use. Just think about it Kev.
+
+
 *** TODO Figure out coefficients Zynq->IP
 		DEADLINE: <2017-03-02 Thu>
+<<<<<<< HEAD
 
+=======
+>>>>>>> ca7060894f6bc2fc5f3ec056346a9c8fd772c3bc
 		I'm thinking serial, however, I am not sure how to receive them in the
 		IP. Do I need to create a serial controller inside the IP? Instantiate a
 		serial controller model inside? Or can I get away with rerouting the input
@@ -48,14 +76,11 @@
 		#+END_SRC
 
 *** TODO Have coefficients shipping
-		DEADLINE: <2017-02-23 Thu>
+		DEADLINE: <2017-03-30 Thu>
 		Maybe have an FSM or something. IDFK
 
-** TODO Apply to places																						 :personal:
-	 - [X] Northrop (Rob)
-	 - [ ] L3 (any branch)
-
 * Work
+<<<<<<< HEAD
 ** Register on the stuff
 	 bitbucket is mad
 
@@ -63,6 +88,10 @@
 ** Get Jonny to teach you
 ** DONE Sales JS (look it up)
 	 It's installed kind of hate my job already
+=======
+** TODO Learn JS
+	 No real due date but you gotta learn it.
+>>>>>>> ca7060894f6bc2fc5f3ec056346a9c8fd772c3bc
 
 * Extra
 ** TODO Learn C++
