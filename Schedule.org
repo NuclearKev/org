@@ -24,7 +24,7 @@
 		- [ ] Without pipelining
 		- [X] With pipelining
 
-*** TODO Figure out [on paper] generalization of IP
+*** DONE Figure out [on paper] generalization of IP
 		DEADLINE: <2017-02-09 Thu>
 		Basically how can I have any number of coeffs, without have to
 		re-synthesize.
@@ -48,13 +48,8 @@
 		 IIRs. It may help with the rippling issues, however, I might just want to
 		 keep using single sections for ease of use. Just think about it Kev.
 
-
 *** TODO Figure out coefficients Zynq->IP
 		DEADLINE: <2017-03-02 Thu>
-<<<<<<< HEAD
-
-=======
->>>>>>> ca7060894f6bc2fc5f3ec056346a9c8fd772c3bc
 		I'm thinking serial, however, I am not sure how to receive them in the
 		IP. Do I need to create a serial controller inside the IP? Instantiate a
 		serial controller model inside? Or can I get away with rerouting the input
@@ -80,22 +75,4 @@
 		Maybe have an FSM or something. IDFK
 
 * Work
-<<<<<<< HEAD
-** Register on the stuff
-	 bitbucket is mad
-
-** Poke around the code base
-** Get Jonny to teach you
-** DONE Sales JS (look it up)
-	 It's installed kind of hate my job already
-=======
-** TODO Learn JS
-	 No real due date but you gotta learn it.
->>>>>>> ca7060894f6bc2fc5f3ec056346a9c8fd772c3bc
-
 * Extra
-** TODO Learn C++
-	 Ask Jonny some stuff
-
-** TODO Read Daniel
-	 DEADLINE: <2017-01-24 Tue>
