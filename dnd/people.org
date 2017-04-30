@@ -78,8 +78,13 @@
 		- Status: None
 		- Description: The owner of Pu'in's House of Booze. She named the house
       after her *missing brother*, whom got lost after being *sent to Port Santus*
-      *for a quest.* If you return her brother you will start the sub-quest
+      *for a quest.* If you return her brother you will complete the sub-quest
       [[file:campaign.org::*Underground%20River%20of%20Lum'is][Underground River of Lum'is]].
+
+*** Pu'in
+    - Status: None
+    - Description: Younger brother of Bushuma. Was captured by the hags after
+      being sent by the king to defeat them.
 
 ** Lum'is Swamp
 *** Charcoln
@@ -99,13 +104,12 @@
 		- Status: None
 		- Description: Gury is an extremely successful fisherman that knows all of
       the safe routes to take on the sea. He is away currently.
-		- Appearance:
+		- Appearance: Gury is secretly a Marid.
 
 *** Yohimius
 		- Status: None
 		- Description: Yohimius is a very close friend of Gury's who is currently
-      watching over his house while he is away. Yohimius is secretly the source
-      of Gury's success because of Yohimius's special mind reading abilities.
+      watching over his house while he is away.
 
 *** Tizcar
 		- Status: None
@@ -117,3 +121,13 @@
       has a purple fluffy part that comes out of the chest part. He is also
       wearing a large white turban. He has a pointy black gote beard and has
       brown skin.
+* Underground River
+** Kuo-Toa Ruled Regions
+   - Status: Enemy
+   - Description: These regions are ruled by the Kuo-Toa peoples. They will deem
+     you an enemy by default.
+
+** Slaad Ruled Regions
+   - Status: Enemy
+   - Description: These regions are ruled by the Slaadi peoples. They will deem
+     you an enemy by default.

@@ -251,6 +251,47 @@
 ** Dracon Manor
 ** Lum'is Deep Forest
 
+* Underground River
+  This is a river that can take you many places in Lum'is, Falendrone, Vet'ric,
+  Kelczar, and many other places on the east side of the continent. There are 3
+  openings to the river found in Lum'is, 1 in Falendrone, 1 in Vet'ric, 1 in
+  Kelczar, 1 Morytania, 1 in Edgeville, and 1 in Ghosttown. The river is so
+  secretive that not even the kings of these places know of it's
+  existence. Needless to say, it is /very/ important that you keep it a secret!
+
+  Because the river is pretty much motionless, it is very easy to travel either
+  direction. How convenient.
+
+  No matter where you enter from, it is pretty much the same scene. The second
+  you open the trapdoor you hear nothing, the smell of fresh water and the
+  coolness of the cave rushes out of the door. As you climb down the cold moist
+  ladder, you get shivers and light beings to diminish. There is no light
+  down. Pitch black. If you can see, good. If not, get a light. The walls the
+  cave are moist and dark, so is the ground. As you travel down the hallway, the
+  air gets moister. Once you reach the water, you will see a large (about 50yds)
+  river that isn't flowing pretty much at all. On both sides of the river, there
+  is walking space that is about 10ft in width.
+
+** Lum'is Routes
+   Locations:
+   - Pu'in's House of Booze Cellar
+   - Kuo-Toa Village in the Lum'is Swamps
+   - Dracon Manor
+
+
+   Pretty much everywhere in the Lum'is region is controlled by the
+   Kuo-Toas. Once you enter the river "hallway," a d8 of them will jump out of
+   the water and demand to know who you are!
+
+** Edgeville and Ghosttown Routes
+   Locations:
+   - About a 2 day walk from Edgeville, inside the Slaadi village
+   - Someplace around Ghosttown
+
+
+   Pretty much the entire rest of the river is controlled by the Slaadi because
+   they are much stronger. They basically let the Kuo-Toa have the Lum'is part.
+
 * Falendrone Region
 * Vet'ric Region
 * Between Falendrone and Vet'ric

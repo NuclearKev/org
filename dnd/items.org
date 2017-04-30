@@ -342,7 +342,7 @@
 
 		If they have a conversation with Bushuma, she will give them a hint about
 		her brother, even if they haven't started the [[file:campaign.org::*Port%20Santus%20Mystery][Port Santus Mystery]] quest
-		yet.
+		yet. Jump to [[file:campaign.org::*Underground%20River%20of%20Lum'is][Underground River of Lum'is]].
 
 *** Lum'is Public Inn
 		The inside of this place is insane! It looks nicer than the inside of the
@@ -356,4 +356,10 @@
 		a diner and it costs 8sp per meal.
 
 ** Lum'is Swamp
+   There aren't any real notable places in the swamp except Charcoln's house,
+   the rune cave, the Kuo-Toa's Village, and one entrance to the Dungeon of Doom.
+
 ** Lum'is Island
+* Underground River
+  The underground river contains no stores. There are civilizations of Kuo-Toas,
+  Slaads, and Umber Hulks, although, they have no stores.

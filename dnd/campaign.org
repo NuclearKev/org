@@ -22,7 +22,7 @@
 	 18. Orc Town
 	 19. Dwarf Town / Dwarvian Mine
 	 20. The Monastery
-	 21. Ghostown
+	 21. Ghosttown
 	 22. Catherby
 	 23. Trolls' Mountain
 	 24. Iceville
@@ -888,7 +888,9 @@
 
 	 If they ask questions, he will respond:
 	 "Listen, I just rule the place, I don't know the logistics! Go to Port Santus
-	 and talk with Tally'an and Topiz about it. They know better than I."
+	 and talk with Tally'an and Topiz about it. They know better than I. All I ask
+	 is that you bring me the head of the witch, to verify that you've completed
+	 the task."
 
 	 Once accepted: "Fair well and good luck my adventurers! I know you will not
 	 fail me!"
@@ -899,8 +901,230 @@
 
 	 --------------------------------------
 
+   Once there, go to Tally'an and Topiz's house and talk with them about it.
 
+   Topiz: "Hahaha! I can't believe the king is sending another group to try and
+   kill that damn witch.
+
+   Tally'an: "It's truly amazing that he keep s sending people to do it..."
+
+   "Anyways! Here's the deal: There is a witch that lives about a day and a half
+   that-a-way (pointing North-west). Every year for the past a billion years, it
+   comes down and steals some children and eats them or whatever witches do. The
+   king has been sending people to kill it for like 10 years now, no one can
+   ever do it. So good luck, I guess."
+
+   Topiz: "Hahah! Yeah, good knowing you guys! I hope you enjoyed you stay in
+   Lum'is."
+
+   If they ask why the Dracon Clan hasn't taken care of it:
+
+   Topiz: "Well, you see, it's out of the Dracon's area. They're suppose to
+   protect /most/ of Lum'is minus the actual city and this port. They also don't
+   do anything in the swamp or the north-west part that is near Falendrone. So
+   technically they don't have to do anything there."
+
+   Tally'an: "If you guys succeed, with you probably won't, I want to see the
+   head of that bitch!"
+
+   Once the conversation ends, they can go on the quest!
+
+   --------------------------------------
+
+   During the first day, they will be walking along minding their own business
+   when all of a sudden 2 frog people (Bullywug) will run out into the path
+   screaming "Help us! Help us! Our village is under attack!!"
+
+   You can avoid the bad conflict by first finding out that it's a trap. To do
+   so, someone much have a hunch that it's a trap and roll a perception
+   check. They aren't very charismatic so the DC is only (d20 - 2) 13 max.
+
+   If they battle these fuckers, they will most likely win. However, every
+   restart of the initiative I will roll a d20. If >18, the rest of the gang (3
+   others) hears the fight and will join. Including the 3 Ettercaps they were
+   with.
+
+   They won't find anything worth a shit if they go looking to see where they
+   came from. This was simply a ploy to get some food, except they picked the
+   wrong group.
+
+   --------------------------------------
+
+   Day 2 won't have anything for the first half of the day.
+
+
+   You come up to a small old shack. It has moss growing all over it and looks
+   like it's about to fall over at any moment. While gazing at the shitty place,
+   the door opens and little girl will run out. She will say: "Hi!!!" waving her
+   hand. "Wanna come in and play?" They can not fall for the voice with a
+   insight check DC 14 and not fall for the appearance with a DC 20
+   investigation. They will fall for it otherwise.
+
+   If they don't fall for it BATTLE TIME! She will transform into her real form
+   (Green Hag) and yell "Sister! It looks like we have some *MEN* for tonight!"
+   Her sister will come out of the house, who is a Night Hag.
+
+   Whomever is the last hag left, and once she gets around 25% HP, she will pull
+   out a wand and zap the house. It will erupt like a volcano and lava will spew
+   out, melting the entire place. The lava will not hit anyone. She will then
+   say: "You will *NEVER* see what we've been working on! *NEVER*! Try and get
+   to our cellar now!"
+
+   If they DO fall for it:
+   For every speech line she says, they can make the insight check and
+   investigation.
+   Girl: "C'mon in! Grammy is making some soup, if ya want some!"
+   Grammy: "Sweetie, what do we have here?"
+   Girl: "Some friends that wanted to come in a play with us!"
+   Grammy: "Oh, we just /love/ *playing* don't we?"
+   Girl: "Yes we sure do!"
+   Grammy: "Let's eat some lunch before we play, okay? Are you boys alright with
+   that?"
+
+   If they eat the soup, they will go unconscious.
+
+   To be continued...
+
+   *If this actually happens, things will have to be improvised.*
+
+   --------------------------------------
+
+   Well, the battle is over. What to do now? The house is a big pile of lava and
+   what did she mean by "what we've been working on?" If they wish to see what
+   was in their cellar, jump to [[*The Hags' Cellar][The Hags' Cellar]], otherwise, they can return to
+   the Tally'an and Topiz with the head of the hag and then to the king with the
+   head.
+
+   --------------------------------------
+
+   Topiz: "NO. FUCKING. WAY. You guys did it?!"
+
+   Tally'an: "I think I just shit my pants! We've never seen warriors like you
+   before! Congratulations and thank you!"
+
+   Topiz: "I think I've got just the thing for you!"
+
+   **runs upstairs**
+
+   You hear a chest being opened and then closed.
+
+   "Take this."
+
+   He hands out a small silk bag.
+
+   "Inside is something called *Solidaria*. It's a powder substance. Don't ask
+   what it is or what it does, just don't get caught with it. You might need it
+   in case you get into trouble."
+
+   After the conversation, they leave for the Lum'is Castle or spend the night
+   in the inn.
+
+   Nothing of importance will happen on the trip there.
+
+   --------------------------------------
+
+   King: "Greetings! My adventures! How are thee!? Wait... Wait a minute. You're
+   still alive? HOW? That means you guys.... killed the witch?"
+
+   "No way. I can't believe this. Squire! Go into my room and get these
+   gentlemen their pay and a Lum'is wafer!"
+
+   You each get a bag of coin (25G each) and a wafer.
+
+   "The bags contain 25G each. The wafer is a special treat... Go head. Eat
+   them."
+
+   The Lum'is Wafer will increase one of their ability scores by 1. No limit.
+
+   "What do you think of /that/? Haha, no they aren't for sale. I decided to get
+   them crafted just for you guys, if you were to return! HAHA! I can't believe
+   it. Go on, rest now. I'm having a celebration tonight because of your
+   successes!"
+
+
+   They can now go and rest. Around 8PM that evening there is an event where all
+   the towns folk and the king and everyone get fucking smashed and party. If
+   they attend the party, and not fuck things up, it will increase their
+   popularity even more.
+
+   :end
 
 *** Underground River of Lum'is
-		This quest is *not* needed to finish the Port Santus Mystery. It will,
-		however, help you in the next quest and many more to come.
+    Bushma: "What are ye boys doin here in Lum'is?"
+
+    If they answer by saying something about a quest by the king:
+    "Ahh yes I see... My brother, *Pu'in*, was sent on a quest by the king. He
+    never returned..."
+
+    "He was sent by the king to take care of some witch that was found in the
+    forest of Lum'is... Supposedly, she was located about a day's travel from
+    the Port. Rumor is that Pu'in died at the hands of the witch."
+
+    If they don't mention the king or quest, she will eventually bring it up.
+
+
+    She does not explicitly say that she wants them to go and find her brother
+    but if she gives them this talk, they've started this quest.
+
+    --------------------------------------
+
+    Once they've defeated the hags, they can either bring Pu'in back to town or
+    leave him and the other prisoners to die. If they bring him back, they can
+    complete this side quest.
+
+    --------------------------------------
+
+    If they enter the bar with Pu'in:
+
+    Bushma: "Is that!? .... PU'IN!!!!" **crying**
+
+    She runs up and hugs her lost brother with tears running down her face.
+
+    "How can I ever repay you boys?!"
+
+    She won't give them whatever, but if they say free booze, she'll say
+    sure. She won't give them money or anything ridiculous.
+
+    After all the joy is done, she will ask them to follow her to the back. In
+    the cellar of the building they will go. The cellar is cold and dark. You
+    can heard the hustle and bustle from the people upstairs in the bar very
+    quaintly. The candle she brought only illuminating a small bit of the
+    cellar, but enough to see wear you are going. She takes you to a locked iron
+    door.
+
+    "There is a secret behind this door. Do *NOT* tell *ANYONE* about it!"
+
+    **whisper whisper** (saying some words under her breath)
+
+    The lock on the door, unlocks with a click! She carefully swings the door
+    open and inside of this small closet-like room is some kind of iron trapdoor
+    with another lock and handle on it. She whispers again and that lock
+    unlocks, with another click.
+
+    "Down this trapdoor is a cave. The cave is called the *Underground River of
+    Lum'is*. It will take you to far off places completely unseen. However, it
+    is still quite dangerous to use. If you do not know how to navigate down
+    there, you will surely get lost. Not to mention, the Kuo-Toas that live
+    down there can be quite the scare! There are also other creatures down there
+    that can make travel quite difficult, if you don't know what you're doing! I
+    imagine this could be a use to you adventurers, so here it is! Use it
+    wisely."
+
+    If they ask about a map of the place:
+    "People whom use the river do *not* make maps or tell others about
+    it. You either have to figure it out yourself or become friends with the
+    Kuo-Toas and they will guide you."
+
+    After the talk is over, she will bring them back up to the bar for a drink,
+    where they can discuss their next adventure.
+
+    This quest will make the group look really amazing to all in the bar and
+    will increase their overall approval rating in Lum'is and in the continent
+    in general.
+*** The Hags' Cellar
+    They must find a way to get into the cellar. The lava is still hot, so they
+    need to cool it somehow. For example, Charcoln has a spell to cool (costs $$
+    for the runes), they could buy explosives from criminals, etc. They can
+    figure that part out.
+
+    --------------------------------------
