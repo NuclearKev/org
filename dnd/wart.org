@@ -1,0 +1,333 @@
+#+TITLE: Wart
+
+* Basics
+	Lvl: 5
+	Class: Disease Druid
+	Background: Cursed
+	Race: Disease Humanoid
+	Languages: Common, Gnomish, Orcish
+	Alignment: Neutral
+
+	XP: 8585 (14,000)
+
+	HP: 40
+	Temp HP: 17
+	AC: 16 (+4 on magic) [10(base) + 3(armor) + 3(dex)]
+	Speed: 25
+	Initiative: +2
+	Proficiency Bonus: 3
+	Hit Die: 1d6 per level (# 4 : used 0)
+
+	Inspiration:
+	Death:
+
+* Ability Scores
+	STR: 5 (-3)
+	DEX: 16 (+3)
+	CON: 7 (-2)
+	INT: 17 (+3)
+	WIS: 19 (+4)
+	CHA: 15 (+2)
+
+* Saving Throws
+		STR: -3
+		DEX: +2
+		CON: -2
+		INT: +3 *
+		WIS: +4 *
+		CHA: +2
+
+* Skills
+	Acrobatics (Dex)
+	Animal handling (Wis)
+	Arcana (Int)
+	Athletics (Str)
+	Deception (Cha)
+	History (Int)
+	Insight (Wis) * ( 4(wis) + 3(pro)) = +7
+	Intimidation (Cha) * ( 3(cha) + 3(pro) + 5(on 1st) + 3(other) ) = +11 or +9
+	Investigation (Int)
+	Medicine (Wis) * ( 4(wis) + 3(pro) ) = +7
+	Nature (Int)
+	Perception (Wis)
+	Performance (Cha)
+	Persuasion (Cha)
+	Religion (Int) * ( 3(int) + 3(pro) + 5(feat) ) = +11
+	Sleight of hand (Dex)
+	Stealth (Dex)
+	Survival (Wis)
+
+* Attacks
+	Wart can't attack with his hands because he's so weak. However, he doesn't
+	have spell slots for his spells.
+
+* Spells
+	Wart doesn't technically use "spells" unless they actually are spells. It
+	makes explaining them easier if we say spells though. Wart believes that they
+	are spells and so does everyone else but actually the attacks are not spells
+	and require no magic whatsoever. This is why he can do some of them
+	indefinitely. Attacks like "wart" and "chant" are not "magical" in
+	nature. Wart is actually isn't conjuring the disease. Wart is technically
+	transferring one of his diseases to the target. Since is made up of the
+	disease, he doesn't need to worry about running out of uses of this. The
+	others are explained in their sections.
+
+	IMPORTANT: Wart's attacks do *not* count as magical. This means Magical
+	Resistance doesn't work. However, if an enemy has resistance to physic or
+	disease attacks, that will apply.
+
+	Spell DC: 14 [8 + proficiency bonus + wis mod]
+	Spell attack bonus: +6 [proficiency bonus + wis mod]
+	Modifier: Wisdom
+	Spell Slots: ∞
+
+** Wart Magic
+	 These spells are charm-like spells that cause damage over time. However a few
+	 do normal damage.
+
+*** Wart
+		On a failed CON save, the enemy gets a bunch of bright red sores all over
+		their body. These cause 1d10 of damage per turn. Every turn the enemy must
+		roll a CON save, if passed the sores go away, otherwise, they will last 1
+		minute. The target must be within 60 feet for the spell to have effect. The
+		damage dealt increase with Wart level.
+
+		Any non-biological target has immunity to this attack because it feeds on
+		the living cells of the target. Undead creatures such as zombies, ghouls, or
+		ghasts /are/ affected by this spell.
+
+
+		This attack does not require "spell slots" because it isn't a spell. It
+		requires no magic from Wart whatsoever. What Wart is, subconsciously, doing
+		is transferring his disease to the target. It is entirely up to the target
+		whether they contract it or not.
+
+*** Helping Warts
+		The target gets a bunch of warts all over them and regain 1d6 (goes up with
+		level) of HP for a 1d6 (also goes up) of turns. On a short rest, you get
+		a 1d6 of 1d6s (or whatever the die are).
+
+		At the 8th level, the spell gives the target immense power. They can use the
+		HP die as an inspiration die for *anything*. The disease's abilities have
+		increased such that the target's entire body has temporarily perfected.
+
+		This attack does not require "spell slots" because it isn't a spell. It
+		requires no magic from Wart whatsoever. What Wart is, subconsciously, doing
+		is transferring a disease to the target. It is entirely up to the target how
+		long they have it for. If you're wondering how this is possible, the answer
+		is simple. Wart is a humanoid conjuring of disease, yet he isn't just 1
+		disease. Inside of him are a mixture of many disease. One of those disease
+		is Helping Warts.
+
+*** Chant
+		Wart starts making strange chanting noises that only a singular target can
+		hear. Upon a failed WIS check, the target takes 1d12 of psychic damage and
+		the target will have disadvantage next turn. The target must be within 60
+		feet and does *not* have to be able to physically hear Wart's chanting (it's
+		done telepathically). The damage dealt increase with Wart level.
+
+		This is technically a cantrip.
+
+*** Lesions
+		Wart causes lesions to form on the target causing them to have one of the
+		following effects. Roll a d4 to choose which one
+
+		1. Blindness (CON save)
+		2. Paralysis (CON save)
+		3. Headache/Confusion (WIS save) (1d4 of damage per failed save)
+		4. Illusions (INT save)[fn:1]
+
+		All of those will last 1 minute, or until the target passes the saving
+		throw. They roll at the start of their turn.
+
+		[fn:1] Which illusion the target has is chosen by rolling a d6:
+		- 1-2: The target see that their skin is melting away.
+		- 3-4: The target sees double of each item around he/she (5 enemies would
+      become 10).
+		- 5-6: Their worst nightmare appears at a distance.
+
+		This attack does not require "spell slots" because it isn't a spell. It
+		requires no magic from Wart whatsoever. What Wart is, subconsciously, doing
+		is transferring his disease to the target. It is entirely up to the target
+		whether they contract it or not.
+
+*** Plague
+		Wart unleashes a plague on a target. If the target fails a CON save, they
+		are affected. The plague will cause the enemy to become very ill, dealing
+		3d12 of biological damage. The plagues lasts until the target rolls a
+		successful CON save or for a 1 minute. The plague can also causes the target
+		to have disadvantage on attack rolls and AC checks due to the frailness that
+		they have whilst being affect.
+
+		The plague is so deadly that any living biological creature within 5ft of
+		the target must roll a CON save or also get the plague.
+
+		The damage caused by this increase with level.
+
+		This attack /is/ a spell. Wart does not have enough of this disease inside
+		of him to be able to command it as he needs. This means he must conjure the
+		disease on the target. This requires a spell slot. This means that any
+		anti-magic the target could have, /would/ apply.
+
+*** Biological Control
+		Wart can use his disease to control a target. The target must pass a WIS
+		save or become victim to this. The spell lasts until the enemy rolls a
+		successful WIS save or until Wart loses concentration.
+
+		While controlled, the target can do whatever Wart wants. This does not
+		include causing damage to itself; however, it can attack others.
+
+		This attack /is/ a spell. Wart does not have enough of this disease inside
+		of him to be able to command it as he needs. This means he must conjure the
+		disease on the target. This requires a spell slot. This means that any
+		anti-magic the target could have, /would/ apply.
+
+*** Incurable Disease
+		Wart can cause a target to be infected with a disease that isn't curable.
+		This means the target will /always/ have the disease unless they get
+		medicine for it. The target must succeed a CON save or fall victim to this
+		disease.
+
+		The disease will deal 5d12 of biological damage per turn. Unlike the plague,
+		this disease cannot be spread.
+
+		The damage caused by this increases with level. If you are affected by this
+		spell, you are screwed. There really isn't any returning from this.
+
+		This attack /is/ a spell. Wart does not have enough of this disease inside
+		of him to be able to command it as he needs. This means he must conjure the
+		disease on the target. This requires a spell slot. This means that any
+		anti-magic the target could have, /would/ apply.
+
+* Feats
+** Eternally Cursed
+	 Since Wart is cursed until the end of time, he cannot be cursed by any other
+	 being. This means he can hold cursed items without having their effects.
+
+	 However, because of Wart's curse he cannot gain physical strength in anyway.
+	 This means he cannot increase his ability scores for STR or CON. DEX cannot
+	 be increase more than 20. However, INT and WIS can go past 20.
+
+** Sorcerous Origins
+	 Choose a sorcerous origin, which describes the source of your
+	 innate magical power: Draconic Bloodline or Wild Magic, both
+	 detailed at the end of the c1ass description.  Your choice grants
+	 you features when you choose it at 1st level and again at 6th,
+	 14th, and 18th level.
+
+	 Wart's Origins are no longer relevant; however, he's cursed origin is. That
+	 being said, his origin is called Disease Magic. However, he can learn any
+	 sorcerer spell if he has the time to learn it. I doubt that he will ever do
+	 this and if he does, probably for a cantrip.
+
+** Immunity
+	 This feat gives Wart immunity to certain things. He gains more immunities
+	 as he levels up. At the 3rd level, Wart becomes immune to any form of
+	 poison. At the 10th level, Wart gains immunity to any illness (sickness from
+	 food, or any germ-caused sickness). At the 17th level, Wart is immune to any
+	 form of status change (whether it be slowness from an ice spell or paralysis
+	 from a Ghoul).
+
+** Pure Hideousness
+	 Wart has master the art of using his scariness as an intimidation tactic. In
+	 fact, he gains proficiency in intimidation and gains a +5 bonus on first
+	 sight and a +3 bonus normally.
+
+	 When a target falls to his intimidation, they have disadvantage on all saving
+	 throws until they are cured of the fear. This includes AC checks.
+
+	 Explanation of first site: Since Wart is a conjuring of disease, he is
+	 extremely terrifying at first. This means he has advantage on intimidation on
+	 the first site by a creature.
+
+* Leveling Up Table
+  | Level | Proficiency | Features                                         | Wart | Chant | Plague | P Slots | B Slots | I Slots |
+  |-------+-------------+--------------------------------------------------+------+-------+--------+---------+---------+---------|
+  |     1 |          +2 | Wart Spells, Sorcerous Origins, Eternally Cursed | 1d10 |  1d12 |      - |       - | -       | -       |
+  |     2 |          +2 | Helping Warts(1d6)                               | 1d10 |  1d12 |      - |       - | -       | -       |
+  |     3 |          +2 | Immunity                                         | 1d10 |  1d12 |      - |       - | -       | -       |
+  |     4 |          +2 | Ability Score Improvement                        | 1d10 |  1d12 |      - |       - | -       | -       |
+  |     5 |          +3 | Wart Damage Increase, Lesions Spell              | 2d10 |  1d12 |      - |       - | -       | -       |
+  |     6 |          +3 | Pure Hideousness Feat                            | 2d10 |  1d12 |      - |       - | -       | -       |
+  |     7 |          +3 | Chant Damage Increase                            | 2d10 |  2d12 |      - |       - | -       | -       |
+  |     8 |          +3 | Ability Score Improvement, Helping Warts(1d8)    | 2d10 |  2d12 |      - |       - | -       | -       |
+  |     9 |          +4 | Wart Damage Increase                             | 3d10 |  2d12 |      - |       - | -       | -       |
+  |    10 |          +4 | Immunity, Plague Spell                           | 3d10 |  2d12 |   3d10 |       3 | -       | -       |
+  |    11 |          +4 | -                                                | 3d10 |  2d12 |   3d10 |       3 | -       | -       |
+  |    12 |          +4 | Ability Score Improvement                        | 3d10 |  2d12 |   3d10 |       3 | -       | -       |
+  |    13 |          +5 | Wart Damage Increase, Chant Damage Increase      | 4d10 |  3d12 |   3d10 |       3 | -       | -       |
+  |    14 |          +5 | Helping Warts(1d10), Plague (4d12)               | 4d10 |  3d12 |   4d10 |       4 | -       | -       |
+  |    15 |          +5 | Biological Control Spell                         | 4d10 |  3d12 |   4d10 |       4 | 2       | -       |
+  |    16 |          +5 | Ability Score Improvement                        | 4d10 |  3d12 |   4d10 |       4 | 2       | -       |
+  |    17 |          +6 | Wart Damage Increase, Immunity                   | 5d10 |  3d12 |   4d10 |       4 | 3       | -       |
+  |    18 |          +6 | Plague (5d12)                                    | 5d10 |  3d12 |   5d10 |       5 | 3       | -       |
+  |    19 |          +6 | Ability Score Improvement, Chant Damage Increase | 5d10 |  4d12 |   5d10 |       5 | 4       | -       |
+  |    20 |          +6 | Helping Warts(1d12), Incurable Disease Spell     | 5d10 |  4d12 |   5d10 |       5 | 4       | 2       |
+
+* Items
+	Magic Cloak (+4 AC on magic)
+	Blessed Studded Leather Armor (+3) (halved on necrotic damage)
+	Minor Healing Potions (4) [+5 HP]
+
+* Backstory
+	Wart was originally a highly trained sorcerer at the Academy of Magic. He
+	specialized in Wild Magic. Wart's original name was Seebo of the Ningel clan.
+	He became a very powerful sorcerer at the academy and began teaching the
+	young. However, one day he needed to go on a mission because there was a
+	group savages that was taking over a local monastery. Seebo and a group of
+	other magic users went to take care of them. However, they found themselves
+	screwed when the savages out numbered them greatly. Instead of simply killing
+	them, they decided to brainwash them into believing that the academy was evil.
+	They did this because they believed that they could destroy the academy for
+	them.
+
+	They went back to academy and attempted to destroy the entire place and
+	everyone in it. This was a complete failure and then ended up in the prison
+	at the academy. Seebo attempted to escape multiple times and eventually was
+	sentenced to death because of his attempted escapes (he also killed many
+	people trying to escape). However, the head of the academy chose to curse him
+	instead of killing him. The head hoped that after many years of being an
+	ugly freak, he would come back to be taught again. At this point, Seedo became
+	Wart. His body was morphed from his Gnomish self into a strange unknown
+	creature that had green skin and warts all over. He was cursed to be named
+	Wart as well. Wart was then banished from the academy, only to return when he
+	was at peace with himself.
+
+	Wart left and lived a miserable life for many years. He couldn't live a normal
+	life any longer and was forced to live in exhale for years. One day Wart
+	decided he was going to rid himself of this curse by going to the Devil's
+	Circle and pleading for a cure. Upon entering the Devil's Circle he was
+	granted a "cure" only if he could wipe out all non-believers in Lucive, the
+	ruler of the Underworld. Wart explained that he was unable to do such a task,
+	he isn't strong enough. In response to this, Lucive cursed Wart for all of
+	eternity because of his lack of faith. He explained to Wart that he is now
+	eternally cursed and will never be cured (this is where Wart's new abilities
+	came from).
+
+	Wart left the Devil's Circle to live his miserable life and on the
+	way back to his house, he decided that he was going to do what Lucive said to
+	him. Maybe if he did, he would save him. Wart went from church to church,
+	town to town, city to city; planning out how he was going to wipe out the
+	non-believers of Lucive. After Wart wiped out a couple of churches he became
+	a Most Wanted person.
+
+	Wart was planning on taking out a church in a town that was known for it's
+	extremely rich owner (the mansion place). When Wart went in to kill the people
+	he was attacked by gargoyles and placed into the jail found in the basement
+	of the church. He was unable to escape because of his extremely weaken
+	strength (due to the curse).
+
+	When the church officials told the King that they caught Wart, the King's
+	officials were set to get him and bring him to the Castle. However, little
+	did the church know that a group of con artists faked the capturing of Wart
+	and tricked the King in believing that their fake Wart was the real one.
+	Because of this, Wart was left in the jail for 7 years. He trained his mind
+	for 7 years and became very wise. The reason the church didn't kill him was
+	because the church officials prayed about it and their god said that Wart
+	was doomed anyways and the church will get their money for him one day.
+	The reason the church gave away Wart to the travelers (the players) was
+	because they had lost hope in it.
+
+	This is Wart's story. His goal in life is to become uncursed and live a normal
+	life. However, the players don't seem to mind his hideous face or he extremely
+	dangerous abilities. He likes them. He feels at home.

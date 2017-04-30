@@ -1,0 +1,359 @@
+#+TITLE: Items
+# This file will contain the contents of each town. So, for example, what's in
+# the general store. It will also have the prices of items and, if it's a
+# service, the price of that service. For example, blacksmithing a sword out of
+# iron would have it's own cost depending on the town.
+
+* Lum'is
+** Port Santus
+*** Kyle's Food Store
+		The inside of the store smells like freshly baked bread. You see a young man
+		standing behind a full length (of the building) counter. There is an
+		entrance to behind the counter all the way to the left. On the counter you
+		see a bunch of foodstuff. A wide variety of breads, some fruits and
+		vegetables, and some other foods are on display for you to see. The boy
+		behind the counter looks like he is the son of whomever owns this
+		establishment.
+
+		Kyle's Son: "Good day gentlemen, what brings you to the port?"
+
+		or if they've been there before: "Good to see ye again! What can I get ye
+		for?"
+
+		In stock:
+		| Name             | Price | Amount | Extra                                            |
+		|------------------+-------+--------+--------------------------------------------------|
+		| Loaf of Bread    | 2cp   |     24 | Will act like a food ration, molds after 1 month |
+		| Bagget           | 1cp   |     12 | 2 = 1 food ration, molds after 1 month           |
+		| Flatbread        | 1cp   |     15 | Good for sandwiches! Mold after 1 month          |
+		| Hunk of Cheese   | 1sp   |      5 | Good on sandwiches! Molds after 1 week           |
+		| Hunk of Meat     | 3sp   |      5 | Good on sandwiches! (see more below)             |
+		| Bag of Seeds     | 5cp   |      3 | Very good for you, can give you benefits         |
+		| Bag of Mushrooms | 6cp   |      1 | Probably outta know what your doing...           |
+		| Can of Worms     | 1sp   |      1 | Why is this so expensive?                        |
+		| Food Ration      | 5sp   |     10 |                                                  |
+		| Cram Ration      | 3sp   |     10 | A cheaper, less tasty food ration                |
+		| Tripe Ration     | 8cp   |      3 | A very very cheap, very gross food ration        |
+
+		If you buy bread, cheese, and meat you can craft a sandwich with it. You can
+		use this as a meal /and/ you'll get a free inspiration die (1d4)!
+
+*** Port Santus Brewery
+		Inside the bar you an open room with a bunch of tables all around. Some are
+		smaller, consisting of 2 chairs, others are larger, consisting of 6
+		chairs. Behind the bar is a human woman with short blond hair. She looks
+		rough and is probably a dyke. To the right of the room is a door that you
+		assume leads to the Inn next door.
+
+		In stock:
+		| Name             | Price | Amount | Extra                                 |
+		|------------------+-------+--------+---------------------------------------|
+		| Ale              | 4cp   |        | After 1d6, you must roll a cons saves |
+		| Wine             | 2sp   |        | After 1d4, you must roll a cons saves |
+		| Glass of Rum     | 2sp   |        | 1d4 you're drunk. +1sp for ice!       |
+		| Glass of Whiskey | 2sp   |        | 1d4 you're drunk. +1sp for ice!       |
+		| Dirty Jan**      | 8sp   |        | Get fucked lol                        |
+
+		* The cons saves are DC 7 and increase by 1 every drink afterwards. On a
+      failed save, you are plastered. Once you reach a DC of 20, you black out.
+
+		** The Dirty Jan is a mixed drink that is basically 90% alcohol. If you
+      choose to drink this, you must make a cons save (DC 15) or black
+      out. Otherwise, you are just plastered.
+
+*** Dirty Janet's Inn
+		The Inn is quite nice. It's well finished and gives you a sense of
+		home. The area you're in is quite small and contains a front desk (it's just
+		a wooden counter with a chair on the other side) and some tables and
+		chairs. The person behind the desk is a human woman with short blond
+		hair. She looks rough and is probably a dyke.
+
+		Price per night: 5sp for a normal rooms, 8sp for our top floor suites (there
+		are only 4 of those)
+
+		* Roll a d4 to see how many of the suites are taken.
+
+*** Heave & Hoe: A Sailors' Shop
+		The inside of this place is a mess! There is stuff all over the place. You
+		see weights and ropes and hooks and rods and all sorts of strange items. You
+		see a person digging through stuff towards the back.
+
+		Once he turns around: He's big and hairy. Imagine someone like Hagred from
+		Harry Potter. He looks like he's wrastled a gator or suttin!! You also
+		notice that he is missing an arm... Interesting.
+
+		In stock:
+		| Name           | Price  | Amount | Extra                                        |
+		|----------------+--------+--------+----------------------------------------------|
+		| Rope(50ft)     | 1gp    |        |                                              |
+		| Anchor*        | 2gp    |      2 | These are just big chucks of metal basically |
+		| Ores           | 7cp    |     10 |                                              |
+		| Block & Tackle | 1gp    |      6 |                                              |
+		| Barrel         | 2gp    |      5 |                                              |
+		| Chest          | 5gp    |      3 |                                              |
+		| Bucket         | 5cp    |      8 |                                              |
+		| Fishing Tackle | 1gp    |      3 |                                              |
+		| Grappling Hook | 2gp    |      1 |                                              |
+		| Pole           | 5cp    |      3 |                                              |
+		| Chain(10ft)    | 10gp   |      1 |                                              |
+		| Backpack       | 2gp    |      3 |                                              |
+		| Bedroll        | 2gp    |      3 |                                              |
+		| Candle         | 1cp    |     24 |                                              |
+		| Jug            | 2cp    |      5 |                                              |
+		| Lamp           | 5sp    |      9 |                                              |
+		| Sack           | 1cp    |     20 |                                              |
+		| Waterskin      | 2sp    |     14 |                                              |
+		| Spyglass       | 1000gp |      1 |                                              |
+		| Food Rations   | 5sp    |     50 |                                              |
+
+
+		* It may not be apparent, but this can be used as a weapons but someone who
+      is very strong. If a player has a strength greater than 18, can lift the
+      weights of one of the given anchors (and have enough strength left over to
+      throw it), and is proficient in improvised weapons they can use
+      it. Depending on the size of the anchor, it will deal 3d12 bludgeoning
+      damage (plus str) and cause the target to roll a strength check otherwise
+      become prone. That's the minimum damage. If the anchor is very heavy there
+      is another added damage. If the enemy gets proned by the anchor, there is
+      a change that it will remain on top of it. This means the target may be
+      stuck prone!
+
+** City of Lum'is
+*** Castle
+		None of these places are available for use until they've been sworn in by
+		King Lum'is himself. However, being sworn in can cause problems later in the
+		campaign, especially if they get involved in the 5 Nation War.
+
+**** Barrack Blacksmith
+**** Barrack Craftsmen
+**** Royal Medical Unit
+**** Royal Bar
+*** Withman's Farm
+		The farm itself is fairly nice. It isn't very large and contains 3 fenced in
+		areas. One for cows, one for chickens, and one for sheep. You see that all
+		of them have a good amount of each animal. At the front (facing towards the
+		street) is a small house.
+
+		Inside of the house is very clean. It smells like a farm, but in a good
+		way. There is a human woman inside churning some butter. She is quite short,
+		has long blonde hair, and is wearing a typical Amish woman's attire. As you
+		walk in she greetings you: "Good afternoon men. Are you looking for some
+		livestock?"
+
+		In stock:
+		| Name            | Price | Amount | Extra                                        |
+		|-----------------+-------+--------+----------------------------------------------|
+		| Chicken         | 3gp   |     24 | 1 egg per day, dozen/chicken = 1 day of food |
+		| Cow             | 10gp  |      5 | See below*                                   |
+		| Sheep           | 6gp   |      9 | See below**                                  |
+		| Book on Farming | 5gp   |      1 | See below***                                 |
+		| Butter Churner  | 1gp   |      4 | Used to churn butter                         |
+
+		* Cows are very expensive because of all the good things they can
+      provide. You can use a cow to make cheese, butter, and milk (if
+      female). Not to mention they can carry some stuff (420lb). You must know
+      how to milk a cow in order to get the milk. Then you must learn how to
+      make cheese and milk. You can learn this in the book. Cow can also be used
+      for meat and the meat must be eaten within 1 day or it will go bad unless
+      preserved.
+
+		** Sheep are very nice and fluffy. They do not service any other purpose
+		than for wool and meat. You must know how to make stuff out of wool to put
+		it to use. Sheep can also be used for meat and the meat must be eaten within
+		1 day or it will go bad unless preserved.
+
+		*** The book is entitled "Fun Farm Facts." It has 10 chapters and you can
+		read 1 chapter per short rest. You don't have to read then entire book to
+		learn certain tasks.
+		- Chapter 1
+			- Introduction
+		- Chapter 2
+			- Keeping your animals alive
+		- Chapter 3
+			- Animal Handling
+		- Chapter 4
+			- Chickens
+		- Chapter 5
+			- Maximizing Egg Output
+		- Chapter 6
+			- Cattle
+		- Chapter 7
+			- Milking
+		- Chapter 8
+			- Making cheese
+		- Chapter 9
+			- Making Butter
+		- Chapter 10
+			- Sheep
+		- Chapter 11
+			- Maximizing Wool Output
+		- Chapter 12
+			- About the Author
+			- This explains that the author was the owner of the farm in the city of
+        Lum'is. It also explains that he has other books about crops, building,
+        and having a successful farm business.
+
+*** Savvy Crafts
+		The place is extremely small. The inside has different cloths and sewing
+		items all over the place. The walls have shelves on them each shelf is
+		filled with something. As you walk in you must step over the cloth and shit
+		that is on the floor. Towards the back you see a small man with glasses
+		stumbling around. He trips over some shit and says "doh!" He doesn't notice
+		you as you come in.
+
+		If you attempt to get his attention he will jump and shout: "Who the hell?!
+		Oh? Customers!! **struggles to get over to you guys** What can I help ye
+		with?"
+
+		He can make:
+		| Name          | Price                | Extra                           |
+		|---------------+----------------------+---------------------------------|
+		| Riding Saddle | 20gp                 | Hand Crafted - custom fit!      |
+		| Pack Saddle   | 10gp                 | Hand Crafted - custom fit!      |
+		| Saddlebag     | 6gp                  |                                 |
+		| Backpack      | 10gp                 | Can hold up to 60lbs of gear!   |
+		| Blanket       | 10sp                 | Very warm!                      |
+		| Custom Cloths | see book             |                                 |
+		| Pouch         | 10sp                 | Can hold up to 12lbs of gear!   |
+		| Robe          | 2gp                  |                                 |
+		| Sack          | 2cp                  | Can hold up to 60lbs of gear!   |
+		| Tent          | 4gp (2gp per person) | Holds 2 people                  |
+		| Waterskin     | 4sp                  | Can hold up to 8pints of liquid |
+
+		The prices include the material and everything is hand made (MTO) by the
+		owner. In general, the items purchased here will hold up better and/or able
+		to hold more gear or liquid. The items crafted will also be tailored to your
+		person or steed and will work even better!
+
+*** Lum'is Public Blacksmith
+		The blacksmith's place is fairly open and there isn't really an "inside."
+		Under the roof of the place are 3 men working. One guy is heating up some
+		metal in the forge, another hammering down on a hot piece of iron, and the
+		last quenching something in a bucket of water. The man quenching the item
+		see you as you enter. "Aye, adventurers I take it?"
+
+		"Welcome! We are the finest blacksmiths in Lum'is! What can we make for ye?
+		I should add, we are not allowed under the law of King Lum'is to craft
+		weapons. We can make anything else, however."
+
+		They can take custom requests as well.
+
+		Can make:
+		| Name                      | Price         | Extra              |
+		|---------------------------+---------------+--------------------|
+		| Ball Bearings             | 2gp           | For a bag of 1,000 |
+		| Bucket                    | 10cp          | You pick the size  |
+		| Metal case for map/scroll | 2gp           | You pick the size  |
+		| Chain                     | 10gp per 10ft |                    |
+		| Crowbar                   | 4gp           |                    |
+		| Grappling Hook            | 4gp           |                    |
+		| Hammer                    | 2gp           |                    |
+		| Sledge Hammer             | 3gp           |                    |
+		| Bear Trap                 | 8gp           |                    |
+		| Lock                      | 15gp          | see below*         |
+		| Pickaxe                   | 4gp           |                    |
+		| Piton                     | 10cp          |                    |
+		| Pot                       | 3gp           |                    |
+		| Iron Pole                 | 10cp per 10ft |                    |
+		| Shovel                    | 3gp           |                    |
+		| Iron Spikes               | 2gp per 10    |                    |
+
+		* You can use a lock to lock cases or chest. It also includes a key for the
+      lock.
+
+*** Lum'is General Store
+		The inside of the store is very neat. There are selves throughout that are
+		filled with a multitude of items. They must have everything in here! There
+		are 3 clerks that are walking around. One of them comes over to you and says
+		"Hi, is there anything I can assist you with?"
+
+		The general store will have pretty much anything that isn't specific. For
+		example, if they want a lantern, they have it for the price in the book.
+
+		*They do not sell: weapons, armor, large equipment, kits, or anything
+		magical.*
+
+		If they ask about books (these are all novels, even though some sound like
+		they are non-fiction):
+		- The Tale of Despereaux
+		- Leemon's Book of Woodworking
+		- Pepper, Spice, and Everything Nice
+		- Clockworth
+		- Noevuea Von Julip
+
+
+		The brass key for the spell is priced at 1cp, an iron standard key is 3cp,
+		and there is also a special key with a purple gem embedded into the handle
+		priced at 10g.
+
+*** Lum'is Church (Church of Xithawious)
+		The inside of the church is explained in the campaign. They most likely
+		won't go in there until they've excepted the first quest, "What's in the
+		Box?" You can, however, purchase some things from the church.
+
+		In stock:
+		| Name            | Price | Extra                         |
+		|-----------------+-------+-------------------------------|
+		| Holy Water*     | 25g   | Used to enchant/curse items   |
+		| Blessed Water** | 10g   | Will regain spent spell slots |
+		| Prayer          | Join  | See below***                  |
+
+		* Holy Water from this church, in particular, will curse items. The curse
+      that will be dealt will cause the item to lack proficiency. For example,
+      if you are proficient in using a longsword, you lose the proficiency for
+      that cursed weapon.
+		** Blessed Water can be crank to regain all spell slots, however, you must
+		align with that churches alignment to do so. If you do not, you lose all
+		spell slots or can become cursed. Roll a d4, if 1-2 lose spell slots, if
+		3-4 you get cursed. The curse usually is that you have bad karma.
+		*** Prayer can be used to cure people from a disease, curse, or
+		otherwise. In order for prayer to work, the person whom is being prayed
+		upon must align with the church's alignment. If not, nothing will
+		happen.
+
+*** Pu'in's House of Booze
+		The inside of this very nice establishment is very clean. Looks like they've
+		got their shit together. The place has poor lighting and have a ton of
+		customers. It's loud yet nothing of interest is going on. The room is laid
+		out such that the bar is in the middle of the room and is circular. Tables
+		are found throughout the place seating anywhere from 2-10 people per
+		table. Behind the bar are 3 humans: 2 women and 1 man. The women are very
+		beautiful, both having long brown hair and wearing some kind of fancy
+		dress. The man is equally beautiful. He has clean shaven face and very nice
+		smooth hair. You find yourself questioning your sexuality because of him.
+
+		One of the attractive women bartenders will ask: "What can I get ye for?"
+
+		In stock:
+		| Name             | Price | Amount | Extra                                 |
+		|------------------+-------+--------+---------------------------------------|
+		| Ale              | 4cp   |        | After 1d6, you must roll a cons saves |
+		| Wine             | 2sp   |        | After 1d4, you must roll a cons saves |
+		| Glass of Rum     | 2sp   |        | 1d4 you're drunk. +1sp for ice!       |
+		| Glass of Whiskey | 2sp   |        | 1d4 you're drunk. +1sp for ice!       |
+		| Hot Potato       | 8sp   |        | flip a coin, heads = drunk            |
+		| Cold Potato      | 6sp   |        | 1d4 you're drunk. +1sp for ice!       |
+		| Lum'is Kicker*   | 10sp  |        | You're drunk.                         |
+
+		* The Lum'is Kicker is a special drink and what's in it isn't known to the
+      population. The owner of the bar *Bushuma* (one of the women) created it
+      when she opened it.
+
+
+		If they have a conversation with Bushuma, she will give them a hint about
+		her brother, even if they haven't started the [[file:campaign.org::*Port%20Santus%20Mystery][Port Santus Mystery]] quest
+		yet.
+
+*** Lum'is Public Inn
+		The inside of this place is insane! It looks nicer than the inside of the
+		castle! The floors are spotless, the walls are clean and have a lot of nice
+		art hanging. The lobby is filled with people and there is a humming noise
+		from all the people talking. While you look around, an individual comes up
+		to you. He is wearing fancy cloths, imagine a rich man with a fluffy white
+		thing coming out of this torso/chest. He says: "Are ye looking for a room?"
+
+		They only have one type of room and that costs 2gp per night. They also have
+		a diner and it costs 8sp per meal.
+
+** Lum'is Swamp
+** Lum'is Island

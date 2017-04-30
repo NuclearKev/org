@@ -1,0 +1,906 @@
+#+TITLE: Campaign
+
+* History
+** List of all the places
+	 1. West Argougnian
+	 2. East Argougnian
+	 3. Vet'ric
+	 4. Falendrone
+	 5. Rellekka
+	 6. Kelczar
+	 7. Lum'is
+	 8. Port Santus
+	 9. Swamp Village of Lum'is
+	 10. Dracon Manor
+	 11. Sand Peoples' Village
+	 12. Scorpion Village
+	 13. Morytania
+	 14. Edgeville
+	 15. No Mans' Land
+	 16. The Black Knights' Fortress
+	 17. Goblin Town
+	 18. Orc Town
+	 19. Dwarf Town / Dwarvian Mine
+	 20. The Monastery
+	 21. Ghostown
+	 22. Catherby
+	 23. Trolls' Mountain
+	 24. Iceville
+	 25. Gnomish Village
+	 26. Yandille
+	 27. Tarzentian Jungle
+	 28. Orge Village
+	 29. Crandor
+	 30. Qufar
+	 31. Kirja
+			 1. Devils' Circle
+			 2. Cave of Hell
+			 3. Fisherman's Cove
+
+** History of the 5 Nations at War
+	 First off, none of the "nations" at war are actually nations. They are just
+	 kingdoms or areas that are fighting for some reason. However, they are called
+	 nations because each of them, rule over more land than what they originally
+	 ruled. For example, Vet'ric, once a trade city, only ruled a "medium sized"
+	 area within it's walls and some small areas around them. Whence the spark of
+	 war was struck, Vet'ric rapidly gained 3x the area it originally ruled. This
+	 newly ruled area was now consider part of the Vet'ric /nation/. Most other
+	 nations in the war had a similar experience.
+
+*** East/West Argougnian
+		The history of Argougnian is rather unknown. Most of the "facts" about this
+		place are still argued and may not be 100% true. Anywho...
+
+		Argougnian was originally a single city that wasn't really know for anything
+		too serious. They were similar to Lum'is, a media center, but for the
+		Western part of the land. People from all over the western land would go
+		there to find out the news that was traveling around.
+
+		Then one day, a fearless leader lead an army of hundreds into the
+		town. However, the locals didn't give up without a fight. This battle was
+		known as *The Civil War of Argougnian*. As a direct result to the war,
+		Argougnian broke up into 2 unions: east and west. The war didn't last more
+		than a few months leaving west Argougnian in ruins. East Argougnian had
+		little to no loss in terms of inventory.
+
+		After the war, East Argougnian didn't recover it's population. In fact, it
+		didn't go back to being a media center either. It was empty. Around this
+		time, the Great Vet'ric Trade Center was opening. The new rulers of East
+		Argougnian had a great idea - make a trade center for the Western part, then
+		people will flock to their town. They failed terribly at doing so. As a
+		direct result, East Argougnian became known for 3 things: silk trade, food
+		trade, and thieves. The only successful traders in the area were silk and
+		food, and no one knows why. Because of West Argougnian being a place of
+		poverty and ruins, crime rates sky rocketed once traders came in.
+
+		Although not seen as a world power, East Argougnian still got involved in
+		the Nation Wars. How did they get involved you ask? Well, the brutes of
+		Rellekka wanted to dominate more land, so they went searching for places to
+		pillage and rule. Once they go far enough south, they ran into
+		Argougnian. The rulers of East Argougnian stood there ground as best as they
+		could against the brutal forces of Rellekka. Luckily, around half way
+		through the battle a random army of rogues, wizards, sorcerers, and priests
+		helped East Argougnian. This allowed East Argougnian to back off the forces
+		of Rellekka.
+
+		The battle between Rellekka and East Argougnian is still going on. It is one
+		of the most dangerous battles to get involved in due to the large amount of
+		magic users and brutal fighters.
+
+*** Falendrone
+		The Royal Kingdom of Falendrone was create many many /many/ years ago. It
+		was started, obviously, by the family of Falend. They conquered the land
+		from Orcs, Goblins, Giants, and Trolls because they wanted the secret mine
+		that was underneath the land. The mine consists of miles upon miles iron,
+		gold, and many other rare metals. It is said that one of the metals found
+		within these mines is a white metal, called *Whiron*. It is supposedly far
+		stronger than iron and is only used by *The Knights of Falendrone*. It is
+		also said that the mine contains another rare metal called *Vibranium*. This
+		metal is said to be one of the strongest materials around and can deflect
+		/any/ missile. It is not known whether or not it actually exists.
+
+		Falendrone wasn't really known for much except their superior mining
+		operations. It is said that they create the best weapons and armor in the
+		entire world. Other than that, there are only 3 other things that are
+		important to know about the place.
+		1. They have /highly/ trained knights.
+			 1. The knights are trained in hand-to-hand combat and are known to being
+          superior to most anyone.
+			 2. Their paladins are also trained professionals of hand-to-hand combat,
+          once again, being superior to most.
+			 3. Their rangers are known for having arrows that can pierce through iron
+          and they /never/ miss.
+			 4. Their priests are wise and also very dangerous to fight.
+		2. They seldom let anyone into the castle walls
+			 1. In fact, no one really knows what it's like inside those pristine
+          white walls.
+			 2. It is said to be one of the most beautiful places in the world.
+		3. There is a special room inside the castle called *The Party Room*.
+			 1. No body knows what happens in the party room, but it's gotta be fun!
+
+		Needless to say, Falendrone is not a place to be an enemy of. The king(s) of
+		Falendrone have a burning hatred for Vet'ric because, to them, it is not a
+		kingdom. It is a fool pretending to be king and they make /actual/ kingdoms
+		look back.
+
+		Once Falendrone announced their war on Vet'ric, they sent out a very small
+		amount of troops to take them down. To the troops surprise, Vet'ric had
+		pagan summoners that could summon demons and devils! The troops retreated to
+		tell of the news. The king ordered that we send out messengers saying that
+		Falendrone would like to hire some wizards, sorcerers, warlocks, or any
+		other magic users for the battle.
+
+		While the messengers were going all over the place, they informed the
+		"kingdom" of Rellekka and, what was now split, East Argougnian about he
+		offer. This is how both East Argougnian and Rellekka heard about the
+		war. The now recovering Argougnians declined the offer for now. Rellekka,
+		however, decided to join the battle on the team of Falendrone.
+
+		After many years of working with Rellekka, the Falendrone king got upset. He
+		claimed that the Rellekka barbarians were trash at their job and are not
+		worthy to be fighting on the team of Falendrone.
+
+		NOTE: This is mostly true actually. The barbarians of Rellekka really stood
+		no chance against the demons and devils of the Vet'ric. They also had most
+		troops get killed, on average, than Falendrone whom rarely lost a troop.
+
+		The Rellekkaian "king" decided to turn on Falendrone and the war between
+		Rellekka and Falendrone began.
+
+		Falendrone doesn't really need to put much effort in fight that war because
+		their knights are far superior to the barbarians of Rellekka.
+
+*** Kelczar
+		Kelczar is, big surprise, very unknown. In fact, the least is known about
+		this place because of how far from civilization it is.
+
+		Things we know about Kelczar:
+		1. The somehow know if you step foot on their Desert.
+		2. They are cannibals.
+		3. They have giant scorpions.
+		4. They have pyramids and lots of hidden tombs that no one has every
+       explored.
+		5. They consist mostly of magic users.
+			 1. Wizards, sorcerers, druids, and warlocks.
+		6. They supposedly have a shit ton of gems and gold that is worth a lot.
+		7. They also supposedly have a /huge/ (bigger than Falendrone's) mine that
+       is somewhere in the desert. It is said that the mine has many rare metals
+       such as Adamant and a black metal called Obsidium.
+
+		That's pretty much all. You probably shouldn't go there, although, you can
+		pay for safe travel to one of the cities if you go to their gate at the East
+		end of Lum'is. It's expensive and probably isn't worth risking your life to
+		go there.
+
+*** Rellekka
+		Dare I call this place a kingdom... Rellekka is basically the scum capital
+		of the world. It consists mostly of barbarians, but has a few fighters,
+		rangers, rogues and warlocks. (Imagine a viking village of ruthless
+		bastards)
+
+		Rellekka is technically ruled by a "king" who's name is unknown. It is said
+		that he is not a humanoid, however. If you ever go there, you will notice
+		that there really isn't a ruling going on. It is more like a free-for-all
+		all the time. There are people getting killed at every hour of the day and
+		no one cares. Really, the only good thing about the place is that there are
+		a literal fuckton of people. They also have a wide variety of races, unlike
+		the other nations. Giants, orcs, goblins, trolls, etc. all live in "harmony"
+		here.
+
+		No one cares about the backstory of this shithole. They aren't known for
+		anything else except *The Cave of Misery*. But still, no one cares enough to
+		even explore the cave.
+
+		Once they turned on Falendrone, they decided that they wanted more land and
+		started to expand. This is when they ran into Argougnian and the war between
+		them started.
+
+		That's all...
+
+*** Vet'ric
+		Vet'ric was one a small town that consisted of friendly miners, woodworkers,
+		and pagan druids. In fact, the name of the town wasn't even Vet'ric! It was
+		originally called Trabush, named after the founder of the town. One day a
+		wealth man came to town and asked if they were in need of any business. The
+		entire town being happy to gain some extra coin said sure. The man then,
+		after years of work, built a trading center right outside of the town. The
+		trading center was filled with tellers that would purchase any item off
+		anyone and keep it. Once someone came that was in need of said item, they
+		would sell it to that person. This is the business model of the *The Great*
+		*Vet'ric Trader Center*.
+
+		Vet'ric was the name of the wealthy man, who now, is even more wealthy. In
+		fact, he began to make so much money off the trading center that he hired an
+		army of knights to ransack the town of Trabush. After the ransacking was
+		over, Vet'ric was built. A large city and castle was constructed. Due to his
+		massive trading center, he became one of the wealthiest "kings" in the
+		land. However, many people hated the king. All he cared about was
+		money. This technocratic ruler was then challenged by the king of
+		Falendrone. He claimed that the Vet'ric (the man) wasn't a king but a
+		peasant that rose to power due to luck. He challenged him to
+		war. Vet'ric being unprepared for war hired as many forces as he could to
+		protect the city and fight against his new enemy.
+
+		After years of battle, Vet'ric died of old age and his son took over
+		rule. The lineage of Vet'ric's continued for years and years and years, new
+		rule the city of Vet'ric became weaker and weaker. The infrastructure of the
+		city began to crumble due to lack of care and maintenance.
+
+		Current day Vet'ric is a disgusting city that has no redeemable features
+		besides the still very successful trader center. The city walls are
+		crumbling, most of the builds are destroyed, and the population is are
+		gangs, drug cartel, and criminals.
+
+		Vet'ric's worst enemy is Falendrone. According to Vet'ric's shitty yet loyal
+		population, Falendrone attacking the city is what makes it a bad place. The
+		people would do /anything/ to see Falendrone destroyed.
+
+		NOTE: The pagan druids fight for Vet'ric. They are also known for summoning
+		demons. This is one of the key reasons why Vet'ric has yet to fall to the
+		truly superior Falendrone warriors.
+
+		Once the war truly began, Vet'ric decided that they needed to conquer more
+		land and gain more allies to defeat Falendrone. As a result, they send
+		demons and devils summoned by the pagans to convince the nearby lands to
+		join. To the surprise of many, they agreed and helped Vet'ric. They
+		attempted to even go into the *desert of Kelczar*. The Kelczarian people
+		didn't like the idea of joining forces with someone by fear, so they fought
+		back and pushed the Vet'ric demons and devils out of the desert. There is a
+		small battle that has been going on for ages at the start of the
+		*Kelczarian Desert*.
+
+		The battle going on there is very boring though, it's mostly just guards
+		standing around waiting for something to happen.
+** Nation of the South
+		There are some third parties in the war that aren't really apart of the 5
+		main nations, however, they do cause some issues that you should be aware
+		of. In the South-Western tip of the map, you will see a mixture of places
+		such as *The Gnome Village*, Yandille, and *The Orge Village* (these places
+		are /much/ larger than villages, yet they are called villages). These places
+		are listed as *Nations of the South* and don't fight for any one group. It
+		is said that the Gnomes and Orges fight together against anyone who is apart
+		of /any/ of the nations. Basically, they want to keep the Nations of the
+		South as third party as possible and won't even let members of /any/ of the
+		nations pass.
+
+		You're probably wonder: "Why don't we just lie?" My reply is: "Why don't you
+		just die?"
+
+** Island Nations
+		The islands that are near this world are pretty much out of the
+		loop. Crandor is an island created by a *Dark Wizard*, Qufar is basically a
+		volcano island with strange indigenous creatures, and Kirja is a great place
+		for vacation if you worship Satan.
+
+		None of these places have any respect for anyone associated with one of the
+		nations at war. First off, there really isn't any reason to go to Crandor or
+		Qufar. Kirja is known for some exotic items and is home to *The Devils'*
+		*Circle*. If you want to meet Satan/Lucifer himself, go there!
+
+		The indigenous tribes of Kirja will attempt to sacrifice you to Satan if you
+		are apart of one of the nations.
+
+		You're probably wondering: "Why don't we lie?" My reply: "You can always
+		try."
+
+** Unlist Towns/Cities/Villages
+		Any unlisted places are considered "safe zones" from the nations. Anyone of
+		any nation can go into these places because they are neutral (different from
+		third party). For example, Lum'is, Catherby, Port Santus, Edgeville,
+		Yandille, Goblin Town, No man's land, etc.
+
+		There are some places that are not safe but are still safe in terms of
+		the nations at war. For example, *The Black Knights' Fortress*, *Trolls
+		Mountain*, *The Monastery*, and *Sand Peoples' Village*.
+
+** Who's fighting who again?
+		Argougnian <-> Rellekka
+		Rellekka   <-> Falendrone
+		Falendrone <-> Vet'ric
+		Vet'ric    <-> Kelczar
+		Gnomes/Orges -> All
+		Kirja Tribes -> All
+
+* Story
+	This section will contain information on the stories that can be done in the
+	campaign. Obviously the main story is the most important but there will be
+	plenty of other fun stories to explore.
+
+** Main Story
+	 The main story takes place on a continent called Guthex. Guthex has been
+	 around for thousands and thousands of years have many problems
+	 throughout. The many groups of people found on the continent have been known
+	 to not play well together and there have been many wars fought on its soil.
+
+	 Your adventurers have joined the population in Guthex at a rather interesting
+	 time -- during the War of Nations. The War of Nations has been poisoning the
+	 soil of Guthex for over a thousand years. 5 major nations constantly at war
+	 has turned Guthex into a place of villainy and debauchery. Is anywhere safe
+	 in this sickening continent? You will find out.
+
+	 The explorers believe that they have been taken to a place fairly close to
+	 their previous adventure. This is completely incorrect. They have actually
+	 been transported here by a spell cast on the by *The Wicked*. The Wicked has
+	 sent them here for a reason that they will not figure out until deep into the
+	 campaign. Let us begin.
+
+
+	 The Wicked was an ancient god that was destroyed by the devil. The story is
+	 that The Wicked was cursed by the devil and was forced into hiding for all of
+	 eternity. After billions of years, the cursed fool returned to defeat the
+	 devil for he had learned that his curse gave him infinite power. He came to
+	 destroy the devil but was matched by the devil's power. After a long battle,
+	 cursed fool was "destroyed."
+
+	 The cursed fool was reborn in the form of a tree. He had powers that caused
+	 pain and suffering to spread all over the land. He caused people to go insane
+	 with false power. This is why he has the name The Wicked, he only causes pain
+	 and suffering. His hated towards the devil has made him swear he would defeat
+	 him one day. Since he is powerless again the devil due to his reborn state,
+	 he must summon the warriors to defeat his enemies.
+
+	 Your adventurers were lucky enough to catch the eye of The Wicked. So, he
+	 summon them to the land of Guthex, where they will train to become strong
+	 enough to kill the devil. Why Guthex? Well, Guthex is right next to an island
+	 that contains a portal to hell. That is how they will destroy him.
+
+	 The Wicked has placed another cursed fool in the future of these
+	 warriors. Wart. He will help them defeat the devil.
+
+
+	 This is the main goal of the entire campaign. However, this isn't revealed
+	 until they defeat the 5 nations. The main quest is described next
+
+** Kill the Nations
+	 In order to start this quest, they need to talk to many different
+	 people. These people will tell them how terrible the nations are and that
+	 they must be destroyed. They must complete a handful of other quests to find
+	 some of these people.
+	 - [ ] What's in the Box?
+	 - [ ] Port Santus Mystery (Witch Hunt)
+	 - [ ] Slaves of Dracon
+	 - [ ] Lost City of Morytania
+	 - [ ] Edgeville?
+	 - [ ] West Argougnian Secret
+	 - [ ] Wise Words
+	 - [ ] Milk from a Cactus
+	 - [ ] Beaten with Ice
+	 - [ ] Into the Volcano!
+	 - [ ] Strangers Like Me by Phil Collins
+	 - [ ] Dark Wizard
+
+
+	 Once all of them are completed (Dark Wizard last), they will begin their
+	 second to last quest: Kill the Nations
+
+	 In this quest they will need to do some serious shit. Which I'll write
+	 later.
+
+** What's in the Box
+	 Upon enter the city of Lum'is, the gang will be taken to the king. The king
+	 will bring out his historian and he will teach them about the lands. After
+	 teaching them about the shit, they will probably ask about a quest. To which
+	 the following will happen:
+
+	 King: "Hmmm, a quest? Yes... Yes... A quest..." **while stroking beard**
+	 "Squire, come hither."
+	 Squire: "Yes, your majesty?"
+	 **whisper whisper* (asking for a quest)
+	 **whisper whisper* (reminds him of the box)
+	 King: "Ah yes, I've got a quest for you!"
+	 "Guards, retrieve *the box*"
+	 **guards leave**
+	 **king shoots the shit with them**
+	 **guards come back in**
+	 King: "Ahh yes, the box."
+	 "Take a fancy at that! What is it? Well, it's a box. The quest... open it."
+
+	 The box is some kind of grey metal, very hard metal. None of them can figure
+	 out what it's made out of (no it isn't vibranium). There is no lock. Nothing
+	 but little holes (pin sized) all over. If they speak to the box, nothing
+	 happens. If they try and open the box, nothing happens. The only way they can
+	 open the box right now is if somebody who has a strength of 20+ rolls a nat
+	 20 on a strength check to open it.
+
+	 If they ask any about the box:
+	 King: "All I know is that I can't find /anyone/ who can open it."
+	 "Maybe ask around town? There are always new people coming and going in my
+	 city!"
+
+
+	 They can ask all they want but they won't find anything interesting unless
+	 they talk to the town yeller or the priest. If they talk to the town yeller,
+	 they will get an extra quest, however, they won't need to spend an entire
+	 week waiting for the man to shown up to church.
+
+*** Town Yeller
+		The Town Yeller will be outside of the Lum'is Castle spewing off information
+		about the newest most important news. When they meet him he is yelling:
+		"Come one, come all, see the pin board! It has all the info ya need! Quests,
+		news, politics, etc! All in once place!"
+
+		Whence they go up to him:
+		"A box that doesn't open ye say? .... Hmmm, yes.... Sounds like... Yes. Aha!
+		I think I know a guy! Well, maybe... He might know a guy who knows a guy
+		that knows /something/ about that..."
+
+		Once they get excited and ask whom this is he will say:
+		"Hahaha, well, here's the thing... You're in the /media/ center of the
+		continent. That information isn't going to be cheap! I've gotta make my
+		money gentlemen. Do you really think standing on a stump screaming all day
+		makes me any money? Anyways, give me ehhh 10g and I'll tell you."
+
+		If they deny, which they should:
+		"Well, I've got another idea. Ya see, I have a message for someone. And I
+		need it to be transferred to them. I'd do it myself /but/ that means I lose
+		commission for standing on this stump. But I really need this message send."
+
+		"It needs to go to a farm located right outside the walls of Vet'ric. Don't
+		worry it's safe because that's still technically part of the Lum'is forest!
+		All ye gotta do is travel about 3 days down that (pointing north)
+		road. That's called the media trail, a safe trail for reporters and
+		messengers to travel."
+
+		Once they accept:
+		**he pulls out a message**
+		"Here is the message, *DO NOT OPEN IT*. The recipient will /refuse/ the
+		message if it has been open!"
+		**hands them the message**
+		Upon inspection you notice that the message is rolled up perfect. It's on
+		parchment paper that has been dyed white and has a very odd red ribbon that
+		is perfectly made around it.
+
+		"Oh yeah, the message is *not* for the farmer! It's for one of his
+		children. Also, don't let /anyone/ know about the message, for it might get
+		stolen or maimed! The child will give you another message in return. I need
+		that reply. If I don't get it, you don't get your information."
+
+		He doesn't know which child though.
+
+		--------------------------------------
+
+		Literally nothing will happen on the trip up to Vet'ric, each day of travel
+		I will roll a d4, if 4, they get hassled by a group of reporters looking for
+		information about a lady by the name of *Vicenessa*. Whatever that means.
+
+		--------------------------------------
+
+		Once they see the walls of Vet'ric, they will notice a path that goes to the
+		right (east). It seems to curve back south and has a sign on the front that
+		says: "Lum'is Horse Farm"
+
+		Once the farm is in sight, they will notice that it's a cute little farm
+		that has a nice selection of horses in the field. Note that this is still in
+		the middle of the forest so the farm is in a wide opening in the trees and
+		has a fenced in area where the horses are. You can see a man training the
+		horses to jump and run and stuff. There is a large red barn that is right
+		next to the fenced in area. There is also a small cottage found abut 50
+		yards from the fenced in area. It's quite cute!
+
+		The farmer will noticed them and calm the horse he was working with down. He
+		will grab a pitchfork and come over to you guys.
+
+		"What the hell are you doing on my property?"
+
+		If they mention the letter:
+		- "What letter!? To one of my kids?! Hell no! Get the hell out of here!"
+
+		  They are now dealing with an angry parent, one of the most fierce
+      creatures known to man! They can calm him down if they pass a persuasion
+      skill of DC 17.  If not:
+  		- Roll a perception DC of 13, if they pass they notice that there is some
+        rustling in the forest. If failed, the notice nothing.
+  		If yes:
+   		- "Listen gentlemen, I don't want any trouble and I really would prefer if
+        ye stay away from my kids. However, I will deliver the message."
+			- They will not receive a reply message and fail the quest.
+
+
+		If they don't mention the letter:
+		"Well lemme show ye my farm!"
+
+		He will show them his horses and explain:
+		"I've got the /best/ horses on the continent! These are the fastest and most
+		well trained sons of bitches out there. A lot of messengers love my horses
+		because of their speed. However, I don't do business with any of those
+		fucking nations, they're all scum!"
+
+		If they ask for a horse:
+		- "Sorry gents, all of the horse I have here are temporary. They are here
+      because their owners have either gone in to Vet'ric or they wanted them to
+      be trained a little more. I can't sell ye any right now. However, I've got
+      a new batch of horses that will be ready in a couple months! Just remember
+      they sell quick!"
+
+		"So you gentlemen said you were in search of a quest? Well, if ye got the
+		time, I've got a quick task if ye wanna make a quick buck!"
+
+		If they accept: Continue to [[The Hole][The Hole]].
+
+		If no: He tells them that he needs to get back to work training these
+		horses!
+
+		--------------------------------------
+
+		The trip back is the same as the trip there.
+
+		--------------------------------------
+
+		Yeller:
+		"Ah yes, you have returned! Have you transferred my message?"
+
+		If no reply message:
+		- "Well then, you bastards are more than useless! You can't even correctly
+      send a message to someone!! How dare you call yourselves adventurers!!"
+		- He will now /refuse/ to tell them /anything/.
+
+
+		If reply message:
+		- "Ahh yes, my reply!! I've been waiting for this!"
+		- **He turns around, opens it, and reads it**
+		- If it isn't fake, he puts it away and says: "Great! Fantastic works men!
+      Now, for your info! The man you need to talk to is a man named
+      *Charcoln*. He is a member of the Lum'is Church over there. He goes to
+      church pretty much every Sunday! God bless him! Speaking of that.. I think
+      it's Sunday now! You might be able to catch him if you get over there
+      now!"
+
+			:end of quest: (jump to [[The Priest]])
+
+**** The Hole
+		 Farmer:
+		 "Well, there's this big hole that is location right over there (pointing
+		 down the "driveway" and to the left a little). I need someone to fill in
+		 the hole, I've got the dirt over there but I don't have the time or muscle
+		 to do so! Plus my damn kids keep going in there are get covered in mud! I
+		 tell them to not go in there but they never listen! Could ye do that for
+		 me? I'll pay ye each 10g for the hassle!"
+
+		 If they don't accept, they won't get on the bad side of the farmer.
+		 If they do accept, and don't fill in the hole, they will be on the bad side
+		 of the farmer until farther notice.
+
+		 --------------------------------------
+
+		 Once they get to the hole, they will notice that it isn't a hole at
+		 all... It's a fucking cave! It looks wet and dark in there.
+
+		 The inside of the cave is just like you expected: moist, dark, damp, kind
+		 of smells like worms. After walking down there for d6 times, they will
+		 notice a strange stone wall. There is a small slit in the wall. Unless they
+		 have dark vision, they won't see anything inside.
+
+		 Inside is a stone floor with a big circle on the ground. It has a star on
+		 the inside of it and each end of the star touches the circle. Sitting
+		 inside of the circle is a child. Once you notice the child she gets up and
+		 runs over to the slit and whispers:
+		 "Who are you people! You have to get out of here now!"
+
+		 Whatever they say won't matter, however, if they mention the message from
+		 the town yeller in Lum'is she will stop and say:
+		 "Oh my... You are... Gimme the message now, quickly!"
+
+		 If anyone looks in the slit, they will see here run into an area you can't
+		 see and will come out with another message.
+		 "Here is my reply! *DO NOT OPEN IT* He won't accept it if it was opened!
+		 Now, get out of here! No one is supposed to be in here!!"
+
+		 --------------------------------------
+
+		 Fill the hole?
+		 Yes - good side of the farmer, but you trap a little girl in there.
+		 No - they blew the farmer off, thus, he doesn't like them.
+
+		 :end of quest:
+
+*** The Priest
+		Before [[Town Yeller]]:
+		- The church is empty. All you see are the beautiful stained glass windows
+      and empty pues. At the very end of the open room, you see an alter and a
+      man knelt down in front of it.
+		- Once you step fully into the room, he will get up and turn around.
+		- "Good afternoon! My name is Priest Wheatersbe. What brings ye to Lum'is?"
+		- After they tell him about the box:
+		- "Hmmm, I see. I believe there is a man whom comes to church every Sunday
+      by the name of *Charcoln* that might know something about that. He lives
+      out in the Lum'is Swamps oddly enough.
+		- Now they wait many days before Sunday... Once Sunday, continue on with the
+      rest of this documentation.
+
+
+		The church is filled with people! The priest is giving a sermon
+		about... yeah, you guys couldn't care less so you don't actually listen.
+
+		After the service is over, they can talk with the priest to find the guy.
+
+		"Blessèd morning to yas! Did you enjoy the service?"
+
+		If they say no, they better have a good reason. If yes, he'll automatically
+		go with it.
+
+		Once they tell him to find the guy, he will search.
+
+		"There he is!"
+		**He points to a very large man with struggled shoulders. His hair is long
+		and dirty, beard just as long and just as dirty. You can almost smell the
+		guy all the way from over here! He's wearing tattered clothing and basically
+		looks homeless.**
+
+		Charcoln:
+		**in a menacingly deep voice**
+		"Good morning sirs. Isn't it a great day to be alive and worship the
+		almighty power of our Creator?"
+
+		Once again, I hope they say yes. If no, they better have a good reason.
+
+		After explaining the question:
+		"Hmm, yes. I think I know exactly what you need. Follow me."
+
+		He will take them deep into the swamps of Lum'is. And when I say deep, I
+		mean it. I'm talking like about 4 *hours* later, you reach a very small
+		hut that sits on top of a small bank. There isn't even a road to the
+		hut. Just swampland. He says to wait outside.
+
+		He will come out with a book and read from it:
+		"Force Open/Close: 2 mind runes, 2 air runes, a key that has been grind to
+		dust, and the words 'Minthou doub, Airhhu doub, dusk-to-ridle open/close'"
+
+		"That is how you can open the box."
+
+		"Now that I've told you how to complete your quest, you can help me finish
+		mine. You see, I've got some problems living out here in the swamp... There
+		is a cave about 2 hours thataway (pointing west) that contains a magical
+		ore called runes. I have been collecting them for many years but there seems
+		to be some kind of other force keeping me from entering the cave. If you can
+		remove this force, I will create 4 runes for free: 2 mind and 2 air."
+
+		If you decline, you can buy the runes off of him for the cheap price of 10g
+		per air rune and 23g per mind rune. Declining will also put you on the bad
+		side of Charcoln. Continue to [[Rune Cave]] if need be.
+
+		--------------------------------------
+
+		One you get back to the hut he says:
+		"Rune crafting is a very very difficult art form, and it takes many hours or
+		even days just to make one! Luckily, air and mind runes aren't very
+		difficult. I should have these completed in about 5-6 hours. Feel free to
+		adventure around the swamp just be careful, it's dangerous out here!"
+
+		If they adventure around, they won't find anything of interest unless
+		someone rolls a perception of nat 20. This means they find a cave. The cave
+		is very very deep and goes off into many directions. Maybe you should take a
+		note of that and come back later. :)
+
+		If they do it long enough, they will find a small village. However, it won't
+		really have much use right now.
+
+		--------------------------------------
+
+		Once they return to Charcoln's hut, he will have the runes finished.
+
+		"He ye are boys, 2 air and 2 mind runes! They should work like a charm! If
+		ye ever need any help with runes or with anything here in the swamp, you
+		know where I live! I hope to see yas later!"
+
+		--------------------------------------
+
+		The trip back will have no events
+
+		--------------------------------------
+
+		Once in town they will need to find a key and a way to make it into
+		dust. The general store will have a brass skeleton key sold for 1cp and they
+		can get it smashed at the blacksmith for 5sp.
+
+		Once they get the stuff, they can go into the castle and use the spell.
+
+		--------------------------------------
+
+		King:
+		"Aye! My adventurers are back! Have you found any information on how to open
+		the box? And who is this?!"
+
+		"Well, nice to meet you! Where exactly are you from, Ryk'k?"
+
+		"Hmm, what exactly /are/ you?"
+
+		"Well, never mind that anyways! Have you found a way to open the box?!"
+
+		The instant the last word in the spell is said the runes mystically become a
+		smoke like material and are swirled around the box. The little brass pieces
+		of key are also mixed in this smokey-like appearance. You can see that the
+		smoke and pieces of brass around going in and out of the little holes in the
+		box and then... A slit forms around the top of the box (imagine like a
+		present box). Then the magical smoke and brass disappears.
+
+		"Well? What the hell happened!?"
+
+		Anyone can open the box now.
+
+		Upon opening the box there will be a little small creature inside. It's face
+		is covered by a hood. The robe it wears is brown and old looking. It looks
+		clean and well taken care of.
+
+		"Fantastic works! These guys are great! Really!! Wonderful! What the hell is
+		in the box?"
+
+		If anyone touches the creature, not on the skin (you can't see the skin), it
+		will spring to life.
+
+		Wart:
+		"HUhahahah!"
+		**he jumps out and his hood falls off revealing the face that is Wart**
+
+		Everyone roll a intimidation save, DC 15.
+
+		"Dear God! What the hell is that!! Kill it guards!!!"
+
+		Wart: "Hey hey, easy easy!!! I come in peace! My name is Wart, I have been
+		reborn on this planet once again by our ruler, godking Lucifer. I do not
+		wish anyone harm, if you would please let me know, I must leave!"
+
+		King: "Guards hold on! .... So what you're telling me is that you are the
+		spawn of Satan himself?"
+
+		Wart: "Not exactly. I have been reborn by godking Lucifer for some reason. I
+		must be on my way. I promise you or your people no harm!"
+
+		King: "He kind of looks like a frog but uglier... Do you really think that
+		I'm going to let my new prized possession go?"
+
+		Wart: "Prized possession??? I am no one's possession except the godking
+		Lucifer. If you wish to play this game - King - so be it. I will give you
+		one chance to let me leave."
+
+		King: "Guards, take this fiend and place him in the dungeon! He should
+		have been left in that box!"
+
+		Once the guards get close to Wart he waves his hands and the two guards
+		going near him get covered in a strange black material. They start to scream
+		in pain and fall to their knees begging to be saved by their king.
+
+		King: "Dear God... Stop this madness you fiend! If you attack my men, you
+		are starting a war with Lum'is!"
+
+		Wart: "If I can kill two of your men this easily, what do think I can do to
+		100 men? I will purge these men of their plague if you let me go, if not, I
+		will cause your entire kingdom pain and suffer."
+
+		The king scared for this life begs Wart: "Please do not! You may run free!"
+
+		At that instance, Wart waved his hands and very painful-looking red sores
+		grew on the guards. They slumped over as if dead.
+
+		Wart: "They will be fine, the healing sores are quite painful but they have
+		been cured of their plague. You should get them to hospice as quickly as
+		possible to ensure their survival."
+
+		King: "Someone please! Take these men to hospice! <under his voice> If we
+		have one???"
+
+		Wart then begins to leave the room.
+
+		King: "Wart!"
+
+		**wart turns around**
+
+		King: "I have a feeling we shall met again."
+
+		Wart: "If it is so..."
+
+		*exit Wart
+
+		--------------------------------------
+
+		King: "I'm sorry my friends.... I need to rest... Please feel free to do the
+		same after what we just witnessed..."
+
+		**the king passes out**
+
+		--------------------------------------
+
+		They can do whatever they please now, stay, leave, go find Wart,
+		etc. However, the next quest, is given to them by the king.
+
+		--------------------------------------
+
+		Once they see the king again:
+
+		King: "Aye, I am sorry for what happened the last time we met. I wasn't
+		expecting something like that to happen. Anyways, I suppose you are looking
+		for payment for your quest?"
+
+		"Yes very good, here, take 100G for your troubles... Also, you are welcome
+		to stay in the Lum'is castle as long as you wish, just let me know. Now, I
+		have another task for you brave warriors, if you dare..."
+
+		Jump to [[Port Santus Mystery]]
+
+		:end of quest:
+
+**** Rune Cave
+		 Charcoln will take you over to the cave. It looks like a normal-ass cave as
+		 far as you can tell. Since it's a swamp the cave is very very damp, pitch
+		 black, and the floor to the cave is practically mud.
+
+		 "Good luck in there boys. Just keep going until you find the rune deposit,
+		 that is were the force is coming from."
+
+		 Throughout the trip of d6 turns, they will hear a lot of scary noises and
+		 other weird shit.
+
+		 Once they get close enough, they will notice a very bright light coming
+		 from the end of the corridor.
+
+		 The rune deposit is absolutely amazing looking. The "room" is huge and the
+		 walls are white and very bright. You see a bunch of areas that have been
+		 mined (assumed by Charcoln), in fact, there is a pickaxe that you can see
+		 in one of the holes. You notice that there are a bunch of gray blotches all
+		 over the place in here, I wonder what those are... After about 1 minute of
+		 looking around, they hear a noise. A voice....
+
+		 "Get out of my rune deposit, fools, or face the consequences!"
+
+		 If they leave, they safe. If not, roll an initiative.
+
+		 There are 3 specters. During the battle, specifically after 3 rounds Ryk'k
+		 will out of his hiding from the hallway and help.
+
+		 If they defeat them very easily, they will hear the voice again: "I
+		 see. You fools wish to die on my property? I hope you all enjoy an endless
+		 life of suffering. Prepare for the /wraith/!!"
+
+		 A wraith is spawned.
+
+		 After defeating it, the voice will say: "Strong group I see. You have won
+		 this time. I'll be hunting for you"
+
+		 After they succeed, it feels like a heavy weight has been taken off of the
+		 place. A few minutes after, Charcoln will enter the room.
+
+		 "Ahh yes thank you boys!! I can finally start my collection of runes again!
+		 Here, lemme show ye how to mine for runes quickly!"
+
+		 **he picks up his axe and goes over to one of the greyish colored blotches
+		 on in the pure white wall/floor.
+
+		 "Don't swing too hard or it'll break the rune, then you'll go flying
+		 thataway! (pointing behind himself)"
+
+		 **He carefully taps the pickaxe around the edge of the grey area. Pieces of
+		 white rock are being chipped away slowly but surely.**
+
+		 After doing that for quick from time he says:
+		 "Once you're towards the end like this, give it one big swing to knock it
+		 off, but don't hit the actual rune!"
+
+		 **an ugly piece of gray stone is broken off the white wall**
+
+		 "This, is an uncrafted rune! I take this back to me workshop and craft it
+		 into many runes that can be used for magic. Now, let us go back."
+
+		 :end of quest:
+** Port Santus Mystery
+	 King Lum'is: "Aye, good men. Good men you are. So, there are been a problem
+	 occurring over at the port for a couple years now. There is rumor of a witch
+	 that is terrorizing the people of the port. I would like ye to kill the
+	 witch."
+
+	 If they ask questions, he will respond:
+	 "Listen, I just rule the place, I don't know the logistics! Go to Port Santus
+	 and talk with Tally'an and Topiz about it. They know better than I."
+
+	 Once accepted: "Fair well and good luck my adventurers! I know you will not
+	 fail me!"
+
+	 --------------------------------------
+
+	 The trip to the port will have nothing. It takes 3 days.
+
+	 --------------------------------------
+
+
+
+*** Underground River of Lum'is
+		This quest is *not* needed to finish the Port Santus Mystery. It will,
+		however, help you in the next quest and many more to come.

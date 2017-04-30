@@ -1,0 +1,119 @@
+#+TITLE: People and Relationships
+# this file contains information on the important people they run into. It will
+# contain information on the current status (friend or foe), what they are, and
+# if anything is happening with them. This will also show whether or not the
+# players are allies with that nation or town.
+
+* Lum'is
+	- Status: Friend
+** Port Santus
+*** Topiz
+		- Status: None
+		- Description: Part owner of Port Santus. He is the older brother of
+      Tally'an and does most of the decision making for the port. He knows a lot
+      about the people that come in and out of the port because he talks to
+      mostly everyone.
+
+*** Tally'an
+		- Status: None
+		- Description: Part owner of Port Santus. He is the younger brother of
+      Topiz. He manages most of the employees and works found in the port; these
+      include the workers that helped the players dock. He knows a lot about the
+      items that come through the port, since his crew unloads most of it.
+
+** City of Lum'is
+*** King Lum'is
+		- Status: None
+		- Description: The King of Lum'is. He rules all of that which is Lum'is
+      territory. He is actually the 12th king of the area and is very much liked
+			among the population. He is know to be quite giving, especially to those
+      whom serve him.
+		- Appearance: Since I do not give his appearance in the quest that they meet
+      him on, here it is. Sitting upon a royal thrown with a red cushion and
+      golden arm rests is a handsome well groomed bearded man. He is wearing a
+      very ugly crown that is obviously made of gold. The top of it reminds you
+      of the hideous castle design. The king has long brown hair and a well
+      groomed brown beard. He is wearing a kingly robe that has a white fluffy
+      part around the edge and a red middle. He also has an assortment of fancy
+      rings on.
+
+*** Town Yeller
+		- Status: None
+		- Description: The Town Yeller's job is to literally yell so that all people
+      in the City of Lum'is know the news. He works directly for the king and it
+      paid by him. The news that he spews is usually fairly important.
+		- Appearance: Imagine that little green dude from the Legend of Zelda (click
+      [[https://s14-eu5.ixquick.com/cgi-bin/serveimage?url=http%3A%2F%2Ft0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcSgTMAvXZ3lChS8DTv3cy8pgUvQe_5gZQpsh0X3qeOVPfMTPylR&sp=8b86ee5a105aecc72da1e832e38b0eb9&anticache=978573][here]] to see him). That is basically him except not Asian, less gay, and
+      doesn't have a clock around his neck.
+
+*** The Priest of Lum'is
+		- Status: None
+		- Description: The Priest of Lum'is was actually a warrior in his younger
+      years. However, he was grown old and cannot fight anymore. He spends his
+      days blessing people and writing sermons on whatever the hell he believes
+      in. The church he runs is called a *Church of Xithawious*, this isn't
+      explained in the quest because it isn't apparent, however, it will later.
+		- Appearance: Imagine someone that looks like the pope or one of his
+      bishops. Instead of a white cloak, however, he is wearing a grayish
+      colored one with no symbols on it. The arms have a very dark blue stripe
+      down the sides. His face is old and worn. You can tell that he's been
+      through some rough shit. His hands say the same.
+
+*** Horse Farmer
+		- Status: None
+		- Description: The farmer owns the Lum'is horse farm. According to him he
+      has the fastest horses on the continent. There really isn't much to say
+      about this guy because that is literally all he does.
+		- Appearance: He wears standard farmer attire. The only thing out of the
+      ordinary is that he is wearing a cowboy hat (it isn't called that,
+      however).
+
+*** Farmer's Daughter
+		- Status: None
+		- Description: The daughter is a secret agent of The Wicked and worships
+      him. There isn't much else about her right now. She will show up again,
+      however.
+
+*** Bushuma
+		- Status: None
+		- Description: The owner of Pu'in's House of Booze. She named the house
+      after her *missing brother*, whom got lost after being *sent to Port Santus*
+      *for a quest.* If you return her brother you will start the sub-quest
+      [[file:campaign.org::*Underground%20River%20of%20Lum'is][Underground River of Lum'is]].
+
+** Lum'is Swamp
+*** Charcoln
+		- Status: None
+		- Description: Charcoln is a profession runecrafter. He owns a mine hidden
+      deep in the Lum'is swamps and spends most of his time crafting and
+      studying the art that is runes. He is also a devoted member of the Lum'is
+      church. The adventurers will find out later on that he is actually an
+      extremely dangerous rune master and wrote a lot of rune-casted spells.
+*** Ryk'k
+		You have to befriend him technically.
+*** Mysterious Voice (Aluhu)
+		- Status: Enemy
+		- Description: A mysterious voice. They will find no physical body.
+** Lum'is Island
+*** Gury
+		- Status: None
+		- Description: Gury is an extremely successful fisherman that knows all of
+      the safe routes to take on the sea. He is away currently.
+		- Appearance:
+
+*** Yohimius
+		- Status: None
+		- Description: Yohimius is a very close friend of Gury's who is currently
+      watching over his house while he is away. Yohimius is secretly the source
+      of Gury's success because of Yohimius's special mind reading abilities.
+
+*** Tizcar
+		- Status: None
+		- Description: Tizcar is a tax collector for traveling to Kelczar from
+      Lum'is. If you get on his bad side, he will deny you access to Kelczar. If
+      you were to kill him, that would be an attack on the Kelczarian people and
+      you would become an enemy to the nation.
+		- Appearance: He wears a very fancy looking robe-like thing. It's blue and
+      has a purple fluffy part that comes out of the chest part. He is also
+      wearing a large white turban. He has a pointy black gote beard and has
+      brown skin.

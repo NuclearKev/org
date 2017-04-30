@@ -1,0 +1,287 @@
+#+TITLE: Place Descriptions
+
+* Lum'is Region
+	The Lum'is region is a place that consists mostly of forest, swamp, and some
+	undead forest. Each special place is described below.
+
+** Port Santus
+	 The first thing you notice about the port is that it is huge. There are about
+	 20, maybe more, ports for large ships. The dock is made out of a very clean
+	 light colored wood. It looks quite new and fresh looking. Docked at the port
+	 are very large ships that you've never seen before. The ships look like they
+	 would be used for hauling cargo of some sort.
+
+	 Beyond the dock you see a small town consisting of maybe 5 or 6
+	 buildings. All of which are quite small except one of them, which looks like
+	 an inn of some sort. All the buildings look exactly the same and there aren't
+	 any signs, that you can see, depicting what each building is for. The
+	 buildings are made out of a gray stone and topped off with a reddish colored
+	 roofing. They all have the same exact layout, two windows in the front, split
+	 by a large wooden door.
+
+	 Once you've taken in the appearance of the place, you realize that there
+	 isn't a soul around (unless they are just getting in, then there is a small
+	 crew helping secure their boat and two fancy looking gentlemen). It gives the
+	 place an eerie feeling.
+
+	 Buildings:
+    - Tally'an and Topiz's House
+			- You cannot tell what this building is.
+		- [[file:items.org::*Kyle's%20Food%20Store][Kyle's Food Store]]
+			- A medium-sized entirely constructed of wood building. There is a small
+				wooden sign above the singular door that reads "Kyle's Food Store".
+		- [[file:items.org::*Port%20Santus%20Brewery][Port Santus Brewery]]
+			- Similar to the food store, this place is also entirely constructed of
+				wood. You can tell it's a bar because there is a sign hanging with 2
+				pints of ale clicking together.
+		- [[file:items.org::*Dirty%20Janet's%20Inn][Dirty Janet's Inn]] (attached to the brewery)
+			- Attached to the bar is a larger building that is, maybe, 3 stories
+				high. It has a sign that reads "Inn" nailed above the double doors that
+				leads in.
+		- [[file:items.org::*Heave%20&%20Hoe:%20A%20Sailors'%20Shop][Heave & Hoe: A Sailors' Shop]]
+			- Just like the rest of the places, it is constructed entirely of
+				wood. There is a sign that has what looks like a boat on it nailed to the
+				side of the construct.
+		- Port's Crew Barracks
+			- You cannot tell what this building is
+
+*** First Encounter Scene
+		The two fancy gentlemen are *Topiz* and *Tally'an* the owners of the port and
+		port town. They are both dressed in a similar fashion, *Topiz* wearing a
+		purple coat with a white fluffy ascot and straight brown trousers and
+		*Tally'an* wearing a brown vest with a white shirt under and similar brown
+		trousers. Topiz is smoking from a pipe and has no facial hear or hat on. In
+		fact, he is completely bald. Tally'an has a goteè and is wearing a brown flat
+		cap.
+
+		Upon meeting them Topiz will say in a Scottish-like accent:
+		"Welcome ye travelers! Welcome to Port Santus, the biggest port in all the
+		lands! Let us help ye get settled!"
+
+		**orders crew to help**
+
+		After they are settled:
+
+		Tally'an: (also Scottish yet slight deeper than Topiz) "Greetings travelers,
+		I am Tally'an and this is me brother Topiz. We own this port. What have ye
+		docked for?"
+
+		If they say something about looking for a quest:
+		- Both men will look at each other and Tally'an will say: "I'll be right
+      back, I need to take a look at something. I believe that I know someone
+      who is in need of some help."
+		- Topiz will shoot the shit with them until Tally'an gets back.
+		- Tally'an returns and whispers in the ear of Topiz. Topiz will then say
+      "Alrighty, are ye well rested? The man with quest is the king of
+      Lum'is. He rules these lands. His castle is found that way (pointing east)
+      and takes about 3 days of travel to get there."
+		- If they aren't, they can stay in the inn. For some reason, it'll be free.
+
+
+		If they don't ask for a quest, they will say something like "good luck,
+		enjoy your stay"
+
+		--------------------------------------
+
+		They begin their journey by going directly east of the port. They enter a
+		very wooded area and are walking on a very neat and clean looking dirt
+		road. The road seems to be going straight for miles and miles. As far as you
+		can see. The trees are tall and full of life. The forest is very thick in
+		both directions (left or north and right or south).
+
+		Roll a d4, 4 times. If 4, you see another traveler going to opposite
+		way. You may talk to them if you wish.
+
+		On the first night, right after the sun goes down, they begin to notice that
+		there is a lot of bat activity in this forest. They hear screeching from the
+		bats and see a lot of them flying around. Odd.
+
+		During the 2 day day, after the 2nd d4 roll, have them all roll a perception
+		check of DC 1. If passed, they notice that there is a strange looking place
+		to the left of them. Strangely, you can see the place because there is a
+		very very small path that leads directly to it. The place is quite far away,
+		maybe about 1 mile away. The place is /huge/, dark, and scary looking. You
+		can see that there is a rod fence around the place that you can barely
+		see. Surrounding the place are black dead trees.
+
+		If they ask about it:
+
+		Topiz: "Aye, that is *Dracon Manor*. The Dracons keep all the land of Lum'is
+		safe from any evil. That is how they pay tax to the king. Don't worry they
+		don't hurt you unless you try to hurt someone else or cause trouble on
+		Lum'is ground. I wouldn't recommend going to their manor, however. They
+		don't like visitors."
+
+		If they say something about who they are:
+
+		Topiz: "They are a clan of vampires. Their leader is a vampire by the name
+		of *Draculim*, he is a business man of sorts... But I don't recommend doing
+		business with him..."
+
+		Go to [[City of Lum'is]] whence they see the walls of the castle.
+
+** City of Lum'is
+	 (This is not descibing the castle at all. Goto [[Castle]] for that.)
+
+	 Upon enter the city, you notice that the amount of trees surrounding you is
+	 lessening. To the right, you see the castle wall. To the left, a large farm.
+	 You can see that in the fenced-in area are cows and sheep. The barn for the
+	 farm is quite large and is painted a hideous green color. There is also a
+	 small wooden house that is facing the opposite direction of you.
+
+	 As you stroll more and more into town, you notice more small buildings. To
+	 your right but in front of the castle wall, you see a small store of some
+	 kind. The store is on a corner that splits off in two directions left and
+	 right (north and south). To the left you see a road that goes on for a very
+	 long time. You can also see the front of the farm house. Also to the left but
+	 on the right side on the street you see another building that looks identical
+	 to the store from earlier. You cannot tell what it is for. Right next to
+	 that, which is right in front of you in the middle of the intersection, is a
+	 blacksmith's shop. You can hear the ting tanging of the man working hard.
+
+	 Going left into the city, you notice there are a lot of people around
+	 here. It's quite noisy. Not to mention, there is this idiot on a stump right
+	 outside of the blacksmith's place screaming about something. He is saying:
+	 "Come one come all..." then you stop listening. You are now standing in front
+	 of the opening to the castle. Behind you is a bridge that takes you over a
+	 decently sized creek. The bridge is made out of the same stone as the
+	 castle and every other goddam thing in this town... If you were to continue
+	 going east, you would go deeper into the City of Lum'is. It's not huge and it
+	 looks very mundane. The only thing that caught your eye was the church that
+	 stood higher than most of the buildings. You also notice a group of buildings
+	 that looks very different from rest. They are constructed entirely of wood
+	 and stand taller than the others. These are obvious inns. There are about 4
+	 of them all in a row.
+
+	 --------------------------------------
+
+	 On the other side of the bridge, there are only a few houses (about 5) that
+	 are in a small cluster on the left side of the road. To the east, you notice
+	 an odd looking post that takes you over a small bridge onto what looks like a
+	 desert. How odd... To the right, there is a small dock where you see a small
+	 group of people fishing. All of these places are met by an intersection. Only
+	 the left road continues on for quite some distance. There aren't many trees
+	 in this area and after some thought, you realize that this is a very small
+	 island. Namely: The Island of Lum'is.
+
+	 If you follow the road to the left (north), you will come to a house that
+	 looks like someone of wealth might live there. If you knock on the door no
+	 one will answer. However, a small odd looking guy with a hunch back will come
+	 out from behind the house and say: "*Gury* isn't home right now, he's out
+	 catching some fish. He'll be back in about a month."
+
+*** Castle
+		The castle is quite large in size but not the biggest you've ever seen. It
+		is constructed out of a gray stone both inside and out. On the outside is a
+		large wall that surrounds the entire castle. The wall also has four towers
+		found on the each corner. The towers don't look all that nice and are very
+		square. Whomever design them design them on functionality and not looks. You
+		can't see inside but you assume those are archer towers. Around the wall is
+		a mote filled with water. The water, oddly, looks very clean and almost
+		drinkable. The front of the castle wall contains a large wooden door that
+		acts as a bridge across the mote. It is open and you can see inside of the
+		walls.
+
+		On the inside you see the large castle. It is made out of the same gray
+		stone as the wall. Being honest, it isn't a very pretty castle. It looks
+		rather bland and lacks aesthetic much like the wall towers. The courtyard
+		inside the wall is quite large and contains a copious amount of people. It
+		looks like they are all walking/standing around talking. Nothing too
+		odd. Lastly, you notice that there is a stone path that goes straight toward
+		the castle and breaks off in two directions (left and right) in the center
+		of the courtyard.
+
+		Once inside the walls, you notice that the courtyard is sectioned off. In
+		the main area (center of the yard and toward the opening) is where everyone
+		is chatting. To the left, you notice there is a building that looks like
+		barracks. You can see the training ground and soldiers training on their
+		practice targets. To the right, you see another building however, you cannot
+		tell what it is for. Both of these buildings look exactly the same and have
+		the same ugliness that the castle and wall have. Lastly, you see that there
+		are steps that lead to the entrance of the castle.
+
+** Road to Vet'ric
+		The road to Vet'ric is very similar to road from Port Santus to the City
+		Lum'is just longer and has more people on it. Every so many miles you see a
+		small road that shoots off of the main road. Most of which don't have any
+		signs as to where they go.
+
+		About 2 days in, they will see road that curves up north and has a sign that
+		says "[[Road to Falendrone]] 6 days on foot"
+
+		Towards the end of the last day of travel, they will see the walls of
+		Vet'ric far far away. To the right of them they will see a sign that says
+		"Lum'is Horse Farm." The road curves backwards towards the south-east. The
+		road to the farm is exactly the same as the road to Vet'ric.
+
+**** Lum'is Horse Farm
+		 Upon reaching the farm, you notice that it is quite large in size. There is
+		 a large open area that is surrounded by trees. Inside this area there is a
+		 large open field that is surrounded by a wooden fence. Inside this area are
+		 a plethora of horses, running, jumping, and being trained by a singular man
+		 wearing an old cowboy style hat. Towards the back of the field there is a
+		 large stable or barn that is crafted of wood and painted a bright
+		 orange-red color. It looks quite appealing. At the end of the field to the
+		 right is a small house, also made of wood with a stone chimney. You see
+		 that there is some smoke coming from the chimney.
+
+** Road to Falendrone
+	 The road to Falendrone from Lum'is, is exactly the same as the
+	 rest. Peaceful and filled with forest. It takes 3 days to get from the Road
+	 to Vet'ric to the road that connects Falendrone with Vet'ric. However, it is
+	 quite dangerous to go there since that is the main battle zone for their
+	 war. Within the third day of travel, they will hear the noises of
+	 war. Tinging and tanging of metal, rawring of summoned monsters, screaming
+	 of men dying, etc.
+
+	 The cutoff of Lum'is territory starts 1 day of travel before you reach that
+	 road. After that, you're on your own and are no longer protected by the
+	 Dracon Clan. The description for the road between Falendrone and Vet'ric can
+	 be found [[Road Between Falendrone and Vet'ric][here]].
+
+** Lum'is Swamp
+	 The swamp is dark, damp, and, quite frankly, scary. The ground is moist and
+	 muddy, the trees are mossy and messy, and the pools of swamp water are murky
+	 and topped with algae. You cannot see the sun above you due to the thickness
+	 of the trees. The swamp air is heavy and smells quite unique. You hear a lot
+	 of small noises consisting of moving animals and other creepy crawlies. The
+	 farther you walk, the less and less light you see from the entrance. Once
+	 deep enough you need to light a torch or lamp in order to see.
+
+** Dracon Manor
+** Lum'is Deep Forest
+
+* Falendrone Region
+* Vet'ric Region
+* Between Falendrone and Vet'ric
+** Road Between Falendrone and Vet'ric
+* Kelczar Region
+* Between Kelczar and Vet'ric
+* Between Edgeville and Vet'ric
+* Edgeville
+* Road to Morytania
+* No Man's Land
+* The Black Knights Fortress
+* Goblin Town
+* Orc Town
+* Dwarf Town
+* The Monastery
+* Ghosttown
+* Catherby
+* Between Catherby and Falendrone
+* Trolls' Mountain
+* Iceville
+* Rellekka
+* Between Catherby and Rellekka
+* East Argougnian
+* West Argougnian
+* Between Argougnian and Catherby
+* Between Argougnian and Rellekka
+* Gnomish Village
+* Between Argougnian and Gnomish Village
+* Tarzantian Jungle (between Gnomish and Orge)
+* Orge Village
+* Yandille
+* Crandor
+* Qufar
+* Kirja

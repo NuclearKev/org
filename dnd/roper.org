@@ -1,0 +1,344 @@
+#+TITLE: Ryk'k
+
+* Basics
+	Lvl: 1
+	Class: Roper Defender
+	Background: Professional Stalagmite
+	Race: Half Human Half Roper
+	Languages: Common, Piercer/Roper, Rock (can write in "rock" language)
+	Alignment: Neutral
+
+	XP:
+
+	HP: 30
+	Temp HP:
+	AC: 18
+	Speed: 10
+	Initiative: +0
+	Proficiency Bonus: 2
+	Hit Die: 1d10 per level (# 1 : used 0)
+
+	Inspiration:
+	Death:
+
+** Extras
+	 Age: 20
+	 Size: Medium
+	 Height: 5' 9"
+	 Weight: ~200
+	 Sex: asexual, but has only the male reproductive organ for ropers
+	 Eye: Dark Yellow
+	 Skin: Any color but naturally rock colored (reddish brown)
+	 Hair: -
+
+* Ability Scores
+	STR: 17 (+3)
+	DEX: 8  (-1)
+	CON: 18 (+4)
+	INT: 12 (+1)
+	WIS: 16 (+3)
+	CHA: 6  (-2) [mostly because of appearance]
+
+* Saving Throws
+		STR: +3 *
+		DEX: -1
+		CON: +4 *
+		INT: +1
+		WIS: +3
+		CHA: -2
+
+* Skills
+	Acrobatics (Dex)
+	Animal handling (Wis)
+	Arcana (Int)
+	Athletics (Str)
+	Deception (Cha)
+	History (Int)
+	Insight (Wis)
+	Intimidation (Cha) *
+	Investigation (Int)
+	Medicine (Wis)
+	Nature (Int)
+	Perception (Wis) * (+6 + wis mod)
+	Performance (Cha)
+	Persuasion (Cha)
+	Religion (Int)
+	Sleight of hand (Dex)
+	Stealth (Dex) * (+5 + dex mod)
+	Survival (Wis)
+
+** Senses
+	 Blindsight 30ft
+	 Darkvision 60ft
+	 Passive Perception: 16
+
+* Attacks
+** Bite
+	 Reach: 5ft
+	 Attack Roll: Proficiency Bonus + Strength Mod + d20
+	 Damage Roll: Strength Mod + 1d8 piercing
+
+** Tendril
+	 Reach: 30ft
+	 Attack Roll: Proficiency Bonus + Strength Mod + d20
+	 Damage: None
+	 On hit: Target is grappled. On *their* turn, they make a strength saving
+	 throw. Until the grapple ends, the target is restrained and has disadvantage
+	 on strength checks and strength saving throws. Ryk'k can't use that tendril
+	 until the grapple ends.
+
+** Reel
+	 This requires that the target is already grappled by Ryk'k. He can pull them
+	 25ft towards him.
+
+* Spells
+	Peircers do not have any spells to cast, unless they have wands or runes.
+
+** Known Rune Spells
+	 Piercer knows 3 runes spells.
+
+*** Summon Rock
+		This requires nothing but a single Earth rune and a small stone or
+		pebble. The words, "Summa earua sigu", must be spoken to activate the spell.
+
+*** Mark Location
+		The spell requires 2 runes and some item to become the /return token/. The 2
+		runes are 2 law runes. The words "mara loca, luw [name of item]" must be
+		spoken to activate the spell. After activating the spell, the runes will be
+		used and the token will get set. You must have it to return to this
+		location.
+
+*** Return Location
+		This spell is rather complex and requires 4 runes, along with a specially
+		marked return area and it's return token. The 4 runes needed are: 1 air, 1
+		mind, and 2 law. You must have a location in which you previously marked
+		with the [[Mark Location]] spell in order for this to work. The words "retu mara
+		loca, aira mitta luw [name of return token]" must be spoken to active the
+		spell. Note, the spell /will/ use the runes even if you haven't marked a
+		location.
+
+* Traits
+	This are from the race that he is.
+
+** False Appearance
+	 While the piercer remains motionless, it is indistinguishable between a
+	 cave formation, such as a stalagmite or stalactite.
+
+** Spider Climb
+	 The piercer can climb on difficult surfaces, including upside on the ceiling
+	 with no ability check needed. This is usually done with the tendrils due to
+	 their sticky nature.
+
+** Odd Skin
+	 Due to the Heaven Piercer's odd skin (explain in the [[Description of Race]]),
+	 they have a few resistances. Fire, cold, and acid. It should be noted that
+	 when hidden inside it's shell, it is NOT safe from these and will take normal
+	 resisted damage whether in or out of the shell.
+
+** Iron Gut
+	 Ropers will eat entire people and all their items. They cannot be food
+	 poisoned or get sickness in that manor. They cannot digest platinum,
+	 vibranium, arium, gemstones, magical items, or solidaria[1].
+
+	 [1] Solidaria is a very dangerous drug. It is similar to cocaine but the body
+	 can't actually use it. It gives off radiation and causes people to experience
+	 an "everlasting" high because it remains in their body forever. It is an
+	 important item for the *Underwater Trade*.
+
+* Feats
+** Advanced Senses
+	 At the first level, Ryk'k have very sharp hearing and can sense the heat of
+	 creatures within a 30ft radius of them.
+
+** Grasping Tendrils
+	 The roper can have up to six tendrils at a time. Each tendril can be attacked
+	 (AC 18; 10 HP; immunity to poison and psychic damage). Destroying a tendril
+	 deals no damage to the roper, which can extrude a replacement tendril on its
+	 next turn. A tendril can also be broken if a creature takes an action and
+	 succeeds on a strength check against it. The number of tendrils Ryk'k can use
+	 simultaneously increases with level.
+
+
+	 Since the human parts (minus the head) of Ryk'k are made of the same material
+	 as tendrils, they can be lopped off as well. However, these are much thicker
+	 and require a day to regrow. Damage to these are to Ryk'k.
+
+** Natural Armor
+	 Due to the hard shell on the head and torso of Ryk'k, his base AC starts
+	 at 19. This is very high for a level 1, but keep in mind that Ryk'k is unable
+	 to move quickly and is forced to stay in the same relative area.
+
+** Withdraw
+	 On an action, Ryk'k can choose to jump into his shell/hidden form. While in
+	 this form he has resistance against all non-magic melee attacks. He retains
+	 his normal resistances and cannot be conditioned (poisoned, charmed,
+	 frightened, etc.) unless they make sense. He can set a reaction to jump out
+	 or use a bonus action to do so.
+
+** Surprise
+	 If Ryk'k is hidden and jumps out to attack someone, they must make an
+	 intimidation saving throw. On a failed save, the person is terrified and all
+	 saving throws have disadvantage until the next turn. On a successful save,
+	 Ryk'k can attack as normal yet still has first initiative.
+
+** Multi-Attack
+	 This allows Ryk'k to use 4 tendrils, reel, and bite/acid spit in 1 turn. This
+	 increases to all 6 tendrils at level 10.
+
+** Strength Improvement
+	 Ryk'k's strength increase by 1 and can now go above 20.
+
+** Acid Spit Attack
+	 Ryk'k learns how to spit up some of his acidic stomach acid to inflict damage
+	 on enemies. The attack has a range 5ft and deals 3d10 of damage. The target
+	 /must/ dodge this spell with a dex save or fall victim to it. If the target
+	 is wearing magic or vibranium armor, they are not affected by it. Weapons
+	 made from arium are also not affected. Once hit with this, the armor is
+	 permanently damaged and will lose a reasonable amount of AC. It can only be
+	 done once a day, until level 12 where it can be done twice and level 18 where
+	 it can be done thrice.
+
+** Heaven Camouflage
+	 Ryk'k learns that he has the ability to blend in with his surroundings. When
+	 in hidden form, he can choose to camouflage himself to whatever the
+	 surrounding color is. While camouflaged, he is visibly unnoticeable.
+
+** Increased Senses
+	 Ryk'k learns that his sensing abilities are far greater than what he
+	 thought. He is now able to sense anything living creature in a 60ft
+	 radius. Also, he can now sense movement and change in atmospheric pressure.
+
+** Multitasking
+	 At this point in time, Ryk'k is so skilled (far more skill than any roper
+	 ever) that he get 2 turns in initiative. His second turn can only be used for
+	 attacks using his tendrils, however. This means he cannot do /anything/ else
+	 except an attack with the tendrils (multi-attack with all 6 is possible, just
+	 no biting or reeling).
+
+** Constitution Improvement
+	 Ryk'k's constitution increase by 1 and can now go above 20.
+
+** Devour
+	 Ryk'k learns that he is quite capable of devouring medium[1] sized or smaller
+	 creatures in a single bite. While *not in initiative* Ryk'k can choose to
+	 attempt to devour a creature after uses the [[Surprise]] feat. The creature must
+	 make 6 (one per tendril) strength saves[2]. On a succeed save, they break
+	 free of 1 of the tendrils and must make another 5 saves. This goes on until
+	 the target succeeds at all 6 saves. If the ever fail all in 1 set, they are
+	 reeled in and devoured by Ryk'k.
+
+	 [1] The *must* be smaller than him in actual height.
+	 [2] If they are intimidated by the [[Surprise]] feat, lol gg.
+
+** Shell Immunity
+	 Ryk'k's shell has taken all the abilities of a heaven piercer. While in the
+	 shell, Ryk'k is immune to all status changes and damage (minus radiant and
+	 psychic) from non-magical weapons unless he was placed into that
+	 condition. For example, if you took him and placed him into a fire or
+	 surrounded him by fire. He would still have resistance to it, just not
+	 immunity.
+
+** Menace
+	 Ryk'k gets +5 to strength and constitution and gains the ability to withdraw
+	 as a reaction.
+
+* Leveling Up Table
+  | Level | Proficiency | Features                                       | Bite |
+  |-------+-------------+------------------------------------------------+------|
+  |     1 |          +2 | Advanced Senses, Grasping Tendrils, Nat. Armor |  1d8 |
+  |     2 |          +2 | Withdraw                                       |  1d8 |
+  |     3 |          +2 | Surprise                                       |  1d8 |
+  |     4 |          +2 | Ability Score Improvement                      |  1d8 |
+  |     5 |          +3 | Multi-attack                                   |  1d8 |
+  |     6 |          +3 | Acid Spit Attack                               |  2d8 |
+  |     7 |          +3 | Heaven Camouflage                              |  2d8 |
+  |     8 |          +3 | Ability Score Improvement                      |  2d8 |
+  |     9 |          +4 | Increased Senses                               |  2d8 |
+  |    10 |          +4 | Multi-attack (6 tendrils)                      |  2d8 |
+  |    11 |          +4 | Strength Improve                               |  3d8 |
+  |    12 |          +4 | Ability Score Improvement, Acid Spit(2)        |  3d8 |
+  |    13 |          +5 | Multitasking                                   |  3d8 |
+  |    14 |          +5 | Constitution Improvement                       |  3d8 |
+  |    15 |          +5 | Devour                                         |  3d8 |
+  |    16 |          +5 | Ability Score Improvement                      |  4d8 |
+  |    17 |          +6 | Shell Immunity                                 |  4d8 |
+  |    18 |          +6 | Acid Spit(3)                                   |  4d8 |
+  |    19 |          +6 | Ability Score Improvement                      |  4d8 |
+  |    20 |          +6 | Menace                                         |  4d8 |
+
+* Items
+	Ryk'k has a small napsack.
+
+	Books:
+	- Diary
+	- Book of Thieving
+	- Book on Rocks
+
+	Runes:
+	- 3 air
+	- 3 mind
+	- 4 law
+
+	A pen and ink
+
+	A pebble
+
+	An amulet (it has no special abilities)
+
+* Backstory
+	Ryk'k's backstory is quite short, believe it or not. His "parents" were both
+	explorers - spelunkers, if you will. They were very rich due to their
+	findings. Experts of the craft. Because of their skill, they were asked to
+	find and return an ancient artifact known as *Hib-by-bi*, a small statue of a
+	man. It has been referenced to in almost all the ancient civilization sites
+	found on the continent. They believe that there is some ancient secret society
+	revolving around it.
+
+
+	Anyways, his parents went looking for it. While in a cave that they believed
+	had it in there, his parents were attacked by a shit ton of cave dwelling
+	creatures. Unable to fend them off, they started to run. The ended up hiding
+	in a small pocket in the wall of the cave. While resting there a roper,
+	waiting for this very moment, popped out from hiding! His mother, being a
+	professional bullshiter, exclaimed that she was pregnant and needed to live to
+	raise her son/daughter. The roper seemed to have understood what she was
+	saying. So, if decided to just eat her husband instead. Little did his mother
+	know that she /was/, in fact, pregnant (it had only been a couple weeks or
+	so). The roper then proceeded to rape his mother, while he was just a bunch of
+	cells inside her.
+
+
+	It was finally the day... Ryk'k was born. Immediately after the child was
+	born, she realized that he looked nothing like a human! He was almost entirely
+	piercer (lava of roper). She cried and cried about it. Then the roper ate
+	her. Ryk'k was then raised by the roper.
+
+
+	Once Ryk'k had grown to the "adult" stage, the roper community realized that
+	he was taking the form of a human and not a roper! So they banish him from the
+	cave, only after teaching him very basic roper hunting techniques. From that
+	day on, Ryk'k was by himself. He was taught to speak Common by a homeless man
+	that he found in a city somewhere. He was eventually kicked out of the city
+	because of claims that he was stealing things (he had no idea of
+	currency). This is how he got all the items that he has.
+
+
+	To this day, Ryk'k is a functioning person that lives in the swamps of
+	Lum'is. He hunts for most of the day and returns to his small water side cave
+	for the evening. During his free time, he write a lot. Since he doesn't know
+	how to read or write Common, he created his own written language called
+	Rock. Rock is a language that considers of all the letters found in Common.
+	They are, however, in the wrong order, of course. However, he knows what all
+	the words mean in Roper and Common. He writes a lot of stories and ideas
+	down. He is quite curious.
+
+
+	Ryk'k is very personable but has no one to talk to. He does have a couple
+	friends in the swamp that he talks to, such as toad warriors and other small
+	passive creatures. Ryk'k's goals and aspirations consist of finding out why he
+	is so different from his family (the ropers) and why he was given the amulet
+	he has (it was his mothers, the ropers gave it to him but never said anything
+	about it). He hopes to, one day, be able to be apart of normal
+	society. Walking, talking, and doing business with all the other creatures of
+	the world. Sadly, he has no idea where to start and has no one to guide
+	him. Until that day, Ryk'k will remain in the swamps doing what he does.
