@@ -1034,13 +1034,15 @@
    "The bags contain 25G each. The wafer is a special treat... Go head. Eat
    them."
 
-   The Lum'is Wafer will increase one of their ability scores by 1. No limit.
+   The Lum'is Wafer will increase one of their ability scores by 1. No
+   limit. They also gain a 1d10 inspiration die that will stay until used. It
+   can be used for anything from a saving throw to a AC check to a damage roll
+   to a skill check.
 
    "What do you think of /that/? Haha, no they aren't for sale. I decided to get
    them crafted just for you guys, if you were to return! HAHA! I can't believe
    it. Go on, rest now. I'm having a celebration tonight because of your
    successes!"
-
 
    They can now go and rest. Around 8PM that evening there is an event where all
    the towns folk and the king and everyone get fucking smashed and party. If
@@ -1121,10 +1123,216 @@
     This quest will make the group look really amazing to all in the bar and
     will increase their overall approval rating in Lum'is and in the continent
     in general.
+
 *** The Hags' Cellar
     They must find a way to get into the cellar. The lava is still hot, so they
     need to cool it somehow. For example, Charcoln has a spell to cool (costs $$
     for the runes), they could buy explosives from criminals, etc. They can
-    figure that part out.
+    figure that part out. Just improvise. They can sell their Solidaria and have
+    professionals blow the hole up.
 
     --------------------------------------
+
+    Under the rock they will find an metal trapdoor. It seems to have been
+    unaffected by the lava. There is no lock on the door. Upon inspection they
+    will find out that it is a very expensive door because it is coated in
+    platinum, but is made out of iron. The platinum was enchanted to not be
+    affected by heat, therefore, the door didn't melt or get damaged.
+
+    Upon opening the door, the smell of death and despair rushes out. The ladder
+    leading down is cover in a sticky material that grosses you out a little. It
+    is pitch black down there and very cold. Chills roll down your spine because
+    of it. It is absolutely quiet. Too quiet.... There is nothing behind the
+    ladder. The hallway goes forward.
+
+
+    As they walk down the hallway, they feel as though they are getting sucked
+    deeper into the cave. They have a lust to continue going forward, although
+    being scared and nervous.
+
+
+    Eventually, they will run into a fork in the hallway. Looking down the left
+    side, they will see a small light at a distance. It looks like a flame of a
+    candle on the side of the wall (as far as you can tell). Down the right
+    side, they see nothing of interest. Just looks like another hallway.
+
+    --------------------------------------
+
+    If they go down the left side, they will come up to the candle. The flame
+    burns brightly. It gives you a sense of warmth and homeyness. Right next to
+    the candle is an iron door with a lock on it. There is a small opening in
+    the door that has bars in it. Looking inside they will see a large room. In
+    the center is some kind of table. You can't really make out what it is, but
+    you can see some kind of items around the table. You have a sense of anxiety
+    rush into you. If they talk while near the door, a voice will come from the
+    room.
+
+    Voice: "Who's there!? Help us!"
+
+    Whatever they say, the voice will reply:
+
+    "I shouldn't have said anything... Beware of the **squeak of a door
+    opening** ...." At that moment you hear the voice scream. You hear noises
+    that sound like the person is being eaten alive.
+
+    --------------------------------------
+
+    If they go down the right side, the hallway will continue for a while. It's
+    fairly long and doesn't have any doors. At the end of the hallway, you find
+    a wooden door. It looks very old and that its been down here for many
+    years. The wood is rotten and the handle is grimy.
+
+
+    Opening the door with a loud squeak, the room is empty. There isn't anything
+    in there. With a search >15, they will find a note that was pinned to the
+    back of the door. If they search >18, they will find a small keyhole in the
+    ground. There is no door that it is attached to, however. If something reads
+    the note out loud, it will disintegrate and the door will slam shut. The
+    note will read "Greetings, adventurers. If you are reading this, we must
+    have been killed by you. You think that we wouldn't have planned for this
+    day? Well, we did. Enjoy the show."  At that moment, everyone must make a
+    passive wisdom save. You pass if >15. If passed, you don't fall for the
+    trap. If failed, you start to see the walls of the room close in. You also
+    believe that the door cannot be opened. The spell ends once the walls close
+    in on the person(s). They can also be knocked out of the spell if someone
+    can pass a persuasion check > (- 20 int). For example, Ryk'k has an
+    intelligence of 12, thus, the persuasion check has to be greater than 8.
+
+
+    After this will fiasco, the person(s) affected by the spell must take a
+    short rest to regain their thoughts. If they spend too much time down there
+    the beast will find them... >20 minutes. The Hell Hounds (3) will run into
+    the room all at once. This means you can't funnel them into the
+    room. Otherwise, if they return to the locked door it will be opened. If
+    they don't ever check back, they never know that it was unlocked
+    obviously. If they enter the unlocked room, they are surprised by the hounds
+    (3) once they all enter. The door will slam behind them. If someone is on
+    the other side of the door, they cannot join the battle unless they have
+    attacks that can go through walls or through the small window.
+
+
+    Once they defeat the beasts, they will see what is actually in the room. In
+    the center of the room is a stretcher table. The items around the table are
+    other torture tools. There is blood all over the table as well. Around the
+    edge of the room are cells. There are a bunch of doors similar to the one
+    for the big room. Iron and with a small window with bars. One of the doors
+    is open, this is the one that the guy was killed in. Inside of that open
+    isn't anything of interest - just the remains of the prisoner.
+
+
+    - They can search around the room for something to unlock to doors with. They
+      must specifically say that they are looking in the torture tools then roll a
+      >13 to find a *skeleton key*. The key will *not* work on the cells. Also
+      in the torture tools will be a bunch of bloody rope, whips, chains,
+      needles, and other gross torture devices.
+
+
+    - They can talk to some of the prisoners and they will all say the same
+      thing for the most part. Something along the lines of "Thank you! I don't
+      know where the keys to the cells are, I can't really see anything in here
+      /without a light/.
+
+
+    They can search and search in the room and they won't find anything of
+    interest. There doesn't seem to be anything in this room that will help
+    them.
+
+
+    If they return to the room at the other end of the hallway, they can find
+    the keyhole with a search >15, or if they've already seen it, without a
+    roll. Once found, they can put the key into the hole and it will
+    disintegrate. They will hear a loud click from down the hallway. At that
+    moment, they will begin to hear a rumble. Hoping that they would think the
+    place was about to blow, they would begin to run down the hallway to get
+    out. If they don't run, the Minotaurs(3) will run into the room. The first
+    one will be using it's /Charge/ attack. The others will run in and use the
+    /Reckless/ attacks. They all have first initiative. The same thing will
+    happen in the hallway, except they won't be able to dodge the charge attack
+    very easily.
+
+
+    After that battle, if they return to the jail room, all the people will be
+    out of the cells. You can escort them out now. If they check each cell,
+    they will find another key with a search >18. If you ask any of the
+    prisoners what the key is for, they will not know. In fact, no one was in
+    that cell to begin with! If they search for another key hole, they won't
+    find it unless the search around the torture table. With a search >15, it
+    will be found. If they key is placed into the hole, it will
+    disintegrate. The hole place begins to rumble.
+
+
+    The place will *not* fall until they are out. However, it will fall if they
+    leave people behind. Once the party is out, the entire cellar will collapse.
+
+    :end
+** Slaves of Dracon
+   Whenever the adventurers return to the king for their next quest, they will
+   see this scene:
+
+   King: "Greetings my brave warriors! Have thee come for another quest?
+   (without letting them answer) Good! I've got a good one for ye. Guards,
+   Squire, and the rest: Please exit the room."
+
+   **everyone leaves**
+
+   "Come closer, my friends."
+
+   **comes closer**
+
+   **whispering**
+   "This next quest I have is a little more /serious/. Has another informed you
+   about the Dracon Clan?"
+
+   **answer**
+
+   "Good good. So you know that they have worked with Lum'is for ages;
+   protecting the forest and such?"
+
+   **answer**
+
+   "Yes. My great great great great great, I lost count... Anyways, one of the
+   past kings many many moons ago made the deal with them. They have been loyal
+   to us for all this time. However, I'm starting to get suspicious about
+   them. They seem... /different/. I, and anyone else associated with Royal
+   Lum'is, are not allowed to enter their territory. Nor is anyone associated
+   with the Dracon Clan allowed to enter our royal territory. It was one of the
+   rules of the deal made way back then. However, *you* all are not associated
+   with anyone! So, I need you to find out whether what is up with the
+   Dracons. Do you accept this quest?"
+
+
+   If yes, "Perfect! You must Promise to keep this a complete secret. You can't
+   tell anyone, for it may lead to the downfall of Lum'is! Promise?"
+
+   If no, he will try and cox them into it.
+
+   If yes to the promise, "Good! I must warn you, however, the Dracons do not
+   like visitors... Be careful.... Oh yeah! I almost forgot! You cannot enter
+   the Dracons /manor/ unless you have 2 items: a death coin and a blood
+   coin. Both of these are needed! You will be attacked otherwise. Now, the
+   only problem is that we don't have any... In fact, the only place that I know
+   of that has them is the Kelczarian Government. So, you'll have to go talk to
+   them to get some, unless, of course, you had a way to sneak into the
+   manor. Otherwise, off to Kelczar! I should also warn you that the Kelczarians
+   are not the nicest people. Do whatever they tell you to do and don't start
+   any fights while there, for you will surely meet your doom...... Good luck!"
+
+
+   One they are ready, "Guards, Squire, etc., come in!"
+
+
+   **They come back**
+
+   "Good luck my friends and remember what I said!"
+
+   --------------------------------------
+
+   At this point, they must go and figure out what exactly they wish to do. If
+   they know about the Underground River, this will obviously be the best
+   way. Otherwise, to Kelczar they go! Jump to [[Let the Games Begin]], if they
+   choose Kelczar, [[Fish People]] if they choose Underground River, and [[Twilight:
+   Evil Dead]] if they choose to go in raw.
+
+** Let the Games Begin
+** Fish People
+** Twilight: Evil Dead
