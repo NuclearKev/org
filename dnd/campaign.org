@@ -1490,6 +1490,172 @@
     take a test about the code. Lastly, to prove your loyalness, a simple
     quest. Do you accept these conditions?"
 
-    to be continued...
+    "Okay, then. Let us get started... There are 5 rules that you must abide by:
+    1. You must not talk about the river to anyone besides us and yourselves.
+    2. You must not bring others into the river besides us and yourselves.
+    3. You must make sure that no one is following you and that the coast is
+       clear before you enter or exit the river cave.
+    4. You must not use the river as a getaway for crimes or other illegal
+       activity.
+    5. You must pay a tax to us, the Kuo-Toas, if you wish to have us guide you
+       in the river.
+
+       Do you accept these conditions?"
+
+
+    If no, it will say: "Then you must not use the river. You will now be taking
+    into our brainwashing room to have your memories of the river erased."
+
+    Otherwise, "Good, good. Do you have any questions about the code of
+    conduct?"
+
+    "Okay, we shall test you now. Take these folks to the testing center
+    (talking to the people that brought you in)."
+
+
+    You are then taken to a smaller building that looks just like the rest of
+    them. One of the fish people that guided you there will say: "Here it
+    is... Good luck."
+
+    You will enter into a room with one person in it. Just like the last place,
+    it is just one room and the floor is the ground from outside. The person
+    standing in the room says:
+
+    "Hi. I am Yu-Ye. I will be your instructor. The test you are about to take
+    will be like nothing you've previously experienced. I ask you all to close
+    your eyes and think about the code of conduct that was spoken to you not
+    long ago. Each one of the rules is important, but which one is the most
+    important? Do not answer out loud. Just think about which one you think is
+    the most important. Once you've decided, open your eyes. Look around, take
+    in the surroundings. If you have the correct answer, you will know in your
+    heart. You will feel a sense of joy. If you have the wrong answer, you will
+    have haste and anger in your heart. In fact, you might not feel anything in
+    your heart. This means you are probably ignoring what I am saying. This is
+    because you are naive and full of yourself. Someone like that cannot pass
+    this test. Only those whom feel the joy in their heart can pass."
+
+    At this point, the group should roll a Charisma check. If >15, they are not
+    disturbed and continue to listen. Otherwise, they start to get pissed
+    off. They are ready to be tested.... Not this stupid hippy shit!!
+
+    It continues: "Breathe in and let the swampy air in. If the air feels cold
+    and harsh, then you shall not be admitted into the river. You fail. If,
+    however, the air gives you a feeling of contentment, you are on your way to
+    succeeding the test. At this point, think about where you came from. Think
+    about the things you learned about as a child. Where those thing good? Do
+    they make you happy? If not, this is okay. For sometimes we come from
+    incorrect paths. There is only 1 path on this planet. That is the path of
+    the *Kuuruubara*, the great god of this land. He rules it over with a mighty
+    fist. Not afraid to smite any creature that doesn't obey his command!"
+
+    Once more, roll a Charisma check. If >18, you start to question what the
+    hell is going on. Otherwise, you buy this shit. Even if you were pissed a
+    moment ago, you start to think "Hmm, this might get interesting."
+
+    "Think to yourselves. Are you following the order of the Grand Kuuruubara?
+    Those of you who are not, beware! For you are walking on dangerous grounds!
+    Release your sorrows and sins now!!! Now bow and pray to Kuuruubara, for he
+    awaits worship."
+
+    If they bow down and worship him, their god will be angry at them (if they
+    follow one). They will then pass the test. He will say: "Congratulations!
+    You've passed the test. Please go see the elders once more."
+
+    If they DO NOT bow down:
+
+    "You have dishonored Kuuruubara!!! You will surely be punished for your
+    actions!!! Kuuruubara SMITE THESE FOOLS!!"
+
+    At that moment, the water begins to rise. "Ohhhhh, you will surely be
+    punished now!"
+
+    The water will rise by about 5ft and stop. "Bow to him now, or he will drown
+    you all! We know you land creatures don't know how to swim!!!"
+
+    If they bow, it will stop. Otherwise, it will begin to rise after their
+    turn.
+
+    It will stop again at 10ft, "If you do not bow now, I'm afraid +we+ he, will
+    have to destroy you!"
+
+    At this point, they can barely hang in there. The water is so deep and they
+    can't swim. However, at this point they are able to just barely breathe.
+
+    If they call him out on this Freudian slip, he will defend himself. They can
+    convince him that the god isn't real with a persuasion >16. At which, he
+    will stop the flood and ask them how they know that he isn't real.
+
+    If they bow, he will stop the madness and tell them that they passed.
+
+    If they don't do either, the water will rise to 20ft, and they will drown.
+
+    --------------------------------------
+
+    No matter what, they will go to or awake in the elder's building. What they
+    say will be different however.
+
+    If they passed:
+    "Congratulations travelers. You have passed the test. I hope you found it as
+    challenging as we designed it to be. It is time for a small quest. The quest
+    that we've selected for you is quite simple actually. All we need you to do,
+    is clear up the river so that we can have control over the Kelczar exit. Our
+    arch enemies control that, and all of the, the river. We want that Kelczar
+    exit, however. Complete that task and you shall be free to roam the river as
+    you wish. Just remember, you must pay if you wish to have our people guide
+    you. What do you think?"
+
+    If they do not accept: "I guess you will not be using the river them. Please
+    take these travelers to the brainwashing room so that we can wipe their
+    memories of the river."
+
+    If they do, jump to [[Ugly Frog People]].
+
+
+    If they failed:
+    "What a shame... I wouldn't have guess that you would have failed. Sadly, I
+    was wrong. Take them to the brainwashing room and have their memories of the
+    river removed. Then take them out to the swamp, and leave them there. I am
+    sorry, travelers, we must do what we must do."
+
+    *If they attempt to start a fight, they will be forced to fight the entire
+    village. There are a d20 (13) standard Kuo-Toas, a d20 (8) of Kuo-Toa Whips,
+    and a d4 of Kuo-Toa Archpriests. Good luck. If defeated, they will wake up
+    in the swamp with the village nowhere to be found. If successful, they
+    conquered the entire Kuo-Toa village. They now own the land, however, the
+    people left hate them and will attempt to assassinate them at any
+    opportunity. This will also cause /Gury/ to be enemies of them, since he
+    secretly is the ruler.*
+
+    --------------------------------------
+
+    They will be taken to another building. It will once again, be an open
+    single room. There will be 1 person in there with a cauldron that is sitting
+    on top of a fire. The person will say: "It is quite foul tasting but it will
+    do the trick. Please do not hesitate, or I will be require to use force."
+
+    They will be walked towards the person. He will get a small bowl full of the
+    bluish-gray colored liquid inside of the cauldron and take to the first
+    person. One by one, will be forced to drink the hot liquid. It tastes like
+    hot water that was mixed with chalk, with a hint of lemon. Each person must
+    roll a constitution saving throw. If >20, you pass, and are not affected by
+    the potion. Otherwise you will immediately forget where you are and what is
+    going on.
+
+    You will then be taken far into the woods and told to never return to the
+    village.
+
+    :end of quest
+
+**** Ugly Frog People
+     "Alright, we will supply you with some guides to take you to the places
+     that need to be cleared. They, however, will do no fighting. For we cannot
+     risk having our men killed by the brutes that rule those regions of the
+     river."
+
+     Once accepted, they will taken to the river entrance that they were brought
+     out of.
+
+
+     to be continued...
 
 *** Twilight: Evil Dead

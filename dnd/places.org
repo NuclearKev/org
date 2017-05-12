@@ -291,6 +291,22 @@
    Pretty much the entire rest of the river is controlled by the Slaadi because
    they are much stronger. They basically let the Kuo-Toa have the Lum'is part.
 
+** Falendrone Route
+   This is controlled by the Slaadi but the exit is not open. You can't get out
+   that way. To open this you must complete a quest.
+
+** Vet'ric Route
+   Controlled by the Slaadi, it exits to a building within the walls of
+   Vet'ric. However, it is highly guarded by the Slaadi.
+
+** Morytania Route
+   This part of the river collapsed in on itself. It isn't controlled by anyone.
+
+** Kelczar Route
+   Once again, controlled by the Slaadi. It exits out in the middle of the
+   desert. This is also highly guarded by the Slaadi, but there really isn't a
+   reason to have it highly guarded.
+
 * Falendrone Region
 * Vet'ric Region
 * Between Falendrone and Vet'ric
