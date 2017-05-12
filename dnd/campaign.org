@@ -1333,6 +1333,163 @@
    choose Kelczar, [[Fish People]] if they choose Underground River, and [[Twilight:
    Evil Dead]] if they choose to go in raw.
 
-** Let the Games Begin
-** Fish People
-** Twilight: Evil Dead
+*** Let the Games Begin
+    This sub-quest starts only if they do not use the Underground River or try
+    to go to the manor without the coins.
+
+    --------------------------------------
+
+    Per usual, they make the same trip as if they were going to Port
+    Santus. Instead, they stop about half way (takes about a day and a half)
+    only to go north toward the manor. After about 2 hours, things start to get
+    weird. The trees around you begin to change color - going from a lush green
+    forest to a black scary one. The trees all around are dead and their bark is
+    black. Even the ground begins to change, going from a light brown dirt to a
+    gray dirt.
+
+
+    At this point, everyone must roll a charisma saving throw >13 or become
+    frightened and refuse to go farther.
+
+
+    If they continue the journey then they will be forced to walk through a
+    "haunted" forest of sorts. The blacken trees will attempt to attack them,
+    thus, they will be forced to roll Dex saves >12 or be hit by the trees. Each
+    tree that hits will do 1d6 of slashing damage. On top of being attacked by
+    trees, roll a d8 and if you roll >6, they will be attacked by the following:
+    - d4
+      - 1-2: ghast
+      - 3-4: ghoul
+    - d4 for the number of them
+
+      This can happen up to a d6 amount of times.
+
+
+    At the end of the attacks, they will appear in front of a gated manor. The
+    gate is an iron rod fence, along with an iron rod gate. The manor looks just
+    like a typical haunted house, except there is a symbol at the top of the
+    doorway into the manor. It is a circle with two triangles in it. See [[file://~/org/dnd/dracon.png][this]]
+    image for a reference. Another thing that they notice is that there is a
+    thick fog rolling in. In fact, you can barely see more than 10 ft in front
+    of you.
+
+
+    As you approach the manor, you get another eerie feeling and thoughts of
+    going back enter your head again. Once again, everyone must roll an charisma
+    saving throw >15 or think that they should go back. If they do decide to go
+    back, they must go through the same stuff as before on the way out.
+
+
+    If they stay, they will see a large double door. Each door has two slots on
+    it. One has an image of a skull, the other a red drop of blood. There is
+    also a set of door knockers, one on each door. They are in the shape of
+    skulls as well and look as if they are made of of brass that hasn't been
+    cleaned in approximately a century. There are no handles on the doors. You
+    find this very strange.
+
+    They will most likely use the knockers. At which nothing will happen. They
+    can try all they want, the doors will not open without a lot of force. They
+    can attempt to knock the doors in and will only succeed with a Str check
+    >18. Otherwise, they need to find another way in. Also, if they enter by
+    breaking the doors, they will have worse luck in the manor.
+
+
+    Skip over this part if they break the doors down, just jump to the part when
+    they enter the manor with the blood and death coins. Keep in mind, since
+    they broke the doors down, when they get to the boss, he won't be as
+    friendly. [[Twilight: Evil Dead]]
+
+    --------------------------------------
+
+    They can walk around the manor. On the /west/ side of the manor, they will
+    find a grave yard that is attached to the fence around the manor. If they
+    enter the yard then they will be attacked by d20 of zombies. Otherwise, they
+    will be safe. There is nothing of interest on the west side of the manor
+    however. On the /east/ side, there will be a cellar door that leads to the
+    basement. It does not have a handle on it either. There is a similar slot on
+    this door, except it has a grave stone above it. If they do an inspection on
+    the door and roll >17, they will notice that the gravestone is very
+    intricate and has the words "Here lies Number 1" on it. On the back on the
+    manor, there is a porch area that you can get on. There are no windows that
+    you can see into and the back door has no handle. It, once again, has a slot
+    like the rest. This one has what looks like a casket on it. The casket
+    doesn't have any writing on it. If they search the porch, they will find
+    some furniture that is very old, and that is all.
+
+    They can find both of the coins for these doors in the graveyard. The
+    easiest to find is the cellar door. However, it is the hardest path. The
+    casket one is found in a grave that has a casket in it. In order to find it
+    you must dig up all the graves until you find it. There are 20 graves, so,
+    if you roll a d20 and get 3, you find it. To make things easier, if they
+    search and get down to 12, switch to a d12. This is design to make them give
+    up so they don't find it. Finding the grave with the gravestone coin doesn't
+    require a roll.
+
+
+    Jump to the respective area in [[Twilight: Evil Dead]] to continue from
+    here. Note that if they used the cellar coin, they will had a harder time
+    because they will have another floor to complete. If they get in on the
+    porch, it is just like they came in the front with the regular coins.
+
+*** Fish People
+    Read the entrance stuff found the in [[file://~/org/dnd/places.org][places]] file.
+
+
+    Once they get to the water, and decide what they're gonna do, d8 fish people
+    will jump out of the water. One will say: "Who are you?! And how did you
+    find this place!?"
+
+    With a good enough answer, the same one will say: "Aye, I see. Well, before
+    you are able to use this passage, you must agree to our code of conduct."
+
+    If they are okay with they, it will say: "It is so. Follow us... Oh, it is
+    probably faster for you folk to just walk for now. Once you've agreed to the
+    conduct, you will be allowed to use the water."
+
+    They begin to head down the left, however, since you are underground, you
+    don't know which cardinal direction it is. It is quite a long trip, in fact,
+    the fish people tell you to rest at one point. In actuality, the trip took 1
+    day.
+
+    Fish person: "We are here. You land folk go to that ladder over there, we
+    will open the hole for you."
+
+    The ladder is wooden, and is made from a tree that must thrive in moist dark
+    areas because it doesn't show any signs of rot or ware. After a few minutes,
+    a hole in the roof begins to appear. To your surprise, there is no light
+    from the sun or anything. The fish person tells you to come up.
+
+    Once you reach the surface, you will realize that you're in a swamp. The
+    fish people cover up the hole and begin to walk. After a few minutes, you
+    see a village. It is quite large actually. It looks almost like a tribal
+    swamp village, but with fish people. The village is on top of very wet
+    land. It's basically a marsh. There is also a lot of water around the
+    village that looks very deep. The houses and buildings look to be made out
+    of the same material as the ladder. It is very dark in color, and looks like
+    most of the other trees around the area. There are a lot of fish people
+    walking around that take a minute to stare at you. Then resume what they
+    were doing after a minute or so.
+
+    Fish person: "Come into our headquarter. We shall discuss the code with you
+    in there. "
+
+    They lead you to a longer building. There are no signs or anything to make
+    it stand out. Whence entered, you notice that the floor is literally the
+    same ground as outside and that it is just one large room. At the end of the
+    room are 5 fish people. Each dressed the same as everyone else. You also
+    notice that there is a portrait of another fish guy on the wall. He is quite
+    fat and doesn't have legs. He is doesn't look anything like the fish people
+    that you are with, however. He is wearing a white shirt, and a blue
+    sleeveless jacket. There is also a band around his waist that has a purple
+    gem in it. After you've looked around one of the fish people at the front of
+    the room says: "Ayo, travelers. Welcome to the Kuo-Toas Village. What have
+    ya come for?"
+
+    "Yes, you wish to use the Underground River. Indeed. This doesn't free, ya
+    know. You must first agree to the code of conduct. After which, you must
+    take a test about the code. Lastly, to prove your loyalness, a simple
+    quest. Do you accept these conditions?"
+
+    to be continued...
+
+*** Twilight: Evil Dead
