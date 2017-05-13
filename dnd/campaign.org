@@ -1656,6 +1656,111 @@
      out of.
 
 
-     to be continued...
+     You be brought a small boat to allow for faster traveling. One of the
+     Kuo-Toas that came with you will say: "Everyone get in this boat. It will
+     allow us to move at a faster rate." (That rate is about 4x the normal
+     speed. 1 day of walking will only take about 6hrs)
 
+     Once you are all in the boat, it will begin to move. The Kuo-Toas that are
+     following use a spell to make the river move. This allows you to go very
+     fast. You will travel for about 2 days and the flowing will stop. One of
+     the Kuo-Toas will say: "Here is where we must stop. Ahead, about 3 hours,
+     will be the people you must destroy. I should note that the Slaadi are NOT
+     friendly and will probably attack you right away. If not, consider
+     yourselves lucky. Good luck."
+
+     They will then travel about 3 hours on foot. When they will hear a voice
+     inside their heads. It will tell them to turn around or they will need to
+     use force.
+
+     I'm sure they will keep going and they will be met with two slaadi, both
+     red. One will be on each side of the river. However, on the first turn of
+     the one across the river, it will jump over to the other side where you
+     are. Once they are defeated, they can take a short rest. However, after a
+     few minutes of rest, they will met by a larger slaad, this one is blue. It
+     has large claws that protrude from its hands. It speaks:
+
+     "You have defeated my friends... They have been guarding this exit for 20
+     years and no one has ever defeated them... What is it that you want from
+     the exit?"
+
+     If they say something about working for or doing a quest for the Kuo-Toa,
+     he will say: "The Kuo-Toa are our worst enemy. They think that they can
+     rule this river, but the truth is that they are weak. They must have
+     tricked you into thinking that it was possible to defeat us. That is
+     laughable. Here is what I'll do for you: I will let you live, if and only
+     if, you join us and help us destroy the Kuo-Toa!"
+
+     If they agree, they will have a much easier fight. Since the Slaadi are
+     significantly stronger than the Kuo-Toa, the fight will not be too
+     bad. However, it will be more like a war. Jump to [[War of the Underground
+     River]].
+
+     If they don't: "Well, I guess you choose to fight for the weak. Prepare
+     yourself for battle!"
+
+     They will then fight him.
+
+     If they succeed, then they will continue onward. It is recommended that
+     they take a long rest at this point because they will probably get fucked
+     if they continue without a rest. As they travel farther, they will
+     eventually hit a trap. It is a water trap that will force you into the
+     river. Unless detected with a investigation >9, they will be forced to roll
+     a Dex saving throw (yes all of them). If >12, they pass and are not pushed
+     into the water. Otherwise, they will be pushed into the water. If someone
+     cannot rescue them, they will drown. After this trap, the rest of the way
+     is fairly smooth.
+
+
+     After a few more hours of travel, they will see one Slaad standing. Just
+     standing. One they get close enough, it will speak:
+
+     "You know it is comedic to think that the Kuo-Toa will ever take over the
+     river. Do any of you know anything about the Kuo-Toa?"
+
+     "Exactly. Let me explain. Many years ago, the Kuo-Toa were normal land
+     dwelling people. Due to their weak minds, they were easy to turn into
+     slaves. Any creature capable would capture them and force them into
+     slavery. After centuries of being slaves, they broke. Generation after
+     generation, the Kuo-Toa grew more and more insane. Until they became so
+     sickened, that they were useless, even as slaves. To this day, they suffer
+     from insanity; making up gods and rules out of thin air. They truthfully
+     have no idea what is going on. They trust no one except themselves and
+     their false gods. In the end, Kuo-Toa are useless creatures that are using
+     you to "accomplish" something. When in reality, that "something" isn't
+     really anything at all. They don't want more of the river, they just think
+     that they do. Now, I will ask you all a question. Will you abandon the
+     Kuo-Toa that are using you and join us in removing their filth from this
+     land?"
+
+     If yes, jump to [[War of the Underground River]].
+
+     If no, "Okay. Just remember that I told you those freaks were going to
+     screw you over! Prepare yourselves travelers!"
+
+     At that moment, a ball of fire will be hurled at someone. I pick. While the
+     fire was near him, you could see that he was green in color and had a
+     staff.
+
+
+     If they succeed in defeating the creature, they have technically completed
+     the quest. However, they must still go back and bring the Kuo-Toas that
+     guided them to the cleared exit. When this is done one of them will say:
+
+     "Great! Great! Let us go back and tell the elders of your success."
+
+     They will all travel back to the village peacefully and return to the
+     elders. Whence you enter the room: "I suppose this means that you folks
+     completed the task?"
+
+     "Very good. We have decided that we didn't think that clearing the Kelczar
+     exit was good enough... Thus, we have added another quest to the
+     requirements. Please clear the Vet'ric exit now."
+
+     If they agree, it will basically be the same thing. Just improvise and use
+     harder Slaadi.
+
+     If not, to be continued..
+
+***** War of the Underground River
 *** Twilight: Evil Dead
