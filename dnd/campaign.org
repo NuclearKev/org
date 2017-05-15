@@ -1333,7 +1333,7 @@
    choose Kelczar, [[Fish People]] if they choose Underground River, and [[Twilight:
    Evil Dead]] if they choose to go in raw.
 
-*** Let the Games Begin
+*** Twilight: Evil Dead
     This sub-quest starts only if they do not use the Underground River or try
     to go to the manor without the coins.
 
@@ -1397,7 +1397,7 @@
     Skip over this part if they break the doors down, just jump to the part when
     they enter the manor with the blood and death coins. Keep in mind, since
     they broke the doors down, when they get to the boss, he won't be as
-    friendly. [[Twilight: Evil Dead]]
+    friendly. [[Let the Games Begin]]
 
     --------------------------------------
 
@@ -1426,7 +1426,7 @@
     require a roll.
 
 
-    Jump to the respective area in [[Twilight: Evil Dead]] to continue from
+    Jump to the respective area in [[Let the Games Begin]] to continue from
     here. Note that if they used the cellar coin, they will had a harder time
     because they will have another floor to complete. If they get in on the
     porch, it is just like they came in the front with the regular coins.
@@ -1749,6 +1749,8 @@
 
      "Great! Great! Let us go back and tell the elders of your success."
 
+     --------------------------------------
+
      They will all travel back to the village peacefully and return to the
      elders. Whence you enter the room: "I suppose this means that you folks
      completed the task?"
@@ -1760,7 +1762,362 @@
      If they agree, it will basically be the same thing. Just improvise and use
      harder Slaadi.
 
-     If not, to be continued..
+     If not, "Well then, I guess we will have to wipe your memories. We really
+     thought that you guys would have been useful to us... Please take them to
+     the brainwashing room!"
+
+     Read the brainwashing stuff from earlier.
+
+     --------------------------------------
+
+     This will go on until they have defeated all the exit Slaadi guards. This
+     obviously isn't something that they would want to do because it is
+     unnecessary work, so they will probably want to stop. There are a few basic
+     ways to get out of the loop:
+     1. Turn on the Kuo-Toas and kill them all.
+        1. Use the stuff from before if they do this.
+     2. Join the Slaadi and kill the Kuo-Toa.
+        1. Jump to [[War of the Underground River]]
+     3. Leave and don't use the Underground river.
+        1. This will leave them unable to use the river and disliked by both the
+           Slaadi and the Kuo-Toa. However, they won't have to deal with the war
+           and will be able to continue the main quest.
+     4. Something creative that would work.
+
+
+     This quest is technically finished if you kill them all or finish all their
+     biddings.
+
+     :end of quest
 
 ***** War of the Underground River
-*** Twilight: Evil Dead
+
+      Depending on when you are joining the Slaadi will determine how exactly it
+      will start up. Basically, it will all start the same but the person is
+      different. This is assuming that they are joining the Green Slaadi at the
+      Kelczar exit.
+
+      Slaad: "You have made a wise choice. Follow me."
+
+      At that moment, the Slaad will say some words and a purple-colored portal
+      will appear on the ground.
+
+      "Let's go." and he will jump in.
+
+      --------------------------------------
+
+      You will then jump out the other end of the portal in a very odd house of
+      sorts. The place seems very woodland-ish. The room is constructed of a
+      dark wood and the floor is grassy and moist. It smells like you are
+      located deep within a forest that has had a recent rain.
+
+      Once you've all collected your thoughts, the Slaad will say: "Stay in here
+      for a little while. I will come back and tell you when it is time to show
+      yourselves. In the mean time, rest and regain your strength, for my people
+      might want a show of strength to make sure you are all capable of taking
+      down the Kuo-Toa."
+
+
+      About an hour will pass and the Slaad will return. He will say: "Come out,
+      warriors, for it is time for your exposure."
+
+      You will be lead out of the small hut and outside there will be hundreds
+      of Slaadi standing around the hut. All different colors, red, blue, green,
+      and gray. They will all start to cheer once you're out! Once they've all
+      settled down, the green Slaad will speak, this time in a different language
+      that you cannot understand. After he finishes, the entire crowd will begin
+      to cheer again. He will then turn to you and say:
+
+      "They want a show, good luck."
+
+      He will then scream something else in that other language and everyone
+      else will start to cheer again. The green Slaad will then merge into the
+      crowd.
+
+
+      Then the cheering will stop. You wait. During this time, you look around
+      and notice that you are deep in the forest. The trees around you are quite
+      large with very thick trunks. The tops of the trees must be 50 yards up!!
+      The rest of the village, as you can see, is a mixture of huts similar to
+      the one you were in. You also notice that the huts seem to be like little
+      trees with leaves growing on top, how odd.
+
+      After a few minutes, you begin to hear something... The crowd begins to
+      cheer again and eventually, the crowd in front of you starts to
+      split. Then you see it.... A medium sized monster that none of you have
+      ever seen before. It has 3 legs, 3 arms, 1 eye, and a huge mouth. The skin
+      is a reddish-brown and is being guided by 3 strange looking Slaadi. They
+      aren't gray, but a very dark gray, almost black. You are unsure why the
+      creature doesn't just break free and fight, but it seems that it is being
+      controlled by something to keep it calm.
+
+      Once the creature enters the center, the 3 black Slaadi away and the
+      creature springs into action! It screeches a terrifying screech and the
+      battle begins.
+
+      --------------------------------------
+
+      If they win against the beast, the crowd will go nuts. The green Slaad
+      will come to you and say: "You have defeated the
+      Xorn. Congratulations. You have now proven yourselves to us. You are now a
+      member of the Slaadi army. **yelling** We shall go tomorrow and rid this
+      land of the filth that is the Kuo-Toa!!!"
+
+      The crowd will go nuts and slowly they will return to their quarters to
+      prepare for tomorrow's pillage. You can ask the green Slaadi questions but
+      you are not welcome to roam the town.
+
+      --------------------------------------
+
+      The next day, you will all jump through a portal and end up deep in the
+      swamp somewhere. The leader that has been assigned to your squad is a
+      black Slaad, he will point to the direction you will go. You and the rest
+      of the squad will join.
+
+      After about an hour of walking, you see the village. The black Slaad will
+      scream something in Slaadi and start to run, and so will everyone else.
+
+
+      Let the war begin! You reach the village were you see Slaadi and Kuo-Toa
+      fighting. The watery ground is red from the blood. You are then spotted by
+      the elders. One of them will yell: "TRADERS!!!!!!" Then you will fight all
+      4 of them. However, you get the squad too, which consists of 1 black, 1
+      grey, and 2 red Slaadi. You should be able to win pretty easily. Every 5
+      turns roll a d4, if 1-2 a d6 of Kuo-Toa join, if 3-4 a d4 of Kuo-Toa Whips
+      join.
+
+      --------------------------------------
+
+      Once the battle has finished, you will notice that the entire town has
+      been destroyed. One of the dying elders will say:
+
+      "You will all be punished... The great Gury will kill you all..." Then it
+      dies.
+
+      Afterwards, the black Slaad yell something in Slaadi and a green Slaad
+      will come over. It will say to you: "Thank you for your help. We greatly
+      appreciate the help... Now, let us go back to the village and rest, we
+      have a surprise for you...."
+
+      --------------------------------------
+
+      Once back to the village, you are taken into a larger hut. Inside is a
+      very strange pool of water. Inside of the pool are a bunch of gems; red,
+      blue, green, gray, and black. The green Slaad with you says:
+
+      "These are called Control Stones. They can be used to control others, or
+      protect you from being controlled. You see, us Slaadi use these stones and
+      we wish to give you some. However, you don't get to choose if you want one
+      or not..."
+
+      At that moment 3 black Slaadi enter the room.
+
+      "We are truly sorry for the inconvenience... but we need men that are as
+      powerful as you to fight for us... How else would we be able to overthrow
+      the scum that is the Rellekka Empire?"
+
+      Then in Slaadi, it will tell the black Slaadi to attack. They will
+      definitely lose...
+
+      --------------------------------------
+
+      They awake in a fancy inn. Confused and disoriented.
+
+
+      If they go downstairs, they will realize they are back in Lum'is,
+      specifically in the Lum'is Inn. If they ask the innkeeper how they got
+      here he will say:
+
+      "I am not sure... We had some guest go up to what-was-supposed-to be empty
+      room and you were all in there, with the payment on the counter. We truly
+      have no idea how you all got here."
+
+      --------------------------------------
+
+      They each have a gem that has been implanted in them at some place on
+      their body, namely their backs. It should be noted that they are now
+      controlled by the controller of the Slaadi, The Elder Brain. If they
+      attempt to do something that it doesn't want them to do, it will stop
+      them. If they attempt to break the gem, it could kill them due to it being
+      embedded into their spinal cords. (It is different for Ryk'k. His is
+      simply floating inside his slug-like body) They can get them destroyed the
+      same way that a Slaadi's can be destroyed.
+
+
+      :end of quest
+
+*** Let the Games Begin
+
+    In order to get to Kelczar, they must pay the Kelczarian guard 50g. This
+    will guarantee them save travel to the major city. Otherwise, they would
+    have to try and get there themselves and they would die in the desert.
+
+    The trip to the major city, Balckyeti, will take about 9 days of travel. The
+    guy will take you and give you all the food you need for the trip.
+
+
+    As promised, the trip will be safe. We can skip over this part, but here is
+    a description:
+
+    To the east you see a beautiful ocean. The waves a full and the water is
+    blue. You can smell the salt water from where you are. To the west, you see
+    nothing but sand. For miles and miles, flat sand. The sand is a bright
+    yellow and looking at it is almost as bad as looking forward due to the
+    sun's brightness. The sun beating down on you is starting to make you weak
+    as you walk, but the Kelczarian guide has provided you with plenty of water
+    to stay hydrated.
+
+    --------------------------------------
+
+    After the 9 day trip, you arrive in an amazing city. The buildings are HUGE!
+    You've never seen anything like this before. They are all made out of some
+    sandstone or something, but each have their own unique style. The smaller
+    buildings are square and the larger ones are rectangular. Then, you see a
+    giant palace of sorts. It has a huge set of stairs that led up to a palace
+    thing. The top palace has pillars holding it up and on top are very odd
+    ornament shaped things. The guide takes you up the stairs.
+
+    After a long travel up the stairs, there are 2 guards wearing fancy
+    armor. They are wearing breastplates, armored skirt-like things, armored
+    sandals, and turbans. Their weapons are some kind of spear with very unique
+    tips on them. You are not sure what exactly they are. One of them asks:
+
+    "Who are these people?"
+
+    Guide: "These folks would like to speak with the Queen."
+
+    Guard: "What about?"
+
+    Guide: "A quest. They are in search of rare coins"
+
+    Guard: "Indeed. Ahaharia! Come here!"
+
+    Another guard in the same attire comes.
+
+    Ahaharia: "Yes, Alijam?"
+
+    Alijam: "Ask the Queen if she is willing to talking with some travelers."
+
+    Ahaharia: "Yes."
+
+    And he leaves.
+
+
+    A few minutes later, he returns and says that she /is/ willing.
+
+    Alijam: "Very well. You may leave now, they will follow us. (said to the
+    guide) Follow us, travelers."
+
+    --------------------------------------
+
+    You are taken inside the palace. The inside is just as beautiful as the
+    outside. The walls are constructed of the same material as the outside. The
+    floor has a bright red rug that travels all the way down the hallway. At the
+    end of the hallway, there are 2 large doors. The guard opens them and in a
+    large room sits a queen on a golden thrown that is up on a tier of
+    sorts. There are 2 others with her. She is wearing a purple dress, with
+    golden laced sandals, a golden belt, golden gauntlets, and a bunch of other
+    golden jewelry including rings, bracelets, necklaces, and a tiara-like head
+    necklace that is around her forehead. She looks as if she is human, but her
+    eyes of that of a snake and her tongue is that of a snake. The others on the
+    lower tiers look similar, except one is male. Inside the room are a mixture
+    of other things. Along the side walls are 6 guards (3 on each side). They
+    are standing in front of what look like doorways but there are just walls
+    there. Behind you are 2 more guards. The guards themselves are not human. In
+    fact, they are 100% snake-like. The queen then speaks:
+
+    She speaks in a snake-like whisper:
+
+    "Greetings travelers, how are you doing on this fine day?"
+
+    "I am Queen Ahkilah. I rule the lands of Kelczar. Welcome. What is it that
+    you were looking for?"
+
+    "Oh, I see. Coins. I believe we have a large quantity of coins. However,
+    they are not for sale."
+
+    The queen will basically try to get them to go away and that they cannot do
+    anything for her to give them to her.
+
+    If they say anything rude to her or try to attack her, the guards will
+    spring into action.
+
+    If they leave, they will have to pay another guide to take them back to
+    Lum'is or they can try and steal the coins.
+
+
+    Whenever they do something to piss off the government (and they will, just
+    for being foreigners that aren't with a guide) they will be attacked by the
+    guards, 6 of them to be exact. Use the Yuan-Ti Abomination as the guards,
+    except they will have spear with petrifaction tips. On a successful attack
+    roll, the target must roll a Constitution saving throw >13 or become
+    petrified.
+
+    --------------------------------------
+
+    You will awake in a strange room. The walls are decorated with fancy gylphs
+    and other golden artwork. The ground is the same sandstone from the rest of
+    the damn place. Looking up, you realize that you're in a very deep hole. It
+    looks as though you're a mile underground... You also notice all your stuff
+    is gone.
+
+    The next thing you realize is that Ryk'k is missing but there is another
+    person in the hole with you. A small creature, sitting on the floor with a
+    hood over its head. It speaks:
+
+    "I think I remember you fellas... And I bet you'll remember me too."
+
+    He removes his hood to reveal that it's Wart!!
+
+    If they ask how he got down here:
+
+    "Well, it's a long story. However, I was planning on stealing something
+    very important to the Kelczarians. Needless to say, I was caught. Normally,
+    I would have been able to kill the guards but they've got balls of steel and
+    some wicked *Petrifaction Tips*."
+
+    If they ask what those are:
+
+    "Petrifaction tips are a special tip that they put on their spears. It uses
+    some special chemical that the fucking Kelczarians created. They realized
+    that they suck at metal working, but they're great with drugs and
+    chemicals. So they made that shit. I'd love to get a hold of some but that's
+    risking it."
+
+    If they ask about what is gonna happen or something similar:
+
+    "Kelczarians are sick mother fuckers. They like to eat each other and
+    shit. But one thing that they like to do is watch people get ripped to
+    shreds. So, they build this grandiose fucking coliseum so they can watch
+    people get killed. That's basically where we are going."
+
+    "Last time I checked, they just got a new Hydra... They bought the fuckin
+    thing for like a handful of Solidaria... Goddam morals, so stupid."
+
+    If they ask about Solidaria:
+
+    "Solidaria is a drug. A very very bad drug. The drug allows you to remain
+    "high" for days at a time. You see, you can't digest solidaria. I don't
+    know of any creature that can. So it sits in you stomach and poisons you
+    until you shit it out. The problem is that it's highly addictive *and*
+    slowly kills you. It's one of the most expensive drugs on the market and
+    people will do *anything* for it."
+
+    If they ask how long they'll be down there:
+
+    "Could be as long as a month. It depends on how long it takes for the word
+    to get out. They've gotta tell every fucker in the Kelczarian territory
+    about it. It's like a goddam holiday for them."
+
+
+    They will be down there for approximately 2 months. They will be fed by
+    falling food that they drop down. During this time they can choose to do all
+    sorts of things. Let them pick and make something nice happen.
+
+    --------------------------------------
+
+    Two months later...
+
+    --------------------------------------
+
+    to be continued...
