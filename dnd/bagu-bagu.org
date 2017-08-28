@@ -1,4 +1,4 @@
-#+TITLE: Bagu-Bagu No Mi (Kysu)
+#+TITLE: Bagu-Bagu No Mi (Kysu Bolom)
 
 * Basics
 	Lvl: 1
@@ -12,9 +12,9 @@
 
 	XP: 0 (300)
 
-	HP:
+	HP: 9
 	Temp HP:
-	AC: 10
+	AC: 12
 	Speed: 20
 	Initiative:
 	Proficiency Bonus: 2
@@ -23,21 +23,25 @@
 	Inspiration:
 	Death:
 
+  Senses:
+    - Dark vision: 60ft
+    - Blindsight: 10ft
+
 * Ability Scores
-	STR:
-	DEX:
-	CON:
-	INT:
-	WIS:
-	CHA:
+	STR: 9 (-1)
+	DEX: 11 (+0)
+	CON: 12 (+1)
+	INT: 19 (+4)
+	WIS: 12 (+1)
+	CHA: 18 (+4)
 
 * Saving Throws
-		STR:
-		DEX:
-		CON:
-		INT: *
-		WIS:
-		CHA: *
+		STR: -1
+		DEX: 0
+		CON: +1
+		INT: +6 *
+		WIS: +1
+		CHA: +6 *
 
 * Skills
 	Acrobatics (Dex)
@@ -90,20 +94,70 @@
   - 1d6 + str mod
   - Proficient
 
+
+  Dagger:
+  - Piercing
+  - 1d4 + str mod
+  - Proficient
+
 * Spells
   If his Crumhorn is cursed using the No Mi item curse, he can spellcast. Otherwise, he is unable to
   perform any spells. His spellcasting will follow bard rules.
 
+** Cantrips
+   - Mage Hand
+   - Message
+
 * Items
-  - Heralism kit
-  - Note
+  - Heralism Kit
+  - Notes
   - Blanket
   - Common Clothes
+  - Studded Leather
+  - Battle Crumhorn
+  - Dagger
+  - Portable Hive of Swamp Mud Wasps (SMWs)
+    - SMWs are an advanced construction wasp that don't have a super powerful
+      bite, but are very reliable. Kysu likes them due to their loyalty towards
+      him and their constructive abilities with a pollen-infused mud. Kysu can
+      use them as a weapon in battle, and they will act like a conjured
+      monster. See [[Swarm of Wasps][Swarm of Wasps]]
 
 
   Money:
   - GP: 5
 
+** Swarm of Wasps
+  - AC: 13
+  - HP: 22
+  - Speed: 20ft, climb 20ft
+  - Ability Scores:
+    - STR: 3 (-4)
+    - DEX: 13 (+1)
+    - CON: 10 (0)
+    - INT: 1 (-5)
+    - WIS: 7 (-2)
+    - CHA: 1 (-5)
+  - Pro Bonus: +2
+  - Damage Resistances: bludgeoning, piercing, slashing
+  - Condition Immunities: charmed, frightened, grappled, paralyzed, petrified,
+    prone, restrained, stunned
+  - Senses: blindsight 10 ft., passive Perception 8
+  - Feats:
+    - Swarm: The swarm can occupy another creature's space and vice versa, and the
+    swarm can move through any opening large enough for a Tiny insect. The swarm
+    can't regain hit points or gain temporary hit points until returned to the
+    hive.
+
+  - Attacks:
+    - Bites: Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the
+      swarm's space. Hit: 4d4 piercing damage, or 5 (2d4) piercing damage
+      if the swarm has half of its hit points or fewer.
+
+    - Stings: Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the
+      swarm's space. Hit: 2d10 piercing damage, or 1d10 piercing damage if the
+      swarm has half of its hit points or fewer. The target must roll a CON save
+      or become poisoned by the swarm's stings.
 * Backstory
   Kysu was born in the city of Lum'is by a bard of the Lum'is army (father) and an
   intellectual of the order (mother). His early childhood was spent learning the

@@ -8,14 +8,14 @@
 	- Status: Friend
 ** Port Santus
 *** Topiz
-		- Status: Friend
+		- Status:
 		- Description: Part owner of Port Santus. He is the older brother of
       Tally'an and does most of the decision making for the port. He knows a lot
       about the people that come in and out of the port because he talks to
       mostly everyone.
 
 *** Tally'an
-		- Status: Friend
+		- Status:
 		- Description: Part owner of Port Santus. He is the younger brother of
       Topiz. He manages most of the employees and works found in the port; these
       include the workers that helped the players dock. He knows a lot about the
@@ -23,7 +23,7 @@
 
 ** City of Lum'is
 *** King Lum'is
-		- Status: Friend
+		- Status:
 		- Description: The King of Lum'is. He rules all of that which is Lum'is
       territory. He is actually the 12th king of the area and is very much liked
 			among the population. He is know to be quite giving, especially to those
@@ -38,7 +38,7 @@
       rings on.
 
 *** Town Yeller
-		- Status: Friend, but doesn't like them that due to their rudeness.
+		- Status:
 		- Description: The Town Yeller's job is to literally yell so that all people
       in the City of Lum'is know the news. He works directly for the king and it
       paid by him. The news that he spews is usually fairly important.
@@ -47,7 +47,7 @@
       doesn't have a clock around his neck.
 
 *** The Priest of Lum'is
-		- Status: Indifferent
+		- Status:
 		- Description: The Priest of Lum'is was actually a warrior in his younger
       years. However, he was grown old and cannot fight anymore. He spends his
       days blessing people and writing sermons on whatever the hell he believes
@@ -60,7 +60,7 @@
       through some rough shit. His hands say the same.
 
 *** Horse Farmer
-		- Status: Enemy
+		- Status:
 		- Description: The farmer owns the Lum'is horse farm. According to him he
       has the fastest horses on the continent. There really isn't much to say
       about this guy because that is literally all he does.
@@ -69,13 +69,13 @@
       however).
 
 *** Farmer's Daughter
-		- Status: Indifferent
+		- Status:
 		- Description: The daughter is a secret agent of The Wicked and worships
       him. There isn't much else about her right now. She will show up again,
       however.
 
 *** Bushuma
-		- Status: Thinks Draugh is crazy, indifferent towards Ivar
+		- Status:
 		- Description: The owner of Pu'in's House of Booze. She named the house
       after her *missing brother*, whom got lost after being *sent to Port Santus*
       *for a quest.* If you return her brother you will complete the sub-quest
@@ -88,14 +88,12 @@
 
 ** Lum'is Swamp
 *** Charcoln
-		- Status: Friend
+		- Status:
 		- Description: Charcoln is a profession runecrafter. He owns a mine hidden
       deep in the Lum'is swamps and spends most of his time crafting and
       studying the art that is runes. He is also a devoted member of the Lum'is
       church. The adventurers will find out later on that he is actually an
       extremely dangerous rune master and wrote a lot of rune-casted spells.
-*** Ryk'k
-		You have to befriend him technically.
 *** Mysterious Voice (Aluhu)
 		- Status: Enemy
 		- Description: A mysterious voice. They will find no physical body.
