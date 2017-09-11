@@ -72,16 +72,19 @@
       who is in need of some help."
 		- Topiz will shoot the shit with them until Tally'an gets back.
 		- Tally'an returns and whispers in the ear of Topiz. Topiz will then say
-      "Alrighty, are ye well rested? The man with quest is the king of
-      Lum'is. He rules these lands. His castle is found that way (pointing east)
-      and takes about 3 days of travel to get there."
-		- If they aren't, they can stay in the inn. For some reason, it'll be free.
-
-
-		If they don't ask for a quest, they will say something like "good luck,
-		enjoy your stay"
+      "Alrighty, the man with quest is the king of Lum'is. He rules these
+      lands. His castle is found that way (pointing east) and takes about 3 days
+      of travel to get there. We outta rest up before we head out! Take the day
+      off, walk around town, and enjoy the weather. You can stay in the inn for
+      the evening, gratis. We will embark to Lum'is at dawn."
 
 		--------------------------------------
+
+    Once awake then next morning, they must find Topiz and Tally'an. They'll be
+    outside packing somethings into their backpacks.
+
+    Topiz: "We will be your guides to Lum'is! Do not worry, it is a safe
+    journey. If you have any questions, feel free to ask 'em!"
 
 		They begin their journey by going directly east of the port. They enter a
 		very wooded area and are walking on a very neat and clean looking dirt
@@ -142,16 +145,16 @@
 	 Going left into the city, you notice there are a lot of people around
 	 here. It's quite noisy. Not to mention, there is this idiot on a stump right
 	 outside of the blacksmith's place screaming about something. He is saying:
-	 "Come one come all..." then you stop listening. You are now standing in front
-	 of the opening to the castle. Behind you is a bridge that takes you over a
-	 decently sized creek. The bridge is made out of the same stone as the
-	 castle and every other goddam thing in this town... If you were to continue
-	 going east, you would go deeper into the City of Lum'is. It's not huge and it
-	 looks very mundane. The only thing that caught your eye was the church that
-	 stood higher than most of the buildings. You also notice a group of buildings
-	 that looks very different from rest. They are constructed entirely of wood
-	 and stand taller than the others. These are obvious inns. There are about 4
-	 of them all in a row.
+	 "War, war, and more war! The thousand year war continues!" then you stop
+	 listening. You are now standing in front of the opening to the castle. Behind
+	 you is a bridge that takes you over a decently sized creek. The bridge is
+	 made out of the same stone as the castle and every other goddam thing in this
+	 town... If you were to continue going east, you would go deeper into the City
+	 of Lum'is. It's not huge and it looks very mundane. The only thing that
+	 caught your eye was the church that stood higher than most of the
+	 buildings. You also notice a group of buildings that looks very different
+	 from rest. They are constructed entirely of wood and stand taller than the
+	 others. These are obvious inns. There are about 4 of them all in a row.
 
 	 --------------------------------------
 
