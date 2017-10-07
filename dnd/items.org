@@ -28,12 +28,12 @@
 		| Flatbread        | 1cp   |     15 | Good for sandwiches! Mold after 1 month          |
 		| Hunk of Cheese   | 1sp   |      5 | Good on sandwiches! Molds after 1 week           |
 		| Hunk of Meat     | 3sp   |      5 | Good on sandwiches! (see more below)             |
-		| Bag of Seeds     | 5cp   |      3 | Very good for you, can give you benefits         |
+		| Bag of Seeds     | 5cp   |      2 | Very good for you, can give you benefits         |
 		| Bag of Mushrooms | 6cp   |      1 | Probably outta know what your doing...           |
 		| Can of Worms     | 1sp   |      1 | Why is this so expensive?                        |
-		| Food Ration      | 5sp   |     10 |                                                  |
+		| Food Ration      | 5sp   |      1 |                                                  |
 		| Cram Ration      | 3sp   |     10 | A cheaper, less tasty food ration                |
-		| Tripe Ration     | 8cp   |      3 | A very very cheap, very gross food ration        |
+		| Tripe Ration     | 8cp   |      2 | A very very cheap, very gross food ration        |
 
 		If you buy bread, cheese, and meat you can craft a sandwich with it. You can
 		use this as a meal /and/ you'll get a free inspiration die (1d4)!

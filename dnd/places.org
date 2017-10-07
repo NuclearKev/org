@@ -46,45 +46,99 @@
 			- You cannot tell what this building is
 
 *** First Encounter Scene
-		The two fancy gentlemen are *Topiz* and *Tally'an* the owners of the port and
-		port town. They are both dressed in a similar fashion, *Topiz* wearing a
-		purple coat with a white fluffy ascot and straight brown trousers and
-		*Tally'an* wearing a brown vest with a white shirt under and similar brown
-		trousers. Topiz is smoking from a pipe and has no facial hear or hat on. In
-		fact, he is completely bald. Tally'an has a goteè and is wearing a brown flat
-		cap.
+    They awake when they roll >10.
 
-		Upon meeting them Topiz will say in a Scottish-like accent:
-		"Welcome ye travelers! Welcome to Port Santus, the biggest port in all the
-		lands! Let us help ye get settled!"
+    They awake in some sort of room, on a very comfy bed. There is a window
+		where light from outside is shining in, lighting up the room entirely. If
+		they know anything, they determine that it's morning. All of their weapons,
+		armor, and napsack is neatly piled on the floor and their clothes folded
+		nicely on the dresser. Other than that, there is nothing else that stick out
+		besides that it looks like it is an extremely well kept place.
 
-		**orders crew to help**
+    Once downstairs, a woman that is well dressed in a plain colored dress
+    behind a counter of sorts says confusedly:
+    "Who are you? I don't remember renting a room to you last night."
 
-		After they are settled:
+    Whatever happens, happens.
 
-		Tally'an: (also Scottish yet slight deeper than Topiz) "Greetings travelers,
-		I am Tally'an and this is me brother Topiz. We own this port. What have ye
-		docked for?"
+    Either way, 2 gentlemen, both in their 40s, will walk into the inn after a
+    few minutes of talking. One is bald with a gotee and the other wears a flat
+    cap with no facial hair. Both are dressed very nicely, both wearing brown
+    kilts and vests with a white ascot puffing out in center chest. The bald one
+    will say in a Scottish accent:
 
-		If they say something about looking for a quest:
-		- Both men will look at each other and Tally'an will say: "I'll be right
-      back, I need to take a look at something. I believe that I know someone
-      who is in need of some help."
-		- Topiz will shoot the shit with them until Tally'an gets back.
-		- Tally'an returns and whispers in the ear of Topiz. Topiz will then say
-      "Alrighty, the man with quest is the king of Lum'is. He rules these
-      lands. His castle is found that way (pointing east) and takes about 3 days
-      of travel to get there. We outta rest up before we head out! Take the day
-      off, walk around town, and enjoy the weather. You can stay in the inn for
-      the evening, gratis. We will embark to Lum'is at dawn."
+    "Tesican, it is okay. These ones have been paid for in full for 1 night."
+
+    "Okay, she says, how was your -"
+
+    The bald one: "I'm sure their stay was fine!"
+
+    You hear the woman hiccup from being interrupted and she shuts her month.
+
+    Bald: "I am Topez. And this is my brother Tally'an. I do believe it would be
+    of best interest to discuss in private."
+
+    if they aren't all up:
+    Tally'an: "Bruv, shundnt thar be more em?"
+
+    Topez: "Yes, the deposit was for 5, we shall wait for the rest. Tasican, let
+    our /friends/ know that we are waiting for them in the dinning room."
+
+
+    otherwise:
+
+    Topez: "Follow us, /friends./"
+
+
+    Upon leaving the inn they are hit with a waft of sea air. Only about 100
+    yards away, there is a /huge/ dock and an endless sea. The dock has about 5
+    ships docked, but looks like it could hold 20.
+
+    As they continue to follow them, they see that there are about 5 buildings
+    that are facing the sea and behind them a small village. One of those
+    buildings facing the sea is a mansion of sorts. That is where they are
+    heading.
 
 		--------------------------------------
 
-    Once awake then next morning, they must find Topiz and Tally'an. They'll be
-    outside packing somethings into their backpacks.
+    Once inside:
 
-    Topiz: "We will be your guides to Lum'is! Do not worry, it is a safe
-    journey. If you have any questions, feel free to ask 'em!"
+    Tally'an: "Could I getcha sumpin ta drink?"
+
+    Yeah yeah...
+
+    Topez: "I'll have some of that Nexlus Ale, the one imported from
+    Catherby... Let us get into this discussion shall we?"
+
+    He leans in closer and says in a serious tone: "You've all been brought here
+    for a reason. Do you happen to know what that reason is?"
+
+    reply
+
+    Topez: "Me either. However, I do know that there was a prophecy about 5
+    persons bringing peace to the lands of Guthex. Maybe you are the ones, maybe
+    not. We will find out soon enough. In order to see if you are the ones, we
+    must first find out if you are capable. That being said, we will -"
+
+    At that moment, Tally'an will walk in saying: "I gotcha drinks, mates!"
+
+    He will hand them out.
+
+    Topez: "Thanks, brother. *gulp gulp* Ahhh, anyways, where was I... Oh yeah!
+    We will send you on a mission to the King. He will put you to the test. Any
+    queries?"
+
+    Improvise!
+
+    Topez: "Right. Let you begin your journey! All you must do is taken the
+    eastern trail for 3 days. You will run directly into the main city of
+    Lum'is."
+
+    Tally'an: "Bruv, should we give em advice about the Dracons?"
+
+    Topez: "If they are the prophecies, they won't need help. No advice!"
+
+    --------------------------------------
 
 		They begin their journey by going directly east of the port. They enter a
 		very wooded area and are walking on a very neat and clean looking dirt

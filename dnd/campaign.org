@@ -252,54 +252,54 @@
 		The battle going on there is very boring though, it's mostly just guards
 		standing around waiting for something to happen.
 ** Nation of the South
-		There are some third parties in the war that aren't really apart of the 5
-		main nations, however, they do cause some issues that you should be aware
-		of. In the South-Western tip of the map, you will see a mixture of places
-		such as *The Gnome Village*, Yandille, and *The Orge Village* (these places
-		are /much/ larger than villages, yet they are called villages). These places
-		are listed as *Nations of the South* and don't fight for any one group. It
-		is said that the Gnomes and Orges fight together against anyone who is apart
-		of /any/ of the nations. Basically, they want to keep the Nations of the
-		South as third party as possible and won't even let members of /any/ of the
-		nations pass.
+	 There are some third parties in the war that aren't really apart of the 5
+	 main nations, however, they do cause some issues that you should be aware
+	 of. In the South-Western tip of the map, you will see a mixture of places
+	 such as *The Gnome Village*, Yandille, and *The Orge Village* (these places
+	 are /much/ larger than villages, yet they are called villages). These places
+	 are listed as *Nations of the South* and don't fight for any one group. It
+	 is said that the Gnomes and Orges fight together against anyone who is apart
+	 of /any/ of the nations. Basically, they want to keep the Nations of the
+	 South as third party as possible and won't even let members of /any/ of the
+	 nations pass.
 
-		You're probably wonder: "Why don't we just lie?" My reply is: "Why don't you
-		just die?"
+	 You're probably wonder: "Why don't we just lie?" My reply is: "Why don't you
+	 just die?"
 
 ** Island Nations
-		The islands that are near this world are pretty much out of the
-		loop. Crandor is an island created by a *Dark Wizard*, Qufar is basically a
-		volcano island with strange indigenous creatures, and Kirja is a great place
-		for vacation if you worship Satan.
+	 The islands that are near this world are pretty much out of the
+	 loop. Crandor is an island created by a *Dark Wizard*, Qufar is basically a
+	 volcano island with strange indigenous creatures, and Kirja is a great place
+	 for vacation if you worship Satan.
 
-		None of these places have any respect for anyone associated with one of the
-		nations at war. First off, there really isn't any reason to go to Crandor or
-		Qufar. Kirja is known for some exotic items and is home to *The Devils'*
-		*Circle*. If you want to meet Satan/Lucifer himself, go there!
+	 None of these places have any respect for anyone associated with one of the
+	 nations at war. First off, there really isn't any reason to go to Crandor or
+	 Qufar. Kirja is known for some exotic items and is home to *The Devils'*
+	 *Circle*. If you want to meet Satan/Lucifer himself, go there!
 
-		The indigenous tribes of Kirja will attempt to sacrifice you to Satan if you
-		are apart of one of the nations.
+	 The indigenous tribes of Kirja will attempt to sacrifice you to Satan if you
+	 are apart of one of the nations.
 
-		You're probably wondering: "Why don't we lie?" My reply: "You can always
-		try."
+	 You're probably wondering: "Why don't we lie?" My reply: "You can always
+	 try."
 
 ** Unlist Towns/Cities/Villages
-		Any unlisted places are considered "safe zones" from the nations. Anyone of
-		any nation can go into these places because they are neutral (different from
-		third party). For example, Lum'is, Catherby, Port Santus, Edgeville,
-		Yandille, Goblin Town, No man's land, etc.
+	 Any unlisted places are considered "safe zones" from the nations. Anyone of
+	 any nation can go into these places because they are neutral (different from
+	 third party). For example, Lum'is, Catherby, Port Santus, Edgeville,
+	 Yandille, Goblin Town, No man's land, etc.
 
-		There are some places that are not safe but are still safe in terms of
-		the nations at war. For example, *The Black Knights' Fortress*, *Trolls
-		Mountain*, *The Monastery*, and *Sand Peoples' Village*.
+	 There are some places that are not safe but are still safe in terms of
+	 the nations at war. For example, *The Black Knights' Fortress*, *Trolls
+	 Mountain*, *The Monastery*, and *Sand Peoples' Village*.
 
 ** Who's fighting who again?
-		Argougnian <-> Rellekka
-		Rellekka   <-> Falendrone
-		Falendrone <-> Vet'ric
-		Vet'ric    <-> Kelczar
-		Gnomes/Orges -> All
-		Kirja Tribes -> All
+	 Argougnian <-> Rellekka
+	 Rellekka   <-> Falendrone
+	 Falendrone <-> Vet'ric
+	 Vet'ric    <-> Kelczar
+	 Gnomes/Orges -> All
+	 Kirja Tribes -> All
 
 * Story
 	This section will contain information on the stories that can be done in the
@@ -395,6 +395,8 @@
 	 King: "Ahh yes, the box."
 	 "Take a fancy at that! What is it? Well, it's a box. The quest... open it."
 
+   STOPPED HERE
+
 	 The box is some kind of grey metal, very hard metal. None of them can figure
 	 out what it's made out of (no it isn't vibranium). There is no lock. Nothing
 	 but little holes (pin sized) all over. If they speak to the box, nothing
@@ -409,9 +411,9 @@
 
 
 	 They can ask all they want but they won't find anything interesting unless
-	 they talk to the town yeller or the priest. If they talk to the town yeller,
-	 they will get an extra quest, however, they won't need to spend an entire
-	 week waiting for the man to shown up to church.
+	 they talk to the Saville, the craftsman, or the priest. If they talk to the
+   Saville, they will get an extra quest, however, they won't need to spend
+	 an entire week waiting for the man to shown up to church.
 
 *** Town Yeller
 		The Town Yeller will be outside of the Lum'is Castle spewing off information
@@ -843,8 +845,7 @@
 
 		 If they leave, they safe. If not, roll an initiative.
 
-		 There are 3 specters. During the battle, specifically after 3 rounds Ryk'k
-		 will out of his hiding from the hallway and help.
+		 There are 3 specters.
 
 		 If they defeat them very easily, they will hear the voice again: "I
 		 see. You fools wish to die on my property? I hope you all enjoy an endless
@@ -878,6 +879,16 @@
 
 		 "This, is an uncrafted rune! I take this back to me workshop and craft it
 		 into many runes that can be used for magic. Now, let us go back."
+
+     --------------------------------------
+
+     When they exit the mine, have everyone roll an investigation and if anyone
+     gets above 15, they will notice a man hiding behind a tree about 60ft
+     away.
+
+     Once they notice him he will hide behind the tree.
+
+     It's Kysu: Just improvise.
 
 		 :end of quest:
 ** Port Santus Mystery
@@ -925,7 +936,7 @@
    technically they don't have to do anything there."
 
    Tally'an: "If you guys succeed, with you probably won't, I want to see the
-   head of that bitch!"
+   ed of that bitch!"
 
    Once the conversation ends, they can go on the quest!
 
@@ -1297,7 +1308,7 @@
    Lum'is, are not allowed to enter their territory. Nor is anyone associated
    with the Dracon Clan allowed to enter our royal territory. It was one of the
    rules of the deal made way back then. However, *you* all are not associated
-   with anyone! So, I need you to find out whether what is up with the
+   with anyone! So, I need you to find out what is up with the
    Dracons. Do you accept this quest?"
 
 
@@ -1307,7 +1318,7 @@
    If no, he will try and cox them into it.
 
    If yes to the promise, "Good! I must warn you, however, the Dracons do not
-   like visitors... Be careful.... Oh yeah! I almost forgot! You cannot enter
+   Like visitors... Be careful.... Oh yeah! I almost forgot! You cannot enter
    the Dracons /manor/ unless you have 2 items: a death coin and a blood
    coin. Both of these are needed! You will be attacked otherwise. Now, the
    only problem is that we don't have any... In fact, the only place that I know
@@ -1318,7 +1329,7 @@
    any fights while there, for you will surely meet your doom...... Good luck!"
 
 
-   One they are ready, "Guards, Squire, etc., come in!"
+   Once they are ready, "Guards, Squire, etc., come in!"
 
 
    **They come back**
@@ -2121,3 +2132,4 @@
     --------------------------------------
 
     to be continued...
+** Spies of Dracon

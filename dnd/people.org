@@ -7,21 +7,36 @@
 * Lum'is
 	- Status: Friend
 ** Port Santus
+   - Status: Enemy
 *** Topiz
-		- Status:
+		- Status: Enemy
 		- Description: Part owner of Port Santus. He is the older brother of
       Tally'an and does most of the decision making for the port. He knows a lot
       about the people that come in and out of the port because he talks to
       mostly everyone.
 
 *** Tally'an
-		- Status:
+		- Status: Not a fan
 		- Description: Part owner of Port Santus. He is the younger brother of
       Topiz. He manages most of the employees and works found in the port; these
       include the workers that helped the players dock. He knows a lot about the
       items that come through the port, since his crew unloads most of it.
 
+*** Hagred
+    - Status: Enemy
+    - Description: This guy wants them dead. He used to be a famous pirate known
+      as Hagred The One Arm. He ate the Wonga Wonga No Mi which severed his left
+      arm but made his other one extremely strong.
+
+*** Bakers
+    - Status: Hated
+    - Description: The kid was jailed by them.
+
 ** City of Lum'is
+*** Lord Dracon
+    - Status: Friend
+    - Description: Lord of the vampires.
+
 *** King Lum'is
 		- Status:
 		- Description: The King of Lum'is. He rules all of that which is Lum'is
