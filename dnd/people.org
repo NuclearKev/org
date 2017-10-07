@@ -25,7 +25,7 @@
 *** Hagred
     - Status: Enemy
     - Description: This guy wants them dead. He used to be a famous pirate known
-      as Hagred The One Arm. He ate the Wonga Wonga No Mi which severed his left
+      as Hagred The One Arm. He ate the Tsuyoi Tsuyoi No Mi which severed his left
       arm but made his other one extremely strong.
 
 *** Bakers
@@ -35,10 +35,15 @@
 ** City of Lum'is
 *** Lord Dracon
     - Status: Friend
-    - Description: Lord of the vampires.
+    - Description: Lord of the vampires. He wears a black cloak that come up
+      pasts his head. Underneath the cloak is formal wear, a purple suit coat
+      that is always buttoned, a puffy ascot-like thing some out of the top
+      under his neck, and black trousers. His face is palm and chiseled. His
+      hair black and slicked backwards. He talks in a very calm manner and
+      never raises his voice.
 
 *** King Lum'is
-		- Status:
+		- Status: Friend
 		- Description: The King of Lum'is. He rules all of that which is Lum'is
       territory. He is actually the 12th king of the area and is very much liked
 			among the population. He is know to be quite giving, especially to those
@@ -51,6 +56,15 @@
       groomed brown beard. He is wearing a kingly robe that has a white fluffy
       part around the edge and a red middle. He also has an assortment of fancy
       rings on.
+
+*** Saville
+    - Status:
+    - Description: Saville is a sewer/craftsmen for the Lum'is public. There
+      isn't much else to tell about him except that he is a member of the Secret
+      Society.
+    - Appearance: Saville wears brown trousers, a brown vest, and a white
+      shirt. He wears large glasses and is very old. He is balding on the top
+      and has very little gray hair. He does have a gray mustache, however.
 
 *** Town Yeller
 		- Status:
@@ -109,9 +123,14 @@
       studying the art that is runes. He is also a devoted member of the Lum'is
       church. The adventurers will find out later on that he is actually an
       extremely dangerous rune master and wrote a lot of rune-casted spells.
+*** Kysu
+    - Status:
+    - Description: See character sheet.
+
 *** Mysterious Voice (Aluhu)
 		- Status: Enemy
 		- Description: A mysterious voice. They will find no physical body.
+
 ** Lum'is Island
 *** Gury
 		- Status: None
@@ -123,6 +142,9 @@
 		- Status: None
 		- Description: Yohimius is a very close friend of Gury's who is currently
       watching over his house while he is away.
+    - Appearance: Yohimius has a hunched back and wears tattered clothes. In
+      fact, he looks homeless. However, his speech is very good and doesn't
+      match his appearance. He has one eye that is swollen shut.
 
 *** Tizcar
 		- Status: None
@@ -134,6 +156,7 @@
       has a purple fluffy part that comes out of the chest part. He is also
       wearing a large white turban. He has a pointy black gote beard and has
       brown skin.
+
 * Underground River
 ** Kuo-Toa Ruled Regions
    - Status: None

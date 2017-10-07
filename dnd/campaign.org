@@ -395,7 +395,7 @@
 	 King: "Ahh yes, the box."
 	 "Take a fancy at that! What is it? Well, it's a box. The quest... open it."
 
-   STOPPED HERE
+   !!STOPPED HERE!!
 
 	 The box is some kind of grey metal, very hard metal. None of them can figure
 	 out what it's made out of (no it isn't vibranium). There is no lock. Nothing
@@ -415,11 +415,9 @@
    Saville, they will get an extra quest, however, they won't need to spend
 	 an entire week waiting for the man to shown up to church.
 
-*** Town Yeller
-		The Town Yeller will be outside of the Lum'is Castle spewing off information
-		about the newest most important news. When they meet him he is yelling:
-		"Come one, come all, see the pin board! It has all the info ya need! Quests,
-		news, politics, etc! All in once place!"
+*** Mailmen
+    Saville will be hard at work in the shop, sewing away. If they ask him about
+    a box that cannot be opened:
 
 		Whence they go up to him:
 		"A box that doesn't open ye say? .... Hmmm, yes.... Sounds like... Yes. Aha!
@@ -429,15 +427,15 @@
 		Once they get excited and ask whom this is he will say:
 		"Hahaha, well, here's the thing... You're in the /media/ center of the
 		continent. That information isn't going to be cheap! I've gotta make my
-		money gentlemen. Do you really think standing on a stump screaming all day
-		makes me any money? Anyways, give me ehhh 10g and I'll tell you."
+		money gentlemen. Do you really think crafting trinkets and sewing people's pants
+		makes me any money? Anyways, give me ehhh 20g and I'll tell you."
 
 		If they deny, which they should:
 		"Well, I've got another idea. Ya see, I have a message for someone. And I
 		need it to be transferred to them. I'd do it myself /but/ that means I lose
-		commission for standing on this stump. But I really need this message send."
+		multiple days worth of customers. But I really need this message send."
 
-		"It needs to go to a farm located right outside the walls of Vet'ric. Don't
+		"It needs to go to a farm located about 4 days from Vet'ric. Don't
 		worry it's safe because that's still technically part of the Lum'is forest!
 		All ye gotta do is travel about 3 days down that (pointing north)
 		road. That's called the media trail, a safe trail for reporters and
