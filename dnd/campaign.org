@@ -1273,8 +1273,92 @@
     The place will *not* fall until they are out. However, it will fall if they
     leave people behind. Once the party is out, the entire cellar will collapse.
 
+    At the last second, something jumps out of the cellar waaaay up high into
+    the air. In comes back down and lands on the ground with a loud thud. Dust
+    is everywhere, so you cannot tell what it is. One the dust clears, you see
+    that it is another Minotaur. Except, this one is HUGE! Like twice the size
+    of the others! It is also holding a very large pickaxe.
+
+    It speaks:
+    "Okay, here's the deal. Let me go free or I smash every last one of ya
+    *horse noise*"
+
+    In the middle of them talking back it, they're interrupted:
+
+    Wart: "Minotaur, that's no way to talk to your saviors... with a loud thud. Dust
+    is everywhere, so you cannot tell what it is. One the dust clears, you see
+    that it is another Minotaur. Except, this one is HUGE! Like twice the size
+    of the others! It is also holding a very large pickaxe.
+
+    It speaks:
+    "Okay, here's the deal. Let me go free or I smash every last one of ya
+    *horse noise*"
+
+    In the middle of their reply, they are interrupted:
+
+    Wart: "Minotaur, that's no way to talk to your saviors..."
+
+    They turn around and it's Wart!!
+
+    Mino: "Wart? Is that you!?"
+
+    Wart: "Aye. Listen fellas, leave this guy alone. He doesn't want any
+    trouble. Minotaur, have you sensed it?"
+
+    Mino: "Aye."
+
+    Wart: "Then you know what this means. We must get the others."
+
+    Mino: "Okay, let's go!"
+
+    Wart: "Of course you'd say that... You know as well as I, we can't just go
+    roaming about! Whenever we do that, we end up getting enslaved, killed, or
+    locked away. I've been following these few for a few days and I think they
+    might be of use."
+
+    Mino: "How do we know we can trust them?"
+
+    "Well, it's the only chance we've got. Listen up you all, there is something
+    terrible about to happen. Something worse than any of you can
+    imagine. However, I can't give you the detail because I don't even know
+    them. All I know is that we must find our other friends. We are the only
+    ones able to stop what is going to happen. You see, Minotaur and I were
+    created by the devil himself. The devil created us to be used as weapons for
+    whatever reason. However, he made us with one fatal flaw, freewill unless
+    being directly controlled. In order to stop whatever he has planned, we must
+    be the others."
+
+    Wart still: "There are 25 of us total."
+
+    Wart still: "Sadly, I have no idea where the others are. But whoever we find
+    next has to be someone by the name Magi. He is crucial to the success of
+    this. You see, Magi is an advance teleporter and is able to teleport anyone,
+    anywhere, at any time. He is the only one who has access to the island of
+    Qufar, the safeheaven. Qufar is an island that is impossible to get to
+    without teleporting. Well, that isn't entirely true. You can technically get
+    there by taken an exit somewhere in the Dungeon of Doom. However, no one has
+    ever found that exit before. Anyways, are you guys in? The world is in your
+    hands."
+
+    Wart will basically not let them say no. Once they agree:
+    "Good. Minotaur will you hide in this forest until we return with Magi?"
+
+    Mino: "Yes. What if someone tries to capture me?"
+
+    Wart: "Don't let them. Minotaur, I give you permission to use your full
+    power on anyone who stands in your way."
+
+    Mino: "Y-Yessir!"
+
+    "I hope you all don't mind if I tag along in your adventures for a little
+    bit. We must find Magi and I'm the only one who he'll listen to."
+
+    *Wart joins the party!
+
+    *They start the quest [[Find the Cursed!]]
+
     :end
-** Slaves of Dracon
+** Secrets of Dracon
    Whenever the adventurers return to the king for their next quest, they will
    see this scene:
 
@@ -1961,7 +2045,7 @@
     will guarantee them save travel to the major city. Otherwise, they would
     have to try and get there themselves and they would die in the desert.
 
-    The trip to the major city, Balckyeti, will take about 9 days of travel. The
+    The trip to the major city, Balckyeti, will take about 3 weeks of travel. The
     guy will take you and give you all the food you need for the trip.
 
 
@@ -1978,50 +2062,95 @@
 
     --------------------------------------
 
-    After the 9 day trip, you arrive in an amazing city. The buildings are HUGE!
+    After the trip, you arrive in an amazing city. The buildings are HUGE!
     You've never seen anything like this before. They are all made out of some
     sandstone or something, but each have their own unique style. The smaller
     buildings are square and the larger ones are rectangular. Then, you see a
     giant palace of sorts. It has a huge set of stairs that led up to a palace
     thing. The top palace has pillars holding it up and on top are very odd
-    ornament shaped things. The guide takes you up the stairs.
+    ornament shaped things. Once you've taken in the surroundings, the guide
+    will say:
+
+    "Here we are, the city of Belinlah. Whenever you need to go back, just go
+    over to that large stable and ask one of the guides." *he points to a large
+    stable, made out of the same material as everything else in this damn place.
+
+    "Also, I'd recommend you don't stay here very long. Most of the locals don't
+    like having tourists around. So do what you need to do and get out of
+    here. One last thing: That large temple is the temple of the sub-Queen
+    Ahkilah. Unless you were sent by her, don't talk to her. She isn't a fan of
+    low-lifes talking to her. That is pretty much it. Enjoy."
+
+    The city is quite large but it seems like most of the buildings around here
+    are just house and there don't seem to be very many shops.
+
+    As they walk around, they notice that there aren't any people like them
+    around. Everyone is of a different race (with a history check > 17, they
+    will notice that they are of the race Yuan-Ti [specifically most people are
+    purebloods, which are somewhat human]). Everyone is also giving you all an
+    odd glare. Watching your every move.
+
+    If they attempt to talk to anyone, they will be insulted with words such as
+    plebeian, scum, worthless, etc. They aren't very friendly or welcoming.
+
+    After some time, they might find a shop, however, the shopkeeper will stop
+    them at the door and say "Your kind isn't welcome here. Leave now."
+
+    There are only a few people that they can talk to in order to get
+    information about the coins: the sub-queen, the guides, and someone on the
+    outskirts of town called Diaab.
+
+    --------------------------------------
+    If they find Diaab, he will welcome them into his home:
+
+    "Hello, hello, travelers! Here come inside, quickly before anyone seessss you!"
+
+    *he will rush to get everyone into the small house as quickly as possible.
+
+    "Welcome to the city of Belinlah! I am Diaab, the official cloud reporter
+    for the Weather Advisory. That's fancy for 'I stare at the sky all day.'
+    Anywayssss, what bringssss you all here? You better have a good reason, this
+    is not a safe place for people whom aren't Kelczarian."
+
+    If they talk about the coins, Diaab will explain:
+
+    "Ah, I have heard of said coinssss. They are a currency, of sorts. Some very
+    lucrative businesses use them as sort of a currency for service. You don't
+    'pay' with them, you use them to get the attention of someone in the
+    business. I will not ask why you need these coins but you won't be able to
+    get any here unless you're under the orders of the rulers. What I mean is
+    that the Kelczarian royal family keeps a very tight lease on these
+    coins. They invented the use of them many years ago back when they became
+    leaders in the underground drug business. Anyways, the only way you'll be
+    able to get coins in Kelczar is by gaining trust from the royal family or
+    finding someone who is working for the royal family and stealing or buying
+    the coins off them."
+
+    Diaab doesn't know how to find who works for the royal family nor does he
+    know how to gain trust.
+
+    "I am sorry I cannot help you much, however, I do know that sub-queen
+    Ahkilah is not a happy person and would surely kill you all if she found out
+    about your presence here."
+
+    --------------------------------------
+
+    If they walk around the city too much, 2, more snake-like, guards will
+    approach you and ask you, surprisingly politely: "Will you few come with us?
+    The sub-queen has ask to see you. Do not worry, she is in a good mood."
 
     After a long travel up the stairs, there are 2 guards wearing fancy
     armor. They are wearing breastplates, armored skirt-like things, armored
     sandals, and turbans. Their weapons are some kind of spear with very unique
-    tips on them. You are not sure what exactly they are. One of them asks:
-
-    "Who are these people?"
-
-    Guide: "These folks would like to speak with the Queen."
-
-    Guard: "What about?"
-
-    Guide: "A quest. They are in search of rare coins"
-
-    Guard: "Indeed. Ahaharia! Come here!"
-
-    Another guard in the same attire comes.
-
-    Ahaharia: "Yes, Alijam?"
-
-    Alijam: "Ask the Queen if she is willing to talking with some travelers."
-
-    Ahaharia: "Yes."
-
-    And he leaves.
-
-
-    A few minutes later, he returns and says that she /is/ willing.
-
-    Alijam: "Very well. You may leave now, they will follow us. (said to the
-    guide) Follow us, travelers."
+    tips on them. You are not sure what exactly they are. They are blocking the
+    entrance by holding their spears in an X form. Once you get close enough,
+    they move the spears and you all enter.
 
     --------------------------------------
 
     You are taken inside the palace. The inside is just as beautiful as the
     outside. The walls are constructed of the same material as the outside. The
-    floor has a bright red rug that travels all the way down the hallway. At the
+    floor has a white rug that travels all the way down the hallway. At the
     end of the hallway, there are 2 large doors. The guard opens them and in a
     large room sits a queen on a golden thrown that is up on a tier of
     sorts. There are 2 others with her. She is wearing a purple dress, with
@@ -2037,30 +2166,31 @@
 
     She speaks in a snake-like whisper:
 
-    "Greetings travelers, how are you doing on this fine day?"
+    "Greetings travelers, I am Queen Ahkilah. I rule this city. Welcome. What is
+    it that you were looking for?"
 
-    "I am Queen Ahkilah. I rule the lands of Kelczar. Welcome. What is it that
-    you were looking for?"
+    She will cut them off is they ask how she knows that they were looking.
 
-    "Oh, I see. Coins. I believe we have a large quantity of coins. However,
-    they are not for sale."
-
-    The queen will basically try to get them to go away and that they cannot do
-    anything for her to give them to her.
+    "- Don't ask how I know that. I rule this city and I know what every person
+    is saying and thinking. Anyways, you cannot have any coins. Those coins are
+    not for scum like you to be playing with. Whatever your intent is, forget
+    about it."
 
     If they say anything rude to her or try to attack her, the guards will
     spring into action.
 
-    If they leave, they will have to pay another guide to take them back to
-    Lum'is or they can try and steal the coins.
+    If they attempt to leave, they will notice that the guards behind them have
+    formed an X with their spears.
 
+    "You may not leave. You are not welcome here. If you think I would let
+    worthless scum wonder around polluting my city, you has me mistaken. You
+    will all die. Guards, please show these losers the power of Kelczar."
 
-    Whenever they do something to piss off the government (and they will, just
-    for being foreigners that aren't with a guide) they will be attacked by the
-    guards, 6 of them to be exact. Use the Yuan-Ti Abomination as the guards,
-    except they will have spear with petrifaction tips. On a successful attack
-    roll, the target must roll a Constitution saving throw >13 or become
-    petrified.
+    The guards will attack, yes, all 8 of them.
+
+    Use the Yuan-Ti Abomination as the guards, except they will have spear with
+    petrifaction tips. On a successful attack roll, the target must roll a
+    Constitution saving throw >16 or become petrified.
 
     --------------------------------------
 
@@ -2070,7 +2200,7 @@
     looks as though you're a mile underground... You also notice all your stuff
     is gone.
 
-    The next thing you realize is that Ryk'k is missing but there is another
+<>    The next thing you realize is that Ryk'k is missing but there is another
     person in the hole with you. A small creature, sitting on the floor with a
     hood over its head. It speaks:
 
@@ -2197,3 +2327,5 @@
    - Potion of Bat Polymorph
    - Ring of Undead Control
    - Pocket Coffen (Like a bag of holding but a coffen)
+** Find the Cursed!
+   In this heading, I will list the locations of the rest of the cursed group.

@@ -1,4 +1,4 @@
-#+TITLE: People and Relationships
++TITLE: People and Relationships
 # this file contains information on the important people they run into. It will
 # contain information on the current status (friend or foe), what they are, and
 # if anything is happening with them. This will also show whether or not the
@@ -167,3 +167,27 @@
    - Status: Enemy
    - Description: These regions are ruled by the Slaadi peoples. They will deem
      you an enemy by default.
+* Kelczar
+** Guides
+   - Status: Always friends unless personally attacked or offended
+   - Description: They all do the same thing: Guide people from Lum'is to the
+     first Kelczarian city, Belinlah.
+** Belinlah
+*** Diaab
+    - Status: Friend
+    - Description: Diaab is a random guy that is found in the outskirts of the
+      city. He doesn't really do much, except watch for clouds. If a cloud is
+      found, he is to report directly to the Weather Advisory. They use a spell
+      to extract water from the clouds (because, science.). This is literally
+      all Diaab does.
+    - Appearance: Diaab's appearance is similar to the rest of the city. He has
+      green snake eyes, has some scaly skin in certain areas, and wheres the
+      tradition white robe and turban that everyone else seems to be wearing.
+*** Ahkilah
+    - Status: Enemy
+    - Description: The sub-queen of Belinlah. She rules over the city with an
+      iron fist. Anyone who she doesn't like is usually forced to kill
+      themselves as by the Kelczarian tradition of self suicide. She is the
+      lowest person of royalty in the Kelczarian nation but is usually the one
+      who finds the most people to put in the Colosseum.
+    - Appearance: Described in campaign
