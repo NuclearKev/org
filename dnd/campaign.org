@@ -395,8 +395,6 @@
 	 King: "Ahh yes, the box."
 	 "Take a fancy at that! What is it? Well, it's a box. The quest... open it."
 
-   !!STOPPED HERE!!
-
 	 The box is some kind of grey metal, very hard metal. None of them can figure
 	 out what it's made out of (no it isn't vibranium). There is no lock. Nothing
 	 but little holes (pin sized) all over. If they speak to the box, nothing
@@ -607,6 +605,7 @@
 		- Now they wait many days before Sunday... Once Sunday, continue on with the
       rest of this documentation.
 
+    !ENDED HERE!
 
 		The church is filled with people! The priest is giving a sermon
 		about... yeah, you guys couldn't care less so you don't actually listen.
@@ -2329,3 +2328,9 @@
    - Pocket Coffen (Like a bag of holding but a coffen)
 ** Find the Cursed!
    In this heading, I will list the locations of the rest of the cursed group.
+
+*** Magi
+    Magi is a member of an advanced magic society called the Master Magic
+    Users. They are located outside of Vet'ric, about 2 days from the main city
+    walls. It is a large tower where professional magic users go to study
+    magic. Magi is one of the members in this area.

@@ -354,12 +354,6 @@
 
 		They only have one type of room and that costs 2gp per night. They also have
 		a diner and it costs 8sp per meal.
-
-** Lum'is Swamp
-   There aren't any real notable places in the swamp except Charcoln's house,
-   the rune cave, the Kuo-Toa's Village, and one entrance to the Dungeon of Doom.
-
-** Lum'is Island
 * Underground River
   The underground river contains no stores. There are civilizations of Kuo-Toas,
   Slaads, and Umber Hulks, although, they have no stores.
