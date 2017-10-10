@@ -607,6 +607,7 @@
 
     !ENDED HERE!
 
+    After they wait for Sunday:
 		The church is filled with people! The priest is giving a sermon
 		about... yeah, you guys couldn't care less so you don't actually listen.
 
@@ -627,10 +628,7 @@
 
 		Charcoln:
 		**in a menacingly deep voice**
-		"Good morning sirs. Isn't it a great day to be alive and worship the
-		almighty power of our Creator?"
-
-		Once again, I hope they say yes. If no, they better have a good reason.
+		"Good morning sirs. How are you all today?"
 
 		After explaining the question:
 		"Hmm, yes. I think I know exactly what you need. Follow me."
@@ -639,6 +637,39 @@
 		mean it. I'm talking like about 4 *hours* later, you reach a very small
 		hut that sits on top of a small bank. There isn't even a road to the
 		hut. Just swampland. He says to wait outside.
+
+    He turns around and notices that someone knew is with them:
+    "Who the hell are you?" (pointing to Cornelius)
+
+    Corn: "I'm Cornelius. Who are you?"
+
+    # ignore the next line; smartparens was acting up
+    "
+
+    Char: "How long have you been here?"
+
+    "Since we left town..."
+
+    *talking at the group
+    "Do you know this guy?"
+
+    *they answer*
+
+    "Then what are you doing here?"
+
+    "I heard you guys were sent on a mission by the king and I've been wanting
+    to go on an adventure. So I tagged along!"
+
+    "You didn't think about asking us? or like lettings us know?"
+
+    "Sometimes the smell for adventure just takes you over!"
+
+    "Well... I don't really care if you come along. I guess it's up to these
+    people."
+
+
+    If they don't think that he is capable, he will show them his orb powers!
+
 
 		He will come out with a book and read from it:
 		"Force Open/Close: 2 mind runes, 2 air runes, a key that has been grind to
@@ -2199,14 +2230,9 @@
     looks as though you're a mile underground... You also notice all your stuff
     is gone.
 
-<>    The next thing you realize is that Ryk'k is missing but there is another
-    person in the hole with you. A small creature, sitting on the floor with a
-    hood over its head. It speaks:
 
-    "I think I remember you fellas... And I bet you'll remember me too."
-
-    He removes his hood to reveal that it's Wart!!
-
+    The following needs rewritten:
+    ##
     If they ask how he got down here:
 
     "Well, it's a long story. However, I was planning on stealing something
@@ -2252,6 +2278,7 @@
     falling food that they drop down. During this time they can choose to do all
     sorts of things. Let them pick and make something nice happen.
 
+    ##
     --------------------------------------
 
     Two months later...
@@ -2259,6 +2286,7 @@
     --------------------------------------
 
     to be continued...
+
 ** Spies of Dracon
    The premise of this quest is to basically find out information about the
    underground business that is going on in the Lum'is kingdom. Lord Dracon has
@@ -2313,7 +2341,8 @@
    - Wand of Force Bolt
    - Wand of Necro Bolt
    - Wand of Blink
-   - Wand of Uncharge
+   - Wand of Uncharged
+   - Book of Undead
    - Nerco Enchantment on 1 item
    - Blood Enchantment on 1 item
    - Fang Blade
@@ -2325,7 +2354,8 @@
    - Potion of Undead Turn
    - Potion of Bat Polymorph
    - Ring of Undead Control
-   - Pocket Coffen (Like a bag of holding but a coffen)
+   - Pocket Coffin (Like a bag of holding but a coffin)
+
 ** Find the Cursed!
    In this heading, I will list the locations of the rest of the cursed group.
 
@@ -2333,4 +2363,4 @@
     Magi is a member of an advanced magic society called the Master Magic
     Users. They are located outside of Vet'ric, about 2 days from the main city
     walls. It is a large tower where professional magic users go to study
-    magic. Magi is one of the members in this area.
+    magic. Magi is one of the members in this area

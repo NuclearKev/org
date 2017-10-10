@@ -1,0 +1,244 @@
+#+TITLE: Bagu-Bagu No Mi (Kysu Bolom)
+
+* Basics
+	Lvl: 1
+	Class: Ex-bard / No Mi / Insect Master
+	Background: Hermit (Nature and Investigation instead of medicine and religion)
+	Race: Half-bug (majority human)
+	Languages: Common, Insect, Gnomish
+	Alignment: Neutral
+  Age: 22
+  Hair: Short brown hair, clean shaven
+
+	XP: 0 (300)
+
+	HP: 9
+	Temp HP:
+	AC: 12
+	Speed: 20
+	Initiative:
+	Proficiency Bonus: 2
+	Hit Die: 1d8 per level (# 4 : used 0)
+
+	Inspiration:
+	Death:
+
+  Senses:
+    - Dark vision: 60ft
+    - Blindsight: 10ft
+
+* Ability Scores
+	STR: 9 (-1)
+	DEX: 11 (+0)
+	CON: 12 (+1)
+	INT: 19 (+4)
+	WIS: 12 (+1)
+	CHA: 18 (+4)
+
+* Saving Throws
+		STR: -1
+		DEX: 0
+		CON: +1
+		INT: +6 *
+		WIS: +1
+		CHA: +6 *
+
+* Skills
+	Acrobatics (Dex)
+	Animal handling (Wis)
+	Arcana (Int)
+	Athletics (Str)
+	Deception (Cha) *
+	History (Int) *
+	Insight (Wis)
+	Intimidation (Cha)
+	Investigation (Int) *
+	Medicine (Wis)
+	Nature (Int) *
+	Perception (Wis)
+	Performance (Cha)
+	Persuasion (Cha) *
+	Religion (Int)
+	Sleight of hand (Dex)
+	Stealth (Dex)
+	Survival (Wis)
+
+* No Mi Feats
+** Compound eyes
+   His eyes are compounded. This gives him dark vision up to 60ft and he cannot
+   be blinded. However, his eyesight isn't very good and can't see things very
+   far away.
+
+** Insect Smell
+   He is able to smell things some very very very far away. In fact, he can
+   smell things up to ~4 miles away!
+
+** Taste Touch
+   He is able to "taste" things with his touch. Although this sounds gross, it
+   is slightly different from tasting with the mouth. This ability allows him to
+   detect if a substrate is eatable or not without the risk of poisoning. It can
+   also be used to see if someone has been in a certain area before, even if it
+   has been hours since them being there.
+
+** Magically Sterile
+   Due to the curse of the No Mi, he is unable to perform *anything*
+   magical. This includes scrolls, wands, runes, etc. However, if he gets an
+   item that has been cursed to him by the No Mi Item Curse, he can use that
+   item as it he wasn't cursed. If the item that is cursed can be used as spell
+   casting focus, he can then cast spells with it.
+
+** Swim Cancellation
+   For some unknown reason, No Mi make the user very sensitive to being
+   submerged in water. They will lose all ability to move and will most likely
+   drown.
+
+* Attacks
+  Battle Crumhorn:
+  - Bludgeoning
+  - 1d6 + str mod
+  - Proficient
+
+
+  Dagger:
+  - Piercing
+  - 1d4 + str mod
+  - Proficient
+
+* Spells
+  If his Crumhorn is cursed using the No Mi item curse, he can spellcast. Otherwise, he is unable to
+  perform any spells. His spellcasting will follow bard rules.
+
+** Cantrips
+   - Mage Hand
+   - Message
+
+* Items
+  - Heralism Kit
+  - Notes
+  - Blanket
+  - Common Clothes
+  - Studded Leather
+  - Battle Crumhorn
+  - Dagger
+  - Portable Hive of Swamp Mud Wasps (SMWs)
+    - SMWs are an advanced construction wasp that don't have a super powerful
+      bite, but are very reliable. Kysu likes them due to their loyalty towards
+      him and their constructive abilities with a pollen-infused mud. Kysu can
+      use them as a weapon in battle, and they will act like a conjured
+      monster. See [[Swarm of Wasps][Swarm of Wasps]]
+
+
+  Money:
+  - GP: 5
+
+** Swarm of Wasps
+  - AC: 13
+  - HP: 22
+  - Speed: 20ft, climb 20ft
+  - Ability Scores:
+    - STR: 3 (-4)
+    - DEX: 13 (+1)
+    - CON: 10 (0)
+    - INT: 1 (-5)
+    - WIS: 7 (-2)
+    - CHA: 1 (-5)
+  - Pro Bonus: +2
+  - Damage Resistances: bludgeoning, piercing, slashing
+  - Condition Immunities: charmed, frightened, grappled, paralyzed, petrified,
+    prone, restrained, stunned
+  - Senses: blindsight 10 ft., passive Perception 8
+  - Feats:
+    - Swarm: The swarm can occupy another creature's space and vice versa, and the
+    swarm can move through any opening large enough for a Tiny insect. The swarm
+    can't regain hit points or gain temporary hit points until returned to the
+    hive.
+
+  - Attacks:
+    - Bites: Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the
+      swarm's space. Hit: 4d4 piercing damage, or 5 (2d4) piercing damage
+      if the swarm has half of its hit points or fewer.
+
+    - Stings: Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the
+      swarm's space. Hit: 2d10 piercing damage, or 1d10 piercing damage if the
+      swarm has half of its hit points or fewer. The target must roll a CON save
+      or become poisoned by the swarm's stings.
+* Backstory
+  Kysu was born in the city of Lum'is by a bard of the Lum'is army (father) and an
+  intellectual of the order (mother). His early childhood was spent learning the
+  art of music from his father. Although he didn't learn much, he was able to
+  perform basic (level 1) bardic spells such as bardic inspiration. Around the
+  age of 9, his father was sent to war and he was left in the hand (she only had
+  1 arm) of his mother. She enrolled him into the educational program for the
+  Lum'is kingdom, where he studied to become a mathematician. Kysu was at the
+  top of his class and was looked up to by many of his peers.
+
+  When Kysu was 11, the Lum'is army had found a magical fruit called a No Mi. In
+  order to teach all the people of Lum'is, the kind decided to show everyone the
+  fruit and told them all to never ever get involved with them. They are
+  extremely illegal and you will be killed just for having one. If you eat one,
+  you will become extremely dangerous and most likely killed immediately without
+  trial.
+
+  While the kids in the educational program were being shown this fruit, Kysu
+  couldn't help but have an extreme attachment towards the fruit. Just looking
+  at it made him salivate. For whatever reason, he *had* to eat it. Later that
+  night, he sneaked into the king's hidden chamber and ate the fruit. He fell to
+  the ground in agony. It felt like his insides were on fire! The pain was so
+  great that he passed out.
+
+  He awoke a few hours later in a daze. He sat up and looked around, confused
+  where he was. After a few minutes, he realized he was still in the king's
+  hidden chamber and needed to leave immediately. However, something was
+  bothering him. His vision seemed to have changed... The world seemed -
+  different. He also began to smell something. It smelled delicious! He realized
+  that this smell was coming from the king's private kitchen, which was very far
+  away and there was no way that he could be smelling it from where he was. He
+  shook it off and began to get up. Right has he placed his hands on the floor
+  to assist in getting off the floor, he has a strange sensation in his hands! A
+  new sense? It also was like he could /taste/ the floor! Very disturbed from
+  this he got up and began to head for the door. Right as he got to the door he
+  smelt the scent of someone coming. In a panic he attempted to hide. However,
+  it was no use and the guard found him.
+
+  He was brought directly to the king. The king said angrily: "What is your
+  name, child?" To which Kysu replied nervously: "Kysu, your majesty." The
+  king's booming voice instilling fear into Kysu said: "Kysu! The boy which whom
+  betrayed the Lum'is Kingdom! Where you not told to not touch the fruit?" "Yes,
+  your majesty, I was told" "Then why did you do such an act?!" "I do not know,
+  your majesty. The fruit was calling my name!" "Calling your name? I've never
+  heard of a fruit /calling/ someones name! Child, what you have done is
+  punishable by death, however, I will let you go on one condition." "What is
+  that, your majesty?" "You shall be banished to the swamps of Lum'is for the
+  rest of your days. For if you return to Lum'is, you will be tried and hanged
+  from the gallows!" Kysu noticed something at that very moment. He said
+  /tried/. That means he /could/ win and not be killed! "Your majesty, what if I
+  win the trial?" "Hahaha! If you win the trial, you will be free to live in
+  Lum'is. But I don't foresee that happening..." "You underestimate me, your
+  majesty." "I assume that is a challenge? How dare you challenge the king!" "It
+  is a challenge, my lord, and I will win!" "Guards, take this scum to his new
+  home!" As the guards were dragging him out, the king said: "I have a feeling
+  we will meet again, Kysu. I accept your challenge."
+
+  From that day on, Kysu remained a hermit in the swamps of Lum'is. During this
+  time, he began to master his abilities. He was able to speak with insects and
+  as a direct result, created a small town called Entrup, meaning "A safe city
+  for bugs" in insect (converted to common). This town was full of all kinds of
+  bugs; ants, bees, and beetles lived here without worry. He also became friends
+  will all of the insects throughout the swamp. He used his ability to learn
+  about all types of insects. In fact, he was able to use the insects to spy on
+  Lum'is. He used insects to checkup on his mother and the rest of the town.
+
+  Many years pasted and Kysu had remained in the same place doing the same
+  thing. Until one day, a Giant Acid-Spitting Fly returned from Lum'is with some
+  shocking news about a strange person doing business in the castle with one of
+  the chiefs. Intrigued, Kysu ordered all insects to be on the watch for
+  this. During this time, Kysu also began using his insects to eradicate crime
+  in Lum'is. Most notably, the use of a giant moth species called Mothmen. The
+  citizens of Lum'is were both afraid of the Mothman (they believed there was
+  only one) and grateful. The mothmen were able to protect the people of the
+  town from the villains that were secretly getting in.
+
+  We meet Kysu at the age of 22 while in the heat of his search for answers! He
+  was informed that there was an odd group of outsiders that had entered the
+  city and talked with the king. In fact, they were in search of /runes/! That
+  means they would most likely be coming to see Charcoln! Kysu awaits for them.

@@ -126,6 +126,12 @@
 *** Kysu
     - Status:
     - Description: See character sheet.
+    - NOTE: He will not be joining the group. However he can be used to get
+      intel on Lum'is for the Dracons
+
+*** Cornelius
+    - Status: Friend
+    - Description: See character sheet
 
 *** Mysterious Voice (Aluhu)
 		- Status: Enemy
